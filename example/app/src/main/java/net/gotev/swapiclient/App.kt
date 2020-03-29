@@ -12,6 +12,5 @@ class App : Application() {
         super.onCreate()
 
         initializeSwapiClient(this)
-        swapiClient.character("https://swapi.co/api/people/1/")
     }
 }
