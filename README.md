@@ -1,6 +1,8 @@
 # SWAPI SDK
 [SWAPI.co](https://swapi.co/) Kotlin Client for Android
 
+[Download Demo App](https://github.com/gotev/swapi-android/releases/download/1.0.0/app-debug.apk)
+
 ## Technology Stack
 - Kotlin + Coroutines
 - OkHttp 4
