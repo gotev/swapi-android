@@ -1,0 +1,30 @@
+#!/bin/bash -e
+
+FETCHED_DIR="fetched"
+
+function fetch {
+  echo "fetching $1 ..."
+
+  for pageNumber in `seq 1 $2`
+  do
+    page="https://swapi.co/api/$1/?page=${pageNumber}"
+    echo "  $page"
+    file_name="${FETCHED_DIR}/${1}_page${pageNumber}.json"
+    curl -s -L "$page" -o /tmp/swapifetch
+    python -m json.tool /tmp/swapifetch > "$file_name"
+    rm -rf /tmp/swapifetch
+  done
+}
+
+rm -rf "$FETCHED_DIR"
+mkdir "$FETCHED_DIR"
+
+fetch "starships" "4"
+fetch "people" "9"
+fetch "planets" "7"
+fetch "films" "1"
+fetch "species" "4"
+fetch "vehicles" "4"
+
+echo
+echo "Fetching DONE!"

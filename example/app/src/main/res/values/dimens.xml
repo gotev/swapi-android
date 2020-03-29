@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin_half">8dp</dimen>
+    <dimen name="match_constraint">0dp</dimen>
+    <dimen name="outer_padding">4dp</dimen>
+    <dimen name="title">16sp</dimen>
+    <dimen name="internal_padding">8dp</dimen>
+
+    <dimen name="title_top_padding">24dp</dimen>
+    <dimen name="title_bottom_padding">8dp</dimen>
+    <dimen name="title_left_padding">16dp</dimen>
+</resources>

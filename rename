@@ -1,0 +1,88 @@
+#!/bin/bash
+echo -e "\nGitHub username:"
+read github_user
+
+echo -e "\nGitHub repository name:"
+read github_repo
+
+echo -e "\nMaintainer full name:"
+read maintainer
+
+echo -e "\nLibrary name (without spaces. E.g. base-library). This is also the Maven Artifact ID:"
+read lib_name
+
+echo -e "\nLibrary description:"
+read lib_description
+
+echo -e "\nLibrary package (e.g. net.gotev.baselibrary):"
+read lib_package_name
+
+echo -e "\nLibrary project group (e.g. net.gotev):"
+read lib_project_group
+
+echo -e "\nDemo App package (e.g. net.gotev.baselibrarydemo):"
+read demoapp_package_name
+
+echo -e "\nDemo App Label (e.g. Base Library Demo)"
+read demoapp_label
+
+function rename {
+    echo "renaming $1 to $2"
+    grep -rl "$1" . --exclude-dir=.gradle --exclude-dir=build --exclude-dir=.git | grep -v "./rename" | xargs sed -i '' -e "s/$1/$2/g"
+}
+
+rename "GITHUB_USER" "${github_user}"
+rename "GITHUB_REPOSITORY_NAME" "${github_repo}"
+rename "Android Base Library Template" "${github_repo}"
+rename "MAINTAINER_FULL_NAME" "${maintainer}"
+rename "LIBRARY_NAME" "${lib_name}"
+rename "LIBRARY_DESCRIPTION" "${lib_description}"
+rename "net.gotev.baselibrarydemo" "${demoapp_package_name}"
+rename "net.gotev.baselibrary" "${lib_package_name}"
+rename "LIBRARY_PROJECT_GROUP" "${lib_project_group}"
+rename "Base Library Demo" "${demoapp_label}"
+
+LIB_PACKAGE_DIRECTORIES="${lib_package_name//\.//}"
+DEMOAPP_PACKAGE_DIRECTORIES="${demoapp_package_name//\.//}"
+CURDIR=$(pwd)
+
+function move_package {
+    mkdir -p "$2"
+    mv -v "${1}/"* "${2}/"
+}
+
+cd "$CURDIR"
+cd library/src/main/java/
+move_package "net/gotev/baselibrary" "$LIB_PACKAGE_DIRECTORIES"
+
+cd "$CURDIR"
+cd library/src/test/java/
+move_package "net/gotev/baselibrary" "$LIB_PACKAGE_DIRECTORIES"
+
+cd "$CURDIR"
+cd library/src/androidTest/java/
+move_package "net/gotev/baselibrary" "$LIB_PACKAGE_DIRECTORIES"
+
+cd "$CURDIR"
+mkdir "${lib_name}"
+mv -v library/* "${lib_name}"
+rm -rf library
+
+rename ":library" ":${lib_name}"
+rename "\.\.\/library" "\.\.\/${lib_name}"
+
+cd "$CURDIR"
+cd example/app/src/main/java/
+move_package "net/gotev/baselibrarydemo" "$DEMOAPP_PACKAGE_DIRECTORIES"
+
+cd "$CURDIR"
+cd example/app/src/test/java/
+move_package "net/gotev/baselibrarydemo" "$DEMOAPP_PACKAGE_DIRECTORIES"
+
+cd "$CURDIR"
+cd example/app/src/androidTest/java/
+move_package "net/gotev/baselibrarydemo" "$DEMOAPP_PACKAGE_DIRECTORIES"
+
+cd "$CURDIR"
+find . -type d -empty -delete
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/title"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:ellipsize="end"
+    android:gravity="start"
+    android:maxLines="1"
+    android:paddingTop="@dimen/title_top_padding"
+    android:paddingBottom="@dimen/title_bottom_padding"
+    android:paddingStart="@dimen/title_left_padding"
+    android:paddingEnd="@dimen/title_left_padding"
+    android:textColor="@color/colorPrimaryDark"
+    android:textSize="22sp"
+    tools:text="Some title" />

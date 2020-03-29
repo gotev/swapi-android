@@ -1,0 +1,3 @@
+include ':app'
+include ':swapi-sdk'
+project(':swapi-sdk').projectDir = file('../swapi-sdk')

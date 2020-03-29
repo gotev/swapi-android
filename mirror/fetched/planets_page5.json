@@ -1,0 +1,186 @@
+{
+    "count": 61,
+    "next": "https://swapi.co/api/planets/?page=6",
+    "previous": "https://swapi.co/api/planets/?page=4",
+    "results": [
+        {
+            "climate": "temperate",
+            "created": "2014-12-20T10:12:28.980000Z",
+            "diameter": "10120",
+            "edited": "2014-12-20T20:58:18.491000Z",
+            "films": [],
+            "gravity": "0.98",
+            "name": "Haruun Kal",
+            "orbital_period": "383",
+            "population": "705300",
+            "residents": [
+                "https://swapi.co/api/people/51/"
+            ],
+            "rotation_period": "25",
+            "surface_water": "unknown",
+            "terrain": "toxic cloudsea, plateaus, volcanoes",
+            "url": "https://swapi.co/api/planets/42/"
+        },
+        {
+            "climate": "temperate",
+            "created": "2014-12-20T10:14:48.178000Z",
+            "diameter": "unknown",
+            "edited": "2014-12-20T20:58:18.493000Z",
+            "films": [],
+            "gravity": "1",
+            "name": "Cerea",
+            "orbital_period": "386",
+            "population": "450000000",
+            "residents": [
+                "https://swapi.co/api/people/52/"
+            ],
+            "rotation_period": "27",
+            "surface_water": "20",
+            "terrain": "verdant",
+            "url": "https://swapi.co/api/planets/43/"
+        },
+        {
+            "climate": "tropical, temperate",
+            "created": "2014-12-20T10:18:26.110000Z",
+            "diameter": "15600",
+            "edited": "2014-12-20T20:58:18.495000Z",
+            "films": [],
+            "gravity": "1",
+            "name": "Glee Anselm",
+            "orbital_period": "206",
+            "population": "500000000",
+            "residents": [
+                "https://swapi.co/api/people/53/"
+            ],
+            "rotation_period": "33",
+            "surface_water": "80",
+            "terrain": "lakes, islands, swamps, seas",
+            "url": "https://swapi.co/api/planets/44/"
+        },
+        {
+            "climate": "unknown",
+            "created": "2014-12-20T10:26:05.788000Z",
+            "diameter": "unknown",
+            "edited": "2014-12-20T20:58:18.497000Z",
+            "films": [],
+            "gravity": "unknown",
+            "name": "Iridonia",
+            "orbital_period": "413",
+            "population": "unknown",
+            "residents": [
+                "https://swapi.co/api/people/54/"
+            ],
+            "rotation_period": "29",
+            "surface_water": "unknown",
+            "terrain": "rocky canyons, acid pools",
+            "url": "https://swapi.co/api/planets/45/"
+        },
+        {
+            "climate": "unknown",
+            "created": "2014-12-20T10:28:31.117000Z",
+            "diameter": "unknown",
+            "edited": "2014-12-20T20:58:18.498000Z",
+            "films": [],
+            "gravity": "unknown",
+            "name": "Tholoth",
+            "orbital_period": "unknown",
+            "population": "unknown",
+            "residents": [],
+            "rotation_period": "unknown",
+            "surface_water": "unknown",
+            "terrain": "unknown",
+            "url": "https://swapi.co/api/planets/46/"
+        },
+        {
+            "climate": "arid, rocky, windy",
+            "created": "2014-12-20T10:31:32.413000Z",
+            "diameter": "unknown",
+            "edited": "2014-12-20T20:58:18.500000Z",
+            "films": [],
+            "gravity": "1",
+            "name": "Iktotch",
+            "orbital_period": "481",
+            "population": "unknown",
+            "residents": [
+                "https://swapi.co/api/people/56/"
+            ],
+            "rotation_period": "22",
+            "surface_water": "unknown",
+            "terrain": "rocky",
+            "url": "https://swapi.co/api/planets/47/"
+        },
+        {
+            "climate": "unknown",
+            "created": "2014-12-20T10:34:08.249000Z",
+            "diameter": "unknown",
+            "edited": "2014-12-20T20:58:18.502000Z",
+            "films": [],
+            "gravity": "unknown",
+            "name": "Quermia",
+            "orbital_period": "unknown",
+            "population": "unknown",
+            "residents": [
+                "https://swapi.co/api/people/57/"
+            ],
+            "rotation_period": "unknown",
+            "surface_water": "unknown",
+            "terrain": "unknown",
+            "url": "https://swapi.co/api/planets/48/"
+        },
+        {
+            "climate": "temperate",
+            "created": "2014-12-20T10:48:36.141000Z",
+            "diameter": "13400",
+            "edited": "2014-12-20T20:58:18.504000Z",
+            "films": [],
+            "gravity": "1",
+            "name": "Dorin",
+            "orbital_period": "409",
+            "population": "unknown",
+            "residents": [
+                "https://swapi.co/api/people/58/"
+            ],
+            "rotation_period": "22",
+            "surface_water": "unknown",
+            "terrain": "unknown",
+            "url": "https://swapi.co/api/planets/49/"
+        },
+        {
+            "climate": "temperate",
+            "created": "2014-12-20T10:52:51.524000Z",
+            "diameter": "unknown",
+            "edited": "2014-12-20T20:58:18.506000Z",
+            "films": [],
+            "gravity": "1",
+            "name": "Champala",
+            "orbital_period": "318",
+            "population": "3500000000",
+            "residents": [
+                "https://swapi.co/api/people/59/"
+            ],
+            "rotation_period": "27",
+            "surface_water": "unknown",
+            "terrain": "oceans, rainforests, plateaus",
+            "url": "https://swapi.co/api/planets/50/"
+        },
+        {
+            "climate": "unknown",
+            "created": "2014-12-20T16:44:46.318000Z",
+            "diameter": "unknown",
+            "edited": "2014-12-20T20:58:18.508000Z",
+            "films": [],
+            "gravity": "unknown",
+            "name": "Mirial",
+            "orbital_period": "unknown",
+            "population": "unknown",
+            "residents": [
+                "https://swapi.co/api/people/64/",
+                "https://swapi.co/api/people/65/"
+            ],
+            "rotation_period": "unknown",
+            "surface_water": "unknown",
+            "terrain": "deserts",
+            "url": "https://swapi.co/api/planets/51/"
+        }
+    ]
+}

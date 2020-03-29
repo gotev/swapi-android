@@ -1,0 +1,256 @@
+{
+    "count": 37,
+    "next": "https://swapi.co/api/starships/?page=2",
+    "previous": null,
+    "results": [
+        {
+            "MGLT": "40",
+            "cargo_capacity": "250000000",
+            "consumables": "6 years",
+            "cost_in_credits": "1143350000",
+            "created": "2014-12-15T12:31:42.547000Z",
+            "crew": "279144",
+            "edited": "2017-04-19T10:56:06.685592Z",
+            "films": [
+                "https://swapi.co/api/films/2/",
+                "https://swapi.co/api/films/3/"
+            ],
+            "hyperdrive_rating": "2.0",
+            "length": "19000",
+            "manufacturer": "Kuat Drive Yards, Fondor Shipyards",
+            "max_atmosphering_speed": "n/a",
+            "model": "Executor-class star dreadnought",
+            "name": "Executor",
+            "passengers": "38000",
+            "pilots": [],
+            "starship_class": "Star dreadnought",
+            "url": "https://swapi.co/api/starships/15/"
+        },
+        {
+            "MGLT": "70",
+            "cargo_capacity": "180000",
+            "consumables": "1 month",
+            "cost_in_credits": "240000",
+            "created": "2014-12-10T15:48:00.586000Z",
+            "crew": "5",
+            "edited": "2014-12-22T17:35:44.431407Z",
+            "films": [
+                "https://swapi.co/api/films/1/"
+            ],
+            "hyperdrive_rating": "1.0",
+            "length": "38",
+            "manufacturer": "Sienar Fleet Systems, Cyngus Spaceworks",
+            "max_atmosphering_speed": "1000",
+            "model": "Sentinel-class landing craft",
+            "name": "Sentinel-class landing craft",
+            "passengers": "75",
+            "pilots": [],
+            "starship_class": "landing craft",
+            "url": "https://swapi.co/api/starships/5/"
+        },
+        {
+            "MGLT": "10",
+            "cargo_capacity": "1000000000000",
+            "consumables": "3 years",
+            "cost_in_credits": "1000000000000",
+            "created": "2014-12-10T16:36:50.509000Z",
+            "crew": "342953",
+            "edited": "2014-12-22T17:35:44.452589Z",
+            "films": [
+                "https://swapi.co/api/films/1/"
+            ],
+            "hyperdrive_rating": "4.0",
+            "length": "120000",
+            "manufacturer": "Imperial Department of Military Research, Sienar Fleet Systems",
+            "max_atmosphering_speed": "n/a",
+            "model": "DS-1 Orbital Battle Station",
+            "name": "Death Star",
+            "passengers": "843342",
+            "pilots": [],
+            "starship_class": "Deep Space Mobile Battlestation",
+            "url": "https://swapi.co/api/starships/9/"
+        },
+        {
+            "MGLT": "75",
+            "cargo_capacity": "100000",
+            "consumables": "2 months",
+            "cost_in_credits": "100000",
+            "created": "2014-12-10T16:59:45.094000Z",
+            "crew": "4",
+            "edited": "2014-12-22T17:35:44.464156Z",
+            "films": [
+                "https://swapi.co/api/films/2/",
+                "https://swapi.co/api/films/7/",
+                "https://swapi.co/api/films/3/",
+                "https://swapi.co/api/films/1/"
+            ],
+            "hyperdrive_rating": "0.5",
+            "length": "34.37",
+            "manufacturer": "Corellian Engineering Corporation",
+            "max_atmosphering_speed": "1050",
+            "model": "YT-1300 light freighter",
+            "name": "Millennium Falcon",
+            "passengers": "6",
+            "pilots": [
+                "https://swapi.co/api/people/13/",
+                "https://swapi.co/api/people/14/",
+                "https://swapi.co/api/people/25/",
+                "https://swapi.co/api/people/31/"
+            ],
+            "starship_class": "Light freighter",
+            "url": "https://swapi.co/api/starships/10/"
+        },
+        {
+            "MGLT": "80",
+            "cargo_capacity": "110",
+            "consumables": "1 week",
+            "cost_in_credits": "134999",
+            "created": "2014-12-12T11:00:39.817000Z",
+            "crew": "2",
+            "edited": "2014-12-22T17:35:44.479706Z",
+            "films": [
+                "https://swapi.co/api/films/2/",
+                "https://swapi.co/api/films/3/",
+                "https://swapi.co/api/films/1/"
+            ],
+            "hyperdrive_rating": "1.0",
+            "length": "14",
+            "manufacturer": "Koensayr Manufacturing",
+            "max_atmosphering_speed": "1000km",
+            "model": "BTL Y-wing",
+            "name": "Y-wing",
+            "passengers": "0",
+            "pilots": [],
+            "starship_class": "assault starfighter",
+            "url": "https://swapi.co/api/starships/11/"
+        },
+        {
+            "MGLT": "100",
+            "cargo_capacity": "110",
+            "consumables": "1 week",
+            "cost_in_credits": "149999",
+            "created": "2014-12-12T11:19:05.340000Z",
+            "crew": "1",
+            "edited": "2014-12-22T17:35:44.491233Z",
+            "films": [
+                "https://swapi.co/api/films/2/",
+                "https://swapi.co/api/films/3/",
+                "https://swapi.co/api/films/1/"
+            ],
+            "hyperdrive_rating": "1.0",
+            "length": "12.5",
+            "manufacturer": "Incom Corporation",
+            "max_atmosphering_speed": "1050",
+            "model": "T-65 X-wing",
+            "name": "X-wing",
+            "passengers": "0",
+            "pilots": [
+                "https://swapi.co/api/people/1/",
+                "https://swapi.co/api/people/9/",
+                "https://swapi.co/api/people/18/",
+                "https://swapi.co/api/people/19/"
+            ],
+            "starship_class": "Starfighter",
+            "url": "https://swapi.co/api/starships/12/"
+        },
+        {
+            "MGLT": "105",
+            "cargo_capacity": "150",
+            "consumables": "5 days",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-12T11:21:32.991000Z",
+            "crew": "1",
+            "edited": "2014-12-22T17:35:44.549047Z",
+            "films": [
+                "https://swapi.co/api/films/1/"
+            ],
+            "hyperdrive_rating": "1.0",
+            "length": "9.2",
+            "manufacturer": "Sienar Fleet Systems",
+            "max_atmosphering_speed": "1200",
+            "model": "Twin Ion Engine Advanced x1",
+            "name": "TIE Advanced x1",
+            "passengers": "0",
+            "pilots": [
+                "https://swapi.co/api/people/4/"
+            ],
+            "starship_class": "Starfighter",
+            "url": "https://swapi.co/api/starships/13/"
+        },
+        {
+            "MGLT": "70",
+            "cargo_capacity": "70000",
+            "consumables": "1 month",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-15T13:00:56.332000Z",
+            "crew": "1",
+            "edited": "2014-12-22T17:35:44.716273Z",
+            "films": [
+                "https://swapi.co/api/films/2/",
+                "https://swapi.co/api/films/5/"
+            ],
+            "hyperdrive_rating": "3.0",
+            "length": "21.5",
+            "manufacturer": "Kuat Systems Engineering",
+            "max_atmosphering_speed": "1000",
+            "model": "Firespray-31-class patrol and attack",
+            "name": "Slave 1",
+            "passengers": "6",
+            "pilots": [
+                "https://swapi.co/api/people/22/"
+            ],
+            "starship_class": "Patrol craft",
+            "url": "https://swapi.co/api/starships/21/"
+        },
+        {
+            "MGLT": "50",
+            "cargo_capacity": "80000",
+            "consumables": "2 months",
+            "cost_in_credits": "240000",
+            "created": "2014-12-15T13:04:47.235000Z",
+            "crew": "6",
+            "edited": "2014-12-22T17:35:44.795405Z",
+            "films": [
+                "https://swapi.co/api/films/2/",
+                "https://swapi.co/api/films/3/"
+            ],
+            "hyperdrive_rating": "1.0",
+            "length": "20",
+            "manufacturer": "Sienar Fleet Systems",
+            "max_atmosphering_speed": "850",
+            "model": "Lambda-class T-4a shuttle",
+            "name": "Imperial shuttle",
+            "passengers": "20",
+            "pilots": [
+                "https://swapi.co/api/people/1/",
+                "https://swapi.co/api/people/13/",
+                "https://swapi.co/api/people/14/"
+            ],
+            "starship_class": "Armed government transport",
+            "url": "https://swapi.co/api/starships/22/"
+        },
+        {
+            "MGLT": "40",
+            "cargo_capacity": "6000000",
+            "consumables": "2 years",
+            "cost_in_credits": "8500000",
+            "created": "2014-12-15T13:06:30.813000Z",
+            "crew": "854",
+            "edited": "2014-12-22T17:35:44.848329Z",
+            "films": [
+                "https://swapi.co/api/films/2/",
+                "https://swapi.co/api/films/3/"
+            ],
+            "hyperdrive_rating": "2.0",
+            "length": "300",
+            "manufacturer": "Kuat Drive Yards",
+            "max_atmosphering_speed": "800",
+            "model": "EF76 Nebulon-B escort frigate",
+            "name": "EF76 Nebulon-B escort frigate",
+            "passengers": "75",
+            "pilots": [],
+            "starship_class": "Escort ship",
+            "url": "https://swapi.co/api/starships/23/"
+        }
+    ]
+}
