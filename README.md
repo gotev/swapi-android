@@ -8,12 +8,6 @@
 - Retrofit
 - ThreeTenABP
 
-## Release
-You can release the library:
-- **locally**: `./release local`. This is going to create a `releases` directory which can be used as a Maven Repository.
-- **publicly on Bintray**: `./release`
-    > From bintray.com, you can then link your library on jCenter and push it also to Maven Central, but I'm not going to cover that here, as there are plenty of examples on the Internet on how to do that.
-
 ## Using the library
 ```groovy
 implementation 'net.gotev:swapi-sdk:1.0.0'
@@ -64,3 +58,8 @@ Keeping dependencies always up to date can be annoying. To ease things, a gradle
 ```
 
 And you will see a complete report of actual and new dependencies versions.
+
+## Release
+Library can be released:
+- **locally**: `./release local`. This is going to create a `releases` directory which can be used as a Maven Repository.
+- **publicly on Bintray**: `./release`

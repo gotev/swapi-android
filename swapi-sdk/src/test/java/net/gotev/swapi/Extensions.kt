@@ -19,7 +19,7 @@ fun Any.readJson(fileName: String) = javaClass.classLoader
     ?.buffer()
     ?.readUtf8()
 
-fun <T> Any.pagedResponse(fileName: String, clazz: Class<T>): PagedResponse<T> {
+fun <T : Any> Any.pagedResponse(fileName: String, clazz: Class<T>): PagedResponse<T> {
     val type = Types.newParameterizedType(PagedResponse::class.java, clazz)
     val adapter = moshi.adapter<PagedResponse<T>>(type)
 
@@ -27,7 +27,7 @@ fun <T> Any.pagedResponse(fileName: String, clazz: Class<T>): PagedResponse<T> {
         ?: throw NullPointerException("unable to deserialize $fileName")
 }
 
-fun <T> List<PagedResponse<T>>.resultsList() = map { it.results }.flatten()
+fun <T : Any> List<PagedResponse<T>>.resultsList() = map { it.results }.flatten()
 
 fun String.mapManufacturersOrFail(): List<Manufacturer> {
     val allValues = Manufacturer.values()

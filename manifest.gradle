@@ -2,13 +2,13 @@ ext {
     mavRepoInternalUrl = System.getenv('LOCAL_MAVEN_URL')
 
     github_username = 'gotev'
-    github_repository_name = 'swapi-sdk'
+    github_repository_name = 'swapi-android'
 
     maintainer = 'Aleksandar Gotev'
 
     bintray_project_name = 'swapi-sdk'
-    library_description = 'SWAPI.co Kotlin Client for JVM LIBRARY_DESCRIPTION Android'
-    library_keywords = ['your', 'library', 'keywords']
+    library_description = 'SWAPI.co Kotlin Client for Android'
+    library_keywords = ['swapi', 'star', 'wars', 'client', 'kotlin', 'coroutines']
     library_licenses = ["Apache-2.0"]
     library_licenses_url = 'https://www.apache.org/licenses/LICENSE-2.0.txt'
     library_project_group = 'net.gotev'
