@@ -25,7 +25,7 @@ class App : Application() {
 }
 ```
 
-And then you can make requests from Coroutine Scopes to get data for each resource.
+And then you can make requests from Coroutine Scopes to get data for each resource. All the domain models are also `Parcelable` so you can safely pass them as arguments.
 
 ```kotlin
 swapiClient.species()
