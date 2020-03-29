@@ -46,7 +46,7 @@ swapiClient.species(page = 2)
 
 It's also possible to fetch a single resource from its URL. Each domain model has a unique URL. For example, to fetch `https://swapi.co/api/people/1/`
 
-```
+```kotlin
 val lukeSkywalker = swapiClient.character("https://swapi.co/api/people/1/")
 ```
 
