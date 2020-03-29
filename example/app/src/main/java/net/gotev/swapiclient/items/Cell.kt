@@ -6,7 +6,7 @@ import androidx.appcompat.widget.AppCompatTextView
 import net.gotev.recycleradapter.AdapterItem
 import net.gotev.recycleradapter.RecyclerAdapterViewHolder
 import net.gotev.swapiclient.R
-import net.gotev.swapiclient.visible
+import net.gotev.swapiclient.foundation.visible
 
 internal class Cell(
     private val model: Model,

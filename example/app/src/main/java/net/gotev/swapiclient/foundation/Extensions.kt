@@ -1,11 +1,10 @@
-package net.gotev.swapiclient
+package net.gotev.swapiclient.foundation
 
 import android.view.View
 import androidx.paging.PagedList
 import net.gotev.recycleradapter.AdapterItem
 import net.gotev.swapi.extensions.pageNumber
 import net.gotev.swapi.models.PagedResponse
-import net.gotev.swapiclient.foundation.AdapterItemsPageKeyedDataSource
 
 fun View.visible(isVisible: Boolean) {
     visibility = if (isVisible) View.VISIBLE else View.GONE

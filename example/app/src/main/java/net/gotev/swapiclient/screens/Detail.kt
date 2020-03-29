@@ -17,7 +17,7 @@ import net.gotev.swapi.models.Character
 import net.gotev.swapi.models.Film
 import net.gotev.swapi.models.Planet
 import net.gotev.swapi.models.Specie
-import net.gotev.swapiclient.applyOrEmpty
+import net.gotev.swapiclient.foundation.applyOrEmpty
 import net.gotev.swapiclient.foundation.BaseFragment
 import net.gotev.swapiclient.items.Cell
 import net.gotev.swapiclient.items.Title

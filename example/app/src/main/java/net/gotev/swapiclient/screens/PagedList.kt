@@ -8,7 +8,7 @@ import androidx.lifecycle.lifecycleScope
 import androidx.navigation.fragment.findNavController
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 import net.gotev.recycleradapter.paging.PagingAdapter
-import net.gotev.swapiclient.defaultPagedList
+import net.gotev.swapiclient.foundation.defaultPagedList
 import net.gotev.swapiclient.foundation.AdapterItemsPageKeyedDataSource
 import net.gotev.swapiclient.foundation.BaseFragment
 
