@@ -3,6 +3,26 @@
 
 [Download Demo App](https://github.com/gotev/swapi-android/releases/download/1.0.0/app-debug.apk)
 
+## Why?
+This SDK and Demo App are made to have a common ground to promote discussions about:
+- Architecture
+- Technologies
+- Modeling
+- UI/UX
+- Approaches
+- ...whatever else comes to mind
+
+Too often, we as developers are tied to the specific business domain on which we are working on and when the time comes to exchange ideas with other developers, some effort has to be made to de-contextualize what we are doing in our day-to-day job to present it to others.
+
+This is a complete app which has various challenges to solve. **It's not perfect** and probably never will be, so feel free to open discussions about every aspect and tell your ideas. Also, **this is only one in a million ways** to achieve the same result.
+
+You have many ways to use this repository:
+- Use the SDK as a Gradle dependency
+- Fork the project and modify the demo app, the SDK or both
+- Study it
+- Use it like a template for other projects
+- Contribute to this project with your own additions. Motivate them in Pull Requests.
+
 ## Technology Stack
 - Kotlin + Coroutines
 - OkHttp 4
