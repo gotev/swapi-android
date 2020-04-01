@@ -3,6 +3,10 @@
 
 [Download Demo App](https://github.com/gotev/swapi-android/releases/download/1.0.0/app-debug.apk)
 
+This project is the main subject of the talk `Declarative Dynamic UI`, hosted by [Android Developers Italia](https://androiddevs.it).
+
+[YouTube Video (italian)](https://www.youtube.com/watch?v=fivfxxW82gk) | [Slides](https://github.com/gotev/swapi-android/blob/master/assets/Declarative%20Dynamic%20UI.pdf)
+
 ## Why?
 This SDK and Demo App are made to have a common ground to promote discussions about:
 - Architecture
