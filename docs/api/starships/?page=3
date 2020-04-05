@@ -1,0 +1,239 @@
+{
+    "count": 37,
+    "next": "https://swapi.co/api/starships/?page=4",
+    "previous": "https://swapi.co/api/starships/?page=2",
+    "results": [
+        {
+            "MGLT": "unknown",
+            "cargo_capacity": "unknown",
+            "consumables": "unknown",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-20T17:46:46.847000Z",
+            "crew": "4",
+            "edited": "2014-12-22T17:35:45.158969Z",
+            "films": [
+                "https://swapi.co/api/films/5/"
+            ],
+            "hyperdrive_rating": "0.9",
+            "length": "47.9",
+            "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+            "max_atmosphering_speed": "8000",
+            "model": "H-type Nubian yacht",
+            "name": "H-type Nubian yacht",
+            "passengers": "unknown",
+            "pilots": [
+                "https://swapi.co/api/people/35/"
+            ],
+            "starship_class": "yacht",
+            "url": "https://swapi.co/api/starships/49/"
+        },
+        {
+            "MGLT": "60",
+            "cargo_capacity": "36000000",
+            "consumables": "2 years",
+            "cost_in_credits": "150000000",
+            "created": "2014-12-10T15:08:19.848000Z",
+            "crew": "47060",
+            "edited": "2014-12-22T17:35:44.410941Z",
+            "films": [
+                "https://swapi.co/api/films/2/",
+                "https://swapi.co/api/films/3/",
+                "https://swapi.co/api/films/1/"
+            ],
+            "hyperdrive_rating": "2.0",
+            "length": "1,600",
+            "manufacturer": "Kuat Drive Yards",
+            "max_atmosphering_speed": "975",
+            "model": "Imperial I-class Star Destroyer",
+            "name": "Star Destroyer",
+            "passengers": "0",
+            "pilots": [],
+            "starship_class": "Star Destroyer",
+            "url": "https://swapi.co/api/starships/3/"
+        },
+        {
+            "MGLT": "unknown",
+            "cargo_capacity": "50000000",
+            "consumables": "4 years",
+            "cost_in_credits": "125000000",
+            "created": "2014-12-20T19:40:21.902000Z",
+            "crew": "600",
+            "edited": "2014-12-22T17:35:45.195165Z",
+            "films": [
+                "https://swapi.co/api/films/6/"
+            ],
+            "hyperdrive_rating": "1.5",
+            "length": "1088",
+            "manufacturer": "Rendili StarDrive, Free Dac Volunteers Engineering corps.",
+            "max_atmosphering_speed": "1050",
+            "model": "Providence-class carrier/destroyer",
+            "name": "Trade Federation cruiser",
+            "passengers": "48247",
+            "pilots": [
+                "https://swapi.co/api/people/10/",
+                "https://swapi.co/api/people/11/"
+            ],
+            "starship_class": "capital ship",
+            "url": "https://swapi.co/api/starships/59/"
+        },
+        {
+            "MGLT": "unknown",
+            "cargo_capacity": "50000",
+            "consumables": "56 days",
+            "cost_in_credits": "1000000",
+            "created": "2014-12-20T19:48:40.409000Z",
+            "crew": "5",
+            "edited": "2014-12-22T17:35:45.208584Z",
+            "films": [
+                "https://swapi.co/api/films/6/"
+            ],
+            "hyperdrive_rating": "1.0",
+            "length": "18.5",
+            "manufacturer": "Cygnus Spaceworks",
+            "max_atmosphering_speed": "2000",
+            "model": "Theta-class T-2c shuttle",
+            "name": "Theta-class T-2c shuttle",
+            "passengers": "16",
+            "pilots": [],
+            "starship_class": "transport",
+            "url": "https://swapi.co/api/starships/61/"
+        },
+        {
+            "MGLT": "unknown",
+            "cargo_capacity": "unknown",
+            "consumables": "unknown",
+            "cost_in_credits": "unknown",
+            "created": "2015-04-17T06:58:50.614475Z",
+            "crew": "1",
+            "edited": "2015-04-17T06:58:50.614528Z",
+            "films": [
+                "https://swapi.co/api/films/7/"
+            ],
+            "hyperdrive_rating": "unknown",
+            "length": "unknown",
+            "manufacturer": "Incom",
+            "max_atmosphering_speed": "unknown",
+            "model": "T-70 X-wing fighter",
+            "name": "T-70 X-wing fighter",
+            "passengers": "unknown",
+            "pilots": [
+                "https://swapi.co/api/people/86/"
+            ],
+            "starship_class": "fighter",
+            "url": "https://swapi.co/api/starships/77/"
+        },
+        {
+            "MGLT": "20",
+            "cargo_capacity": "19000000",
+            "consumables": "6 months",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-15T12:34:52.264000Z",
+            "crew": "6",
+            "edited": "2014-12-22T17:35:44.680838Z",
+            "films": [
+                "https://swapi.co/api/films/2/",
+                "https://swapi.co/api/films/3/"
+            ],
+            "hyperdrive_rating": "4.0",
+            "length": "90",
+            "manufacturer": "Gallofree Yards, Inc.",
+            "max_atmosphering_speed": "650",
+            "model": "GR-75 medium transport",
+            "name": "Rebel transport",
+            "passengers": "90",
+            "pilots": [],
+            "starship_class": "Medium transport",
+            "url": "https://swapi.co/api/starships/17/"
+        },
+        {
+            "MGLT": "unknown",
+            "cargo_capacity": "4000000000",
+            "consumables": "500 days",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-19T17:04:06.323000Z",
+            "crew": "175",
+            "edited": "2014-12-22T17:35:45.042900Z",
+            "films": [
+                "https://swapi.co/api/films/5/",
+                "https://swapi.co/api/films/4/",
+                "https://swapi.co/api/films/6/"
+            ],
+            "hyperdrive_rating": "2.0",
+            "length": "3170",
+            "manufacturer": "Hoersch-Kessel Drive, Inc.",
+            "max_atmosphering_speed": "n/a",
+            "model": "Lucrehulk-class Droid Control Ship",
+            "name": "Droid control ship",
+            "passengers": "139000",
+            "pilots": [],
+            "starship_class": "Droid control ship",
+            "url": "https://swapi.co/api/starships/32/"
+        },
+        {
+            "MGLT": "unknown",
+            "cargo_capacity": "11250000",
+            "consumables": "2 years",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-20T18:08:42.926000Z",
+            "crew": "700",
+            "edited": "2014-12-22T17:35:45.171653Z",
+            "films": [
+                "https://swapi.co/api/films/5/"
+            ],
+            "hyperdrive_rating": "0.6",
+            "length": "752",
+            "manufacturer": "Rothana Heavy Engineering",
+            "max_atmosphering_speed": "unknown",
+            "model": "Acclamator I-class assault ship",
+            "name": "Republic Assault ship",
+            "passengers": "16000",
+            "pilots": [],
+            "starship_class": "assault ship",
+            "url": "https://swapi.co/api/starships/52/"
+        },
+        {
+            "MGLT": "unknown",
+            "cargo_capacity": "240",
+            "consumables": "7 days",
+            "cost_in_credits": "35700",
+            "created": "2014-12-20T18:37:56.969000Z",
+            "crew": "3",
+            "edited": "2014-12-22T17:35:45.183075Z",
+            "films": [
+                "https://swapi.co/api/films/5/"
+            ],
+            "hyperdrive_rating": "1.5",
+            "length": "15.2",
+            "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+            "max_atmosphering_speed": "1600",
+            "model": "Punworcca 116-class interstellar sloop",
+            "name": "Solar Sailer",
+            "passengers": "11",
+            "pilots": [],
+            "starship_class": "yacht",
+            "url": "https://swapi.co/api/starships/58/"
+        },
+        {
+            "MGLT": "unknown",
+            "cargo_capacity": "20000000",
+            "consumables": "2 years",
+            "cost_in_credits": "59000000",
+            "created": "2014-12-20T19:52:56.232000Z",
+            "crew": "7400",
+            "edited": "2014-12-22T17:35:45.224540Z",
+            "films": [
+                "https://swapi.co/api/films/6/"
+            ],
+            "hyperdrive_rating": "1.0",
+            "length": "1137",
+            "manufacturer": "Kuat Drive Yards, Allanteen Six shipyards",
+            "max_atmosphering_speed": "975",
+            "model": "Senator-class Star Destroyer",
+            "name": "Republic attack cruiser",
+            "passengers": "2000",
+            "pilots": [],
+            "starship_class": "star destroyer",
+            "url": "https://swapi.co/api/starships/63/"
+        }
+    ]
+}

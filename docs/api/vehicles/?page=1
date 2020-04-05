@@ -1,0 +1,218 @@
+{
+    "count": 39,
+    "next": "https://swapi.co/api/vehicles/?page=2",
+    "previous": null,
+    "results": [
+        {
+            "cargo_capacity": "50000",
+            "consumables": "2 months",
+            "cost_in_credits": "150000",
+            "created": "2014-12-10T15:36:25.724000Z",
+            "crew": "46",
+            "edited": "2014-12-22T18:21:15.523587Z",
+            "films": [
+                "https://swapi.co/api/films/5/",
+                "https://swapi.co/api/films/1/"
+            ],
+            "length": "36.8",
+            "manufacturer": "Corellia Mining Corporation",
+            "max_atmosphering_speed": "30",
+            "model": "Digger Crawler",
+            "name": "Sand Crawler",
+            "passengers": "30",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/4/",
+            "vehicle_class": "wheeled"
+        },
+        {
+            "cargo_capacity": "50",
+            "consumables": "0",
+            "cost_in_credits": "14500",
+            "created": "2014-12-10T16:01:52.434000Z",
+            "crew": "1",
+            "edited": "2014-12-22T18:21:15.552614Z",
+            "films": [
+                "https://swapi.co/api/films/1/"
+            ],
+            "length": "10.4",
+            "manufacturer": "Incom Corporation",
+            "max_atmosphering_speed": "1200",
+            "model": "T-16 skyhopper",
+            "name": "T-16 skyhopper",
+            "passengers": "1",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/6/",
+            "vehicle_class": "repulsorcraft"
+        },
+        {
+            "cargo_capacity": "5",
+            "consumables": "unknown",
+            "cost_in_credits": "10550",
+            "created": "2014-12-10T16:13:52.586000Z",
+            "crew": "1",
+            "edited": "2014-12-22T18:21:15.583700Z",
+            "films": [
+                "https://swapi.co/api/films/1/"
+            ],
+            "length": "3.4",
+            "manufacturer": "SoroSuub Corporation",
+            "max_atmosphering_speed": "250",
+            "model": "X-34 landspeeder",
+            "name": "X-34 landspeeder",
+            "passengers": "1",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/7/",
+            "vehicle_class": "repulsorcraft"
+        },
+        {
+            "cargo_capacity": "65",
+            "consumables": "2 days",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-10T16:33:52.860000Z",
+            "crew": "1",
+            "edited": "2014-12-22T18:21:15.606149Z",
+            "films": [
+                "https://swapi.co/api/films/2/",
+                "https://swapi.co/api/films/3/",
+                "https://swapi.co/api/films/1/"
+            ],
+            "length": "6.4",
+            "manufacturer": "Sienar Fleet Systems",
+            "max_atmosphering_speed": "1200",
+            "model": "Twin Ion Engine/Ln Starfighter",
+            "name": "TIE/LN starfighter",
+            "passengers": "0",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/8/",
+            "vehicle_class": "starfighter"
+        },
+        {
+            "cargo_capacity": "10",
+            "consumables": "none",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-15T12:22:12Z",
+            "crew": "2",
+            "edited": "2014-12-22T18:21:15.623033Z",
+            "films": [
+                "https://swapi.co/api/films/2/"
+            ],
+            "length": "4.5",
+            "manufacturer": "Incom corporation",
+            "max_atmosphering_speed": "650",
+            "model": "t-47 airspeeder",
+            "name": "Snowspeeder",
+            "passengers": "0",
+            "pilots": [
+                "https://swapi.co/api/people/1/",
+                "https://swapi.co/api/people/18/"
+            ],
+            "url": "https://swapi.co/api/vehicles/14/",
+            "vehicle_class": "airspeeder"
+        },
+        {
+            "cargo_capacity": "none",
+            "consumables": "2 days",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-15T12:33:15.838000Z",
+            "crew": "1",
+            "edited": "2014-12-22T18:21:15.667730Z",
+            "films": [
+                "https://swapi.co/api/films/2/",
+                "https://swapi.co/api/films/3/"
+            ],
+            "length": "7.8",
+            "manufacturer": "Sienar Fleet Systems",
+            "max_atmosphering_speed": "850",
+            "model": "TIE/sa bomber",
+            "name": "TIE bomber",
+            "passengers": "0",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/16/",
+            "vehicle_class": "space/planetary bomber"
+        },
+        {
+            "cargo_capacity": "1000",
+            "consumables": "unknown",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-15T12:38:25.937000Z",
+            "crew": "5",
+            "edited": "2014-12-22T18:21:15.714673Z",
+            "films": [
+                "https://swapi.co/api/films/2/",
+                "https://swapi.co/api/films/3/"
+            ],
+            "length": "20",
+            "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+            "max_atmosphering_speed": "60",
+            "model": "All Terrain Armored Transport",
+            "name": "AT-AT",
+            "passengers": "40",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/18/",
+            "vehicle_class": "assault walker"
+        },
+        {
+            "cargo_capacity": "200",
+            "consumables": "none",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-15T12:46:42.384000Z",
+            "crew": "2",
+            "edited": "2014-12-22T18:21:15.761584Z",
+            "films": [
+                "https://swapi.co/api/films/2/",
+                "https://swapi.co/api/films/3/"
+            ],
+            "length": "2",
+            "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+            "max_atmosphering_speed": "90",
+            "model": "All Terrain Scout Transport",
+            "name": "AT-ST",
+            "passengers": "0",
+            "pilots": [
+                "https://swapi.co/api/people/13/"
+            ],
+            "url": "https://swapi.co/api/vehicles/19/",
+            "vehicle_class": "walker"
+        },
+        {
+            "cargo_capacity": "10",
+            "consumables": "1 day",
+            "cost_in_credits": "75000",
+            "created": "2014-12-15T12:58:50.530000Z",
+            "crew": "2",
+            "edited": "2014-12-22T18:21:15.783232Z",
+            "films": [
+                "https://swapi.co/api/films/2/"
+            ],
+            "length": "7",
+            "manufacturer": "Bespin Motors",
+            "max_atmosphering_speed": "1500",
+            "model": "Storm IV Twin-Pod",
+            "name": "Storm IV Twin-Pod cloud car",
+            "passengers": "0",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/20/",
+            "vehicle_class": "repulsorcraft"
+        },
+        {
+            "cargo_capacity": "2000000",
+            "consumables": "Live food tanks",
+            "cost_in_credits": "285000",
+            "created": "2014-12-18T10:44:14.217000Z",
+            "crew": "26",
+            "edited": "2014-12-22T18:21:15.807906Z",
+            "films": [
+                "https://swapi.co/api/films/3/"
+            ],
+            "length": "30",
+            "manufacturer": "Ubrikkian Industries Custom Vehicle Division",
+            "max_atmosphering_speed": "100",
+            "model": "Modified Luxury Sail Barge",
+            "name": "Sail barge",
+            "passengers": "500",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/24/",
+            "vehicle_class": "sail barge"
+        }
+    ]
+}

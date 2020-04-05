@@ -1,0 +1,191 @@
+{
+    "count": 39,
+    "next": null,
+    "previous": "https://swapi.co/api/vehicles/?page=3",
+    "results": [
+        {
+            "cargo_capacity": "30000",
+            "consumables": "20 days",
+            "cost_in_credits": "350000",
+            "created": "2014-12-20T20:24:45.587000Z",
+            "crew": "20",
+            "edited": "2014-12-22T18:21:16.571079Z",
+            "films": [
+                "https://swapi.co/api/films/6/"
+            ],
+            "length": "49.4",
+            "manufacturer": "Kuat Drive Yards",
+            "max_atmosphering_speed": "160",
+            "model": "HAVw A6 Juggernaut",
+            "name": "Clone turbo tank",
+            "passengers": "300",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/71/",
+            "vehicle_class": "wheeled walker"
+        },
+        {
+            "cargo_capacity": "none",
+            "consumables": "none",
+            "cost_in_credits": "49000",
+            "created": "2014-12-20T20:26:55.522000Z",
+            "crew": "0",
+            "edited": "2014-12-22T18:21:16.612902Z",
+            "films": [
+                "https://swapi.co/api/films/6/"
+            ],
+            "length": "10.96",
+            "manufacturer": "Techno Union",
+            "max_atmosphering_speed": "100",
+            "model": "NR-N99 Persuader-class droid enforcer",
+            "name": "Corporate Alliance tank droid",
+            "passengers": "4",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/72/",
+            "vehicle_class": "droid tank"
+        },
+        {
+            "cargo_capacity": "0",
+            "consumables": "none",
+            "cost_in_credits": "60000",
+            "created": "2014-12-20T20:32:05.687000Z",
+            "crew": "0",
+            "edited": "2014-12-22T18:21:16.643329Z",
+            "films": [
+                "https://swapi.co/api/films/6/"
+            ],
+            "length": "12.3",
+            "manufacturer": "Baktoid Fleet Ordnance, Haor Chall Engineering",
+            "max_atmosphering_speed": "820",
+            "model": "HMP droid gunship",
+            "name": "Droid gunship",
+            "passengers": "0",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/73/",
+            "vehicle_class": "airspeeder"
+        },
+        {
+            "cargo_capacity": "20",
+            "consumables": "1 day",
+            "cost_in_credits": "40000",
+            "created": "2014-12-20T20:47:49.189000Z",
+            "crew": "1",
+            "edited": "2014-12-22T18:21:16.672821Z",
+            "films": [
+                "https://swapi.co/api/films/6/"
+            ],
+            "length": "3.2",
+            "manufacturer": "Kuat Drive Yards",
+            "max_atmosphering_speed": "90",
+            "model": "All Terrain Recon Transport",
+            "name": "AT-RT",
+            "passengers": "0",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/76/",
+            "vehicle_class": "walker"
+        },
+        {
+            "cargo_capacity": "10000",
+            "consumables": "21 days",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-20T18:10:07.560000Z",
+            "crew": "6",
+            "edited": "2014-12-22T18:21:16.293771Z",
+            "films": [
+                "https://swapi.co/api/films/5/",
+                "https://swapi.co/api/films/6/"
+            ],
+            "length": "13.2",
+            "manufacturer": "Rothana Heavy Engineering, Kuat Drive Yards",
+            "max_atmosphering_speed": "60",
+            "model": "All Terrain Tactical Enforcer",
+            "name": "AT-TE",
+            "passengers": "36",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/53/",
+            "vehicle_class": "walker"
+        },
+        {
+            "cargo_capacity": "500",
+            "consumables": "7 days",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-20T18:12:32.315000Z",
+            "crew": "25",
+            "edited": "2014-12-22T18:21:16.311761Z",
+            "films": [
+                "https://swapi.co/api/films/5/"
+            ],
+            "length": "140",
+            "manufacturer": "Rothana Heavy Engineering",
+            "max_atmosphering_speed": "35",
+            "model": "Self-Propelled Heavy Artillery",
+            "name": "SPHA",
+            "passengers": "30",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/54/",
+            "vehicle_class": "walker"
+        },
+        {
+            "cargo_capacity": "unknown",
+            "consumables": "unknown",
+            "cost_in_credits": "8000",
+            "created": "2014-12-20T18:15:20.312000Z",
+            "crew": "1",
+            "edited": "2014-12-22T18:21:16.335005Z",
+            "films": [
+                "https://swapi.co/api/films/5/"
+            ],
+            "length": "2",
+            "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+            "max_atmosphering_speed": "634",
+            "model": "Flitknot speeder",
+            "name": "Flitknot speeder",
+            "passengers": "0",
+            "pilots": [
+                "https://swapi.co/api/people/67/"
+            ],
+            "url": "https://swapi.co/api/vehicles/55/",
+            "vehicle_class": "speeder"
+        },
+        {
+            "cargo_capacity": "1000",
+            "consumables": "7 days",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-20T18:25:44.912000Z",
+            "crew": "2",
+            "edited": "2014-12-22T18:21:16.366134Z",
+            "films": [
+                "https://swapi.co/api/films/5/",
+                "https://swapi.co/api/films/6/"
+            ],
+            "length": "20",
+            "manufacturer": "Haor Chall Engineering",
+            "max_atmosphering_speed": "880",
+            "model": "Sheathipede-class transport shuttle",
+            "name": "Neimoidian shuttle",
+            "passengers": "6",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/56/",
+            "vehicle_class": "transport"
+        },
+        {
+            "cargo_capacity": "unknown",
+            "consumables": "unknown",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-20T18:34:12.541000Z",
+            "crew": "1",
+            "edited": "2014-12-22T18:21:16.390980Z",
+            "films": [
+                "https://swapi.co/api/films/5/"
+            ],
+            "length": "9.8",
+            "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+            "max_atmosphering_speed": "20000",
+            "model": "Nantex-class territorial defense",
+            "name": "Geonosian starfighter",
+            "passengers": "0",
+            "pilots": [],
+            "url": "https://swapi.co/api/vehicles/57/",
+            "vehicle_class": "starfighter"
+        }
+    ]
+}

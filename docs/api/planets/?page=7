@@ -1,0 +1,25 @@
+{
+    "count": 61,
+    "next": null,
+    "previous": "https://swapi.co/api/planets/?page=6",
+    "results": [
+        {
+            "climate": "unknown",
+            "created": "2015-04-17T06:55:57.556495Z",
+            "diameter": "unknown",
+            "edited": "2015-04-17T06:55:57.556551Z",
+            "films": [
+                "https://swapi.co/api/films/7/"
+            ],
+            "gravity": "unknown",
+            "name": "Jakku",
+            "orbital_period": "unknown",
+            "population": "unknown",
+            "residents": [],
+            "rotation_period": "unknown",
+            "surface_water": "unknown",
+            "terrain": "deserts",
+            "url": "https://swapi.co/api/planets/61/"
+        }
+    ]
+}

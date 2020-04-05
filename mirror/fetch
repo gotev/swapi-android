@@ -1,6 +1,7 @@
 #!/bin/bash -e
 
 FETCHED_DIR="fetched"
+API_DIR="api"
 
 function fetch {
   echo "fetching $1 ..."
@@ -13,11 +14,20 @@ function fetch {
     curl -s -L "$page" -o /tmp/swapifetch
     python -m json.tool /tmp/swapifetch > "$file_name"
     rm -rf /tmp/swapifetch
+
+    mkdir -p "${API_DIR}/${1}"
+    api_file_name="${API_DIR}/${1}/?page=${pageNumber}"
+    cp "$file_name" "$api_file_name"
   done
 }
 
-rm -rf "$FETCHED_DIR"
-mkdir "$FETCHED_DIR"
+function recreate {
+  rm -rf "$1"
+  mkdir "$1"
+}
+
+recreate "$FETCHED_DIR"
+recreate "$API_DIR"
 
 fetch "starships" "4"
 fetch "people" "9"
@@ -25,6 +35,10 @@ fetch "planets" "7"
 fetch "films" "1"
 fetch "species" "4"
 fetch "vehicles" "4"
+
+echo "Moving APIs to GitHub Pages Directory..."
+rm -rf ../docs/api
+mv api/ ../docs/
 
 echo
 echo "Fetching DONE!"
