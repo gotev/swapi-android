@@ -1,5 +1,5 @@
 # SWAPI SDK
-[SWAPI.co](https://swapi.co/) Kotlin Client for Android
+[SWAPI.co](https://swapi.co/) Kotlin Client for Android. This demonstrates usage of Coroutines for networking and declarative UI approach.
 
 [Download Demo App](https://github.com/gotev/swapi-android/releases/download/1.0.0/app-debug.apk)
 
@@ -36,8 +36,9 @@ You have many ways to use this repository:
 
 ## Using the library
 ```groovy
-implementation 'net.gotev:swapi-sdk:1.0.0'
+implementation 'net.gotev:swapi-sdk:x.y.z'
 ```
+Replace `x.y.z` with [ ![Download](https://api.bintray.com/packages/gotev/maven/swapi-sdk/images/download.svg) ](https://bintray.com/gotev/maven/swapi-sdk/_latestVersion)
 
 Initialize it in your `Application`
 
