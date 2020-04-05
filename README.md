@@ -1,5 +1,5 @@
 # SWAPI SDK
-[SWAPI.co](https://swapi.co/) Kotlin Client for Android
+[SWAPI.co](https://swapi.co/) Kotlin Client for Android. This demonstrates usage of Coroutines for networking and declarative UI approach.
 
 [Download Demo App](https://github.com/gotev/swapi-android/releases/download/1.0.0/app-debug.apk)
 
