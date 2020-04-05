@@ -40,13 +40,15 @@ class PagedList : BaseFragment() {
             config = defaultPagedList()
         )
 
-        swipeLayout = SwipeRefreshLayout(requireContext()).apply {
-            layoutParams = ViewGroup.LayoutParams(
-                ViewGroup.LayoutParams.MATCH_PARENT,
-                ViewGroup.LayoutParams.MATCH_PARENT
-            )
+        swipeLayout = context?.let { context ->
+            SwipeRefreshLayout(context).apply {
+                layoutParams = ViewGroup.LayoutParams(
+                    ViewGroup.LayoutParams.MATCH_PARENT,
+                    ViewGroup.LayoutParams.MATCH_PARENT
+                )
 
-            addView(recyclerView)
+                recyclerView?.let { addView(it) }
+            }
         }
 
         return swipeLayout?.apply {

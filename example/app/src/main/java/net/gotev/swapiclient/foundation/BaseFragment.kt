@@ -28,7 +28,7 @@ open class BaseFragment : Fragment(), RecyclerAdapterProvider {
         savedInstanceState: Bundle?
     ): View? {
         super.onCreateView(inflater, container, savedInstanceState)
-        recyclerView = requireContext().let {
+        recyclerView = context?.let {
             RecyclerView(it).apply {
                 layoutParams = ViewGroup.LayoutParams(
                     ViewGroup.LayoutParams.MATCH_PARENT,
