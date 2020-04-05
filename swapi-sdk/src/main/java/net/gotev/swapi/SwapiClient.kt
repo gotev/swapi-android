@@ -22,18 +22,20 @@ lateinit var swapiClient: Swapi
 
 fun initializeSwapiClient(
     application: Application,
-    httpClient: OkHttpClient = OkHttpClient.Builder()
-        .cache(Cache(application.cacheDir, 10 * 1024 * 1024))
-        .addInterceptor(OfflineCacheInterceptor())
-        .addNetworkInterceptor(CacheMaxAgeInterceptor())
-        .addNetworkInterceptor(
-            UserAgentInterceptor("swapi-sdk-android/${BuildConfig.VERSION_NAME}")
-        ).build()
+    httpClient: OkHttpClient = OkHttpClient()
 ) {
     AndroidThreeTen.init(application)
 
     swapiClient = Retrofit.Builder()
-        .client(httpClient)
+        .client(
+            httpClient.newBuilder()
+                .cache(Cache(application.cacheDir, 10 * 1024 * 1024))
+                .addInterceptor(OfflineCacheInterceptor())
+                .addNetworkInterceptor(CacheMaxAgeInterceptor())
+                .addNetworkInterceptor(
+                    UserAgentInterceptor("swapi-sdk-android/${BuildConfig.VERSION_NAME}")
+                ).build()
+        )
         .baseUrl("https://swapi.co/api/")
         .addConverterFactory(MoshiConverterFactory.create(moshi))
         .build()
