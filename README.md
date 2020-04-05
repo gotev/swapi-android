@@ -36,8 +36,9 @@ You have many ways to use this repository:
 
 ## Using the library
 ```groovy
-implementation 'net.gotev:swapi-sdk:1.0.0'
+implementation 'net.gotev:swapi-sdk:x.y.z'
 ```
+Replace `x.y.z` with [ ![Download](https://api.bintray.com/packages/gotev/maven/swapi-sdk/images/download.svg) ](https://bintray.com/gotev/maven/swapi-sdk/_latestVersion)
 
 Initialize it in your `Application`
 
