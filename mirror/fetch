@@ -10,7 +10,7 @@ function fetch {
 
   for pageNumber in `seq 1 $2`
   do
-    page="https://swapi.co/api/$1/?page=${pageNumber}"
+    page="${API_SOURCE_URI}$1/?page=${pageNumber}"
     echo "  $page"
     file_name="${FETCHED_DIR}/${1}_page${pageNumber}.json"
     curl -s -L "$page" -o /tmp/swapifetch
@@ -20,6 +20,17 @@ function fetch {
     mkdir -p "${API_DIR}/${1}"
     api_file_name="${API_DIR}/${1}/page${pageNumber}.json"
     cat "$file_name" | sed "s*${API_SOURCE_URI}*${API_MIRROR_URI}*g" | sed 's/?page=\([0-9]*\)/page\1.json/g' > "$api_file_name"
+
+    for source in $(cat "$file_name" | grep -o "${API_SOURCE_URI}$1/\([0-9]*\)/")
+    do
+      echo "    $source"
+      itemid=$(echo "$source" | tr '/' '\n' | tail -n 2 | head -n 1)
+      destination_dir="${API_DIR}/${1}/${itemid}"
+      mkdir -p "$destination_dir"
+      destination="$destination_dir/index.json"
+
+      curl -s -L -o "$destination" "$source"
+    done
   done
 }
 
