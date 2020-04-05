@@ -22,9 +22,22 @@ lateinit var swapiClient: Swapi
 
 fun initializeSwapiClient(
     application: Application,
-    httpClient: OkHttpClient = OkHttpClient()
+    httpClient: OkHttpClient = OkHttpClient(),
+    useMirror: Boolean = true
 ) {
     AndroidThreeTen.init(application)
+
+    val baseUrl = if (useMirror) {
+        "https://gotev.github.io/swapi-android/"
+    } else {
+        "https://swapi.co/api/"
+    }
+
+    val clientClass = if (useMirror) {
+        SwapiMirror::class.java
+    } else {
+        Swapi::class.java
+    }
 
     swapiClient = Retrofit.Builder()
         .client(
@@ -36,8 +49,8 @@ fun initializeSwapiClient(
                     UserAgentInterceptor("swapi-sdk-android/${BuildConfig.VERSION_NAME}")
                 ).build()
         )
-        .baseUrl("https://swapi.co/api/")
+        .baseUrl(baseUrl)
         .addConverterFactory(MoshiConverterFactory.create(moshi))
         .build()
-        .create(Swapi::class.java)
+        .create(clientClass)
 }

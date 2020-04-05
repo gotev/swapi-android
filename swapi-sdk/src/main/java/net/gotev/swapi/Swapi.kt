@@ -7,44 +7,23 @@ import net.gotev.swapi.models.Planet
 import net.gotev.swapi.models.Specie
 import net.gotev.swapi.models.Starship
 import net.gotev.swapi.models.Vehicle
-import retrofit2.http.GET
-import retrofit2.http.Query
-import retrofit2.http.Url
 
 interface Swapi {
-    @GET("films")
-    suspend fun films(@Query("page") page: Int = 1): PagedResponse<Film>
+    suspend fun films(page: Int = 1): PagedResponse<Film>
+    suspend fun film(url: String): Film
 
-    @GET
-    suspend fun film(@Url url: String): Film
+    suspend fun characters(page: Int = 1): PagedResponse<Character>
+    suspend fun character(url: String): Character
 
-    @GET("people")
-    suspend fun characters(@Query("page") page: Int = 1): PagedResponse<Character>
+    suspend fun planets(page: Int = 1): PagedResponse<Planet>
+    suspend fun planet(url: String): Planet
 
-    @GET
-    suspend fun character(@Url url: String): Character
+    suspend fun species(page: Int = 1): PagedResponse<Specie>
+    suspend fun specie(url: String): Specie
 
-    @GET("planets")
-    suspend fun planets(@Query("page") page: Int = 1): PagedResponse<Planet>
+    suspend fun vehicles(page: Int = 1): PagedResponse<Vehicle>
+    suspend fun vehicle(url: String): Vehicle
 
-    @GET
-    suspend fun planet(@Url url: String): Planet
-
-    @GET("species")
-    suspend fun species(@Query("page") page: Int = 1): PagedResponse<Specie>
-
-    @GET
-    suspend fun specie(@Url url: String): Specie
-
-    @GET("vehicles")
-    suspend fun vehicles(@Query("page") page: Int = 1): PagedResponse<Vehicle>
-
-    @GET
-    suspend fun vehicle(@Url url: String): Vehicle
-
-    @GET("starships")
-    suspend fun starships(@Query("page") page: Int = 1): PagedResponse<Starship>
-
-    @GET
-    suspend fun starship(@Url url: String): Starship
+    suspend fun starships(page: Int = 1): PagedResponse<Starship>
+    suspend fun starship(url: String): Starship
 }
