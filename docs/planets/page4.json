@@ -1,7 +1,7 @@
 {
     "count": 61,
-    "next": "https://swapi.co/api/planets/?page=5",
-    "previous": "https://swapi.co/api/planets/?page=3",
+    "next": "https://gotev.github.io/swapi-android/planets/?page=5",
+    "previous": "https://gotev.github.io/swapi-android/planets/?page=3",
     "results": [
         {
             "climate": "temperate",
@@ -14,12 +14,12 @@
             "orbital_period": "368",
             "population": "1200000000",
             "residents": [
-                "https://swapi.co/api/people/28/"
+                "https://gotev.github.io/swapi-android/people/28/"
             ],
             "rotation_period": "20",
             "surface_water": "40",
             "terrain": "plains, forests",
-            "url": "https://swapi.co/api/planets/32/"
+            "url": "https://gotev.github.io/swapi-android/planets/32/"
         },
         {
             "climate": "superheated",
@@ -32,12 +32,12 @@
             "orbital_period": "263",
             "population": "18500000000",
             "residents": [
-                "https://swapi.co/api/people/31/"
+                "https://gotev.github.io/swapi-android/people/31/"
             ],
             "rotation_period": "20",
             "surface_water": "5",
             "terrain": "mountains, volcanoes, rocky deserts",
-            "url": "https://swapi.co/api/planets/33/"
+            "url": "https://gotev.github.io/swapi-android/planets/33/"
         },
         {
             "climate": "temperate",
@@ -50,12 +50,12 @@
             "orbital_period": "184",
             "population": "11000000",
             "residents": [
-                "https://swapi.co/api/people/40/"
+                "https://gotev.github.io/swapi-android/people/40/"
             ],
             "rotation_period": "21",
             "surface_water": "unknown",
             "terrain": "swamps, lakes",
-            "url": "https://swapi.co/api/planets/34/"
+            "url": "https://gotev.github.io/swapi-android/planets/34/"
         },
         {
             "climate": "arid, temperate, tropical",
@@ -68,12 +68,12 @@
             "orbital_period": "201",
             "population": "2000000000",
             "residents": [
-                "https://swapi.co/api/people/41/"
+                "https://gotev.github.io/swapi-android/people/41/"
             ],
             "rotation_period": "26",
             "surface_water": "unknown",
             "terrain": "swamps, deserts, jungles, mountains",
-            "url": "https://swapi.co/api/planets/35/"
+            "url": "https://gotev.github.io/swapi-android/planets/35/"
         },
         {
             "climate": "temperate",
@@ -86,12 +86,12 @@
             "orbital_period": "491",
             "population": "5200",
             "residents": [
-                "https://swapi.co/api/people/44/"
+                "https://gotev.github.io/swapi-android/people/44/"
             ],
             "rotation_period": "24",
             "surface_water": "unknown",
             "terrain": "forests, deserts, savannas",
-            "url": "https://swapi.co/api/planets/36/"
+            "url": "https://gotev.github.io/swapi-android/planets/36/"
         },
         {
             "climate": "temperate, arid, subartic",
@@ -104,13 +104,13 @@
             "orbital_period": "305",
             "population": "1500000000",
             "residents": [
-                "https://swapi.co/api/people/45/",
-                "https://swapi.co/api/people/46/"
+                "https://gotev.github.io/swapi-android/people/45/",
+                "https://gotev.github.io/swapi-android/people/46/"
             ],
             "rotation_period": "30",
             "surface_water": "5",
             "terrain": "mountains, valleys, deserts, tundra",
-            "url": "https://swapi.co/api/planets/37/"
+            "url": "https://gotev.github.io/swapi-android/planets/37/"
         },
         {
             "climate": "unknown",
@@ -123,12 +123,12 @@
             "orbital_period": "unknown",
             "population": "unknown",
             "residents": [
-                "https://swapi.co/api/people/47/"
+                "https://gotev.github.io/swapi-android/people/47/"
             ],
             "rotation_period": "unknown",
             "surface_water": "unknown",
             "terrain": "unknown",
-            "url": "https://swapi.co/api/planets/38/"
+            "url": "https://gotev.github.io/swapi-android/planets/38/"
         },
         {
             "climate": "temperate, artic",
@@ -141,12 +141,12 @@
             "orbital_period": "391",
             "population": "421000000",
             "residents": [
-                "https://swapi.co/api/people/48/"
+                "https://gotev.github.io/swapi-android/people/48/"
             ],
             "rotation_period": "22",
             "surface_water": "unknown",
             "terrain": "urban, barren",
-            "url": "https://swapi.co/api/planets/39/"
+            "url": "https://gotev.github.io/swapi-android/planets/39/"
         },
         {
             "climate": "unknown",
@@ -159,12 +159,12 @@
             "orbital_period": "unknown",
             "population": "unknown",
             "residents": [
-                "https://swapi.co/api/people/49/"
+                "https://gotev.github.io/swapi-android/people/49/"
             ],
             "rotation_period": "unknown",
             "surface_water": "unknown",
             "terrain": "desert, tundra, rainforests, mountains",
-            "url": "https://swapi.co/api/planets/40/"
+            "url": "https://gotev.github.io/swapi-android/planets/40/"
         },
         {
             "climate": "unknown",
@@ -177,12 +177,12 @@
             "orbital_period": "1770",
             "population": "0",
             "residents": [
-                "https://swapi.co/api/people/50/"
+                "https://gotev.github.io/swapi-android/people/50/"
             ],
             "rotation_period": "48",
             "surface_water": "unknown",
             "terrain": "barren, ash",
-            "url": "https://swapi.co/api/planets/41/"
+            "url": "https://gotev.github.io/swapi-android/planets/41/"
         }
     ]
 }

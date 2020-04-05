@@ -39,8 +39,8 @@ fetch "species" "4"
 fetch "vehicles" "4"
 
 echo "Moving APIs to GitHub Pages Directory..."
-rm -rf ../docs/api
-mv api/ ../docs/
+cp -a api/* ../docs/
+rm -rf api
 
 echo
 echo "Fetching DONE!"

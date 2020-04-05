@@ -1,6 +1,6 @@
 {
     "count": 37,
-    "next": "https://swapi.co/api/starships/?page=2",
+    "next": "https://gotev.github.io/swapi-android/starships/?page=2",
     "previous": null,
     "results": [
         {
@@ -12,8 +12,8 @@
             "crew": "279144",
             "edited": "2017-04-19T10:56:06.685592Z",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "hyperdrive_rating": "2.0",
             "length": "19000",
@@ -24,7 +24,7 @@
             "passengers": "38000",
             "pilots": [],
             "starship_class": "Star dreadnought",
-            "url": "https://swapi.co/api/starships/15/"
+            "url": "https://gotev.github.io/swapi-android/starships/15/"
         },
         {
             "MGLT": "70",
@@ -35,7 +35,7 @@
             "crew": "5",
             "edited": "2014-12-22T17:35:44.431407Z",
             "films": [
-                "https://swapi.co/api/films/1/"
+                "https://gotev.github.io/swapi-android/films/1/"
             ],
             "hyperdrive_rating": "1.0",
             "length": "38",
@@ -46,7 +46,7 @@
             "passengers": "75",
             "pilots": [],
             "starship_class": "landing craft",
-            "url": "https://swapi.co/api/starships/5/"
+            "url": "https://gotev.github.io/swapi-android/starships/5/"
         },
         {
             "MGLT": "10",
@@ -57,7 +57,7 @@
             "crew": "342953",
             "edited": "2014-12-22T17:35:44.452589Z",
             "films": [
-                "https://swapi.co/api/films/1/"
+                "https://gotev.github.io/swapi-android/films/1/"
             ],
             "hyperdrive_rating": "4.0",
             "length": "120000",
@@ -68,7 +68,7 @@
             "passengers": "843342",
             "pilots": [],
             "starship_class": "Deep Space Mobile Battlestation",
-            "url": "https://swapi.co/api/starships/9/"
+            "url": "https://gotev.github.io/swapi-android/starships/9/"
         },
         {
             "MGLT": "75",
@@ -79,10 +79,10 @@
             "crew": "4",
             "edited": "2014-12-22T17:35:44.464156Z",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/7/",
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/1/"
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/7/",
+                "https://gotev.github.io/swapi-android/films/3/",
+                "https://gotev.github.io/swapi-android/films/1/"
             ],
             "hyperdrive_rating": "0.5",
             "length": "34.37",
@@ -92,13 +92,13 @@
             "name": "Millennium Falcon",
             "passengers": "6",
             "pilots": [
-                "https://swapi.co/api/people/13/",
-                "https://swapi.co/api/people/14/",
-                "https://swapi.co/api/people/25/",
-                "https://swapi.co/api/people/31/"
+                "https://gotev.github.io/swapi-android/people/13/",
+                "https://gotev.github.io/swapi-android/people/14/",
+                "https://gotev.github.io/swapi-android/people/25/",
+                "https://gotev.github.io/swapi-android/people/31/"
             ],
             "starship_class": "Light freighter",
-            "url": "https://swapi.co/api/starships/10/"
+            "url": "https://gotev.github.io/swapi-android/starships/10/"
         },
         {
             "MGLT": "80",
@@ -109,9 +109,9 @@
             "crew": "2",
             "edited": "2014-12-22T17:35:44.479706Z",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/1/"
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/3/",
+                "https://gotev.github.io/swapi-android/films/1/"
             ],
             "hyperdrive_rating": "1.0",
             "length": "14",
@@ -122,7 +122,7 @@
             "passengers": "0",
             "pilots": [],
             "starship_class": "assault starfighter",
-            "url": "https://swapi.co/api/starships/11/"
+            "url": "https://gotev.github.io/swapi-android/starships/11/"
         },
         {
             "MGLT": "100",
@@ -133,9 +133,9 @@
             "crew": "1",
             "edited": "2014-12-22T17:35:44.491233Z",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/1/"
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/3/",
+                "https://gotev.github.io/swapi-android/films/1/"
             ],
             "hyperdrive_rating": "1.0",
             "length": "12.5",
@@ -145,13 +145,13 @@
             "name": "X-wing",
             "passengers": "0",
             "pilots": [
-                "https://swapi.co/api/people/1/",
-                "https://swapi.co/api/people/9/",
-                "https://swapi.co/api/people/18/",
-                "https://swapi.co/api/people/19/"
+                "https://gotev.github.io/swapi-android/people/1/",
+                "https://gotev.github.io/swapi-android/people/9/",
+                "https://gotev.github.io/swapi-android/people/18/",
+                "https://gotev.github.io/swapi-android/people/19/"
             ],
             "starship_class": "Starfighter",
-            "url": "https://swapi.co/api/starships/12/"
+            "url": "https://gotev.github.io/swapi-android/starships/12/"
         },
         {
             "MGLT": "105",
@@ -162,7 +162,7 @@
             "crew": "1",
             "edited": "2014-12-22T17:35:44.549047Z",
             "films": [
-                "https://swapi.co/api/films/1/"
+                "https://gotev.github.io/swapi-android/films/1/"
             ],
             "hyperdrive_rating": "1.0",
             "length": "9.2",
@@ -172,10 +172,10 @@
             "name": "TIE Advanced x1",
             "passengers": "0",
             "pilots": [
-                "https://swapi.co/api/people/4/"
+                "https://gotev.github.io/swapi-android/people/4/"
             ],
             "starship_class": "Starfighter",
-            "url": "https://swapi.co/api/starships/13/"
+            "url": "https://gotev.github.io/swapi-android/starships/13/"
         },
         {
             "MGLT": "70",
@@ -186,8 +186,8 @@
             "crew": "1",
             "edited": "2014-12-22T17:35:44.716273Z",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/5/"
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/5/"
             ],
             "hyperdrive_rating": "3.0",
             "length": "21.5",
@@ -197,10 +197,10 @@
             "name": "Slave 1",
             "passengers": "6",
             "pilots": [
-                "https://swapi.co/api/people/22/"
+                "https://gotev.github.io/swapi-android/people/22/"
             ],
             "starship_class": "Patrol craft",
-            "url": "https://swapi.co/api/starships/21/"
+            "url": "https://gotev.github.io/swapi-android/starships/21/"
         },
         {
             "MGLT": "50",
@@ -211,8 +211,8 @@
             "crew": "6",
             "edited": "2014-12-22T17:35:44.795405Z",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "hyperdrive_rating": "1.0",
             "length": "20",
@@ -222,12 +222,12 @@
             "name": "Imperial shuttle",
             "passengers": "20",
             "pilots": [
-                "https://swapi.co/api/people/1/",
-                "https://swapi.co/api/people/13/",
-                "https://swapi.co/api/people/14/"
+                "https://gotev.github.io/swapi-android/people/1/",
+                "https://gotev.github.io/swapi-android/people/13/",
+                "https://gotev.github.io/swapi-android/people/14/"
             ],
             "starship_class": "Armed government transport",
-            "url": "https://swapi.co/api/starships/22/"
+            "url": "https://gotev.github.io/swapi-android/starships/22/"
         },
         {
             "MGLT": "40",
@@ -238,8 +238,8 @@
             "crew": "854",
             "edited": "2014-12-22T17:35:44.848329Z",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "hyperdrive_rating": "2.0",
             "length": "300",
@@ -250,7 +250,7 @@
             "passengers": "75",
             "pilots": [],
             "starship_class": "Escort ship",
-            "url": "https://swapi.co/api/starships/23/"
+            "url": "https://gotev.github.io/swapi-android/starships/23/"
         }
     ]
 }

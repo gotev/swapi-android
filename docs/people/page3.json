@@ -1,7 +1,7 @@
 {
     "count": 87,
-    "next": "https://swapi.co/api/people/?page=4",
-    "previous": "https://swapi.co/api/people/?page=2",
+    "next": "https://gotev.github.io/swapi-android/people/?page=4",
+    "previous": "https://gotev.github.io/swapi-android/people/?page=2",
     "results": [
         {
             "birth_year": "31.5BBY",
@@ -9,24 +9,24 @@
             "edited": "2014-12-20T21:17:50.349000Z",
             "eye_color": "brown",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/5/",
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "gender": "male",
             "hair_color": "black",
             "height": "183",
-            "homeworld": "https://swapi.co/api/planets/10/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/10/",
             "mass": "78.2",
             "name": "Boba Fett",
             "skin_color": "fair",
             "species": [
-                "https://swapi.co/api/species/1/"
+                "https://gotev.github.io/swapi-android/species/1/"
             ],
             "starships": [
-                "https://swapi.co/api/starships/21/"
+                "https://gotev.github.io/swapi-android/starships/21/"
             ],
-            "url": "https://swapi.co/api/people/22/",
+            "url": "https://gotev.github.io/swapi-android/people/22/",
             "vehicles": []
         },
         {
@@ -35,20 +35,20 @@
             "edited": "2014-12-20T21:17:50.351000Z",
             "eye_color": "red",
             "films": [
-                "https://swapi.co/api/films/2/"
+                "https://gotev.github.io/swapi-android/films/2/"
             ],
             "gender": "none",
             "hair_color": "none",
             "height": "200",
-            "homeworld": "https://swapi.co/api/planets/28/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/28/",
             "mass": "140",
             "name": "IG-88",
             "skin_color": "metal",
             "species": [
-                "https://swapi.co/api/species/2/"
+                "https://gotev.github.io/swapi-android/species/2/"
             ],
             "starships": [],
-            "url": "https://swapi.co/api/people/23/",
+            "url": "https://gotev.github.io/swapi-android/people/23/",
             "vehicles": []
         },
         {
@@ -57,20 +57,20 @@
             "edited": "2014-12-20T21:17:50.355000Z",
             "eye_color": "red",
             "films": [
-                "https://swapi.co/api/films/2/"
+                "https://gotev.github.io/swapi-android/films/2/"
             ],
             "gender": "male",
             "hair_color": "none",
             "height": "190",
-            "homeworld": "https://swapi.co/api/planets/29/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/29/",
             "mass": "113",
             "name": "Bossk",
             "skin_color": "green",
             "species": [
-                "https://swapi.co/api/species/7/"
+                "https://gotev.github.io/swapi-android/species/7/"
             ],
             "starships": [],
-            "url": "https://swapi.co/api/people/24/",
+            "url": "https://gotev.github.io/swapi-android/people/24/",
             "vehicles": []
         },
         {
@@ -79,23 +79,23 @@
             "edited": "2014-12-20T21:17:50.357000Z",
             "eye_color": "brown",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "gender": "male",
             "hair_color": "black",
             "height": "177",
-            "homeworld": "https://swapi.co/api/planets/30/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/30/",
             "mass": "79",
             "name": "Lando Calrissian",
             "skin_color": "dark",
             "species": [
-                "https://swapi.co/api/species/1/"
+                "https://gotev.github.io/swapi-android/species/1/"
             ],
             "starships": [
-                "https://swapi.co/api/starships/10/"
+                "https://gotev.github.io/swapi-android/starships/10/"
             ],
-            "url": "https://swapi.co/api/people/25/",
+            "url": "https://gotev.github.io/swapi-android/people/25/",
             "vehicles": []
         },
         {
@@ -104,20 +104,20 @@
             "edited": "2014-12-20T21:17:50.359000Z",
             "eye_color": "blue",
             "films": [
-                "https://swapi.co/api/films/2/"
+                "https://gotev.github.io/swapi-android/films/2/"
             ],
             "gender": "male",
             "hair_color": "none",
             "height": "175",
-            "homeworld": "https://swapi.co/api/planets/6/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/6/",
             "mass": "79",
             "name": "Lobot",
             "skin_color": "light",
             "species": [
-                "https://swapi.co/api/species/1/"
+                "https://gotev.github.io/swapi-android/species/1/"
             ],
             "starships": [],
-            "url": "https://swapi.co/api/people/26/",
+            "url": "https://gotev.github.io/swapi-android/people/26/",
             "vehicles": []
         },
         {
@@ -126,21 +126,21 @@
             "edited": "2014-12-20T21:17:50.362000Z",
             "eye_color": "orange",
             "films": [
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/7/"
+                "https://gotev.github.io/swapi-android/films/3/",
+                "https://gotev.github.io/swapi-android/films/7/"
             ],
             "gender": "male",
             "hair_color": "none",
             "height": "180",
-            "homeworld": "https://swapi.co/api/planets/31/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/31/",
             "mass": "83",
             "name": "Ackbar",
             "skin_color": "brown mottle",
             "species": [
-                "https://swapi.co/api/species/8/"
+                "https://gotev.github.io/swapi-android/species/8/"
             ],
             "starships": [],
-            "url": "https://swapi.co/api/people/27/",
+            "url": "https://gotev.github.io/swapi-android/people/27/",
             "vehicles": []
         },
         {
@@ -149,20 +149,20 @@
             "edited": "2014-12-20T21:17:50.364000Z",
             "eye_color": "blue",
             "films": [
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "gender": "female",
             "hair_color": "auburn",
             "height": "150",
-            "homeworld": "https://swapi.co/api/planets/32/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/32/",
             "mass": "unknown",
             "name": "Mon Mothma",
             "skin_color": "fair",
             "species": [
-                "https://swapi.co/api/species/1/"
+                "https://gotev.github.io/swapi-android/species/1/"
             ],
             "starships": [],
-            "url": "https://swapi.co/api/people/28/",
+            "url": "https://gotev.github.io/swapi-android/people/28/",
             "vehicles": []
         },
         {
@@ -171,22 +171,22 @@
             "edited": "2014-12-20T21:17:50.367000Z",
             "eye_color": "brown",
             "films": [
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "gender": "male",
             "hair_color": "brown",
             "height": "unknown",
-            "homeworld": "https://swapi.co/api/planets/28/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/28/",
             "mass": "unknown",
             "name": "Arvel Crynyd",
             "skin_color": "fair",
             "species": [
-                "https://swapi.co/api/species/1/"
+                "https://gotev.github.io/swapi-android/species/1/"
             ],
             "starships": [
-                "https://swapi.co/api/starships/28/"
+                "https://gotev.github.io/swapi-android/starships/28/"
             ],
-            "url": "https://swapi.co/api/people/29/",
+            "url": "https://gotev.github.io/swapi-android/people/29/",
             "vehicles": []
         },
         {
@@ -195,20 +195,20 @@
             "edited": "2014-12-20T21:17:50.369000Z",
             "eye_color": "brown",
             "films": [
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "gender": "male",
             "hair_color": "brown",
             "height": "88",
-            "homeworld": "https://swapi.co/api/planets/7/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/7/",
             "mass": "20",
             "name": "Wicket Systri Warrick",
             "skin_color": "brown",
             "species": [
-                "https://swapi.co/api/species/9/"
+                "https://gotev.github.io/swapi-android/species/9/"
             ],
             "starships": [],
-            "url": "https://swapi.co/api/people/30/",
+            "url": "https://gotev.github.io/swapi-android/people/30/",
             "vehicles": []
         },
         {
@@ -217,22 +217,22 @@
             "edited": "2014-12-20T21:17:50.371000Z",
             "eye_color": "black",
             "films": [
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "gender": "male",
             "hair_color": "none",
             "height": "160",
-            "homeworld": "https://swapi.co/api/planets/33/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/33/",
             "mass": "68",
             "name": "Nien Nunb",
             "skin_color": "grey",
             "species": [
-                "https://swapi.co/api/species/10/"
+                "https://gotev.github.io/swapi-android/species/10/"
             ],
             "starships": [
-                "https://swapi.co/api/starships/10/"
+                "https://gotev.github.io/swapi-android/starships/10/"
             ],
-            "url": "https://swapi.co/api/people/31/",
+            "url": "https://gotev.github.io/swapi-android/people/31/",
             "vehicles": []
         }
     ]

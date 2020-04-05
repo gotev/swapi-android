@@ -1,7 +1,7 @@
 {
     "count": 61,
     "next": null,
-    "previous": "https://swapi.co/api/planets/?page=6",
+    "previous": "https://gotev.github.io/swapi-android/planets/?page=6",
     "results": [
         {
             "climate": "unknown",
@@ -9,7 +9,7 @@
             "diameter": "unknown",
             "edited": "2015-04-17T06:55:57.556551Z",
             "films": [
-                "https://swapi.co/api/films/7/"
+                "https://gotev.github.io/swapi-android/films/7/"
             ],
             "gravity": "unknown",
             "name": "Jakku",
@@ -19,7 +19,7 @@
             "rotation_period": "unknown",
             "surface_water": "unknown",
             "terrain": "deserts",
-            "url": "https://swapi.co/api/planets/61/"
+            "url": "https://gotev.github.io/swapi-android/planets/61/"
         }
     ]
 }

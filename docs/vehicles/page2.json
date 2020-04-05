@@ -1,7 +1,7 @@
 {
     "count": 39,
-    "next": "https://swapi.co/api/vehicles/?page=3",
-    "previous": "https://swapi.co/api/vehicles/?page=1",
+    "next": "https://gotev.github.io/swapi-android/vehicles/?page=3",
+    "previous": "https://gotev.github.io/swapi-android/vehicles/?page=1",
     "results": [
         {
             "cargo_capacity": "135000",
@@ -11,7 +11,7 @@
             "crew": "5",
             "edited": "2014-12-22T18:21:15.845988Z",
             "films": [
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "length": "9.5",
             "manufacturer": "Ubrikkian Industries",
@@ -20,7 +20,7 @@
             "name": "Bantha-II cargo skiff",
             "passengers": "16",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/25/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/25/",
             "vehicle_class": "repulsorcraft cargo skiff"
         },
         {
@@ -31,7 +31,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:15.882388Z",
             "films": [
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "length": "9.6",
             "manufacturer": "Sienar Fleet Systems",
@@ -40,7 +40,7 @@
             "name": "TIE/IN interceptor",
             "passengers": "0",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/26/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/26/",
             "vehicle_class": "starfighter"
         },
         {
@@ -51,7 +51,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:15.920537Z",
             "films": [
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "length": "3",
             "manufacturer": "Aratech Repulsor Company",
@@ -60,10 +60,10 @@
             "name": "Imperial Speeder Bike",
             "passengers": "1",
             "pilots": [
-                "https://swapi.co/api/people/1/",
-                "https://swapi.co/api/people/5/"
+                "https://gotev.github.io/swapi-android/people/1/",
+                "https://gotev.github.io/swapi-android/people/5/"
             ],
-            "url": "https://swapi.co/api/vehicles/30/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/30/",
             "vehicle_class": "speeder"
         },
         {
@@ -74,8 +74,8 @@
             "crew": "0",
             "edited": "2014-12-22T18:21:15.953870Z",
             "films": [
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/4/",
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "length": "3.5",
             "manufacturer": "Haor Chall Engineering, Baktoid Armor Workshop",
@@ -84,7 +84,7 @@
             "name": "Vulture Droid",
             "passengers": "0",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/33/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/33/",
             "vehicle_class": "starfighter"
         },
         {
@@ -95,7 +95,7 @@
             "crew": "4",
             "edited": "2014-12-22T18:21:15.975171Z",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "https://gotev.github.io/swapi-android/films/4/"
             ],
             "length": "31",
             "manufacturer": "Baktoid Armor Workshop",
@@ -104,7 +104,7 @@
             "name": "Multi-Troop Transport",
             "passengers": "112",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/34/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/34/",
             "vehicle_class": "repulsorcraft"
         },
         {
@@ -115,7 +115,7 @@
             "crew": "4",
             "edited": "2014-12-22T18:21:15.984817Z",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "https://gotev.github.io/swapi-android/films/4/"
             ],
             "length": "9.75",
             "manufacturer": "Baktoid Armor Workshop",
@@ -124,7 +124,7 @@
             "name": "Armored Assault Tank",
             "passengers": "6",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/35/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/35/",
             "vehicle_class": "repulsorcraft"
         },
         {
@@ -135,7 +135,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:16.008594Z",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "https://gotev.github.io/swapi-android/films/4/"
             ],
             "length": "2",
             "manufacturer": "Baktoid Armor Workshop",
@@ -144,7 +144,7 @@
             "name": "Single Trooper Aerial Platform",
             "passengers": "0",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/36/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/36/",
             "vehicle_class": "repulsorcraft"
         },
         {
@@ -155,7 +155,7 @@
             "crew": "140",
             "edited": "2014-12-22T18:21:16.033738Z",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "https://gotev.github.io/swapi-android/films/4/"
             ],
             "length": "210",
             "manufacturer": "Haor Chall Engineering",
@@ -164,7 +164,7 @@
             "name": "C-9979 landing craft",
             "passengers": "284",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/37/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/37/",
             "vehicle_class": "landing craft"
         },
         {
@@ -175,7 +175,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:16.072083Z",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "https://gotev.github.io/swapi-android/films/4/"
             ],
             "length": "15",
             "manufacturer": "Otoh Gunga Bongameken Cooperative",
@@ -184,10 +184,10 @@
             "name": "Tribubble bongo",
             "passengers": "2",
             "pilots": [
-                "https://swapi.co/api/people/10/",
-                "https://swapi.co/api/people/32/"
+                "https://gotev.github.io/swapi-android/people/10/",
+                "https://gotev.github.io/swapi-android/people/32/"
             ],
-            "url": "https://swapi.co/api/vehicles/38/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/38/",
             "vehicle_class": "submarine"
         },
         {
@@ -198,7 +198,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:16.095041Z",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "https://gotev.github.io/swapi-android/films/4/"
             ],
             "length": "1.5",
             "manufacturer": "Razalon",
@@ -207,9 +207,9 @@
             "name": "Sith speeder",
             "passengers": "0",
             "pilots": [
-                "https://swapi.co/api/people/44/"
+                "https://gotev.github.io/swapi-android/people/44/"
             ],
-            "url": "https://swapi.co/api/vehicles/42/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/42/",
             "vehicle_class": "speeder"
         }
     ]

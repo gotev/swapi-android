@@ -1,7 +1,7 @@
 {
     "count": 39,
     "next": null,
-    "previous": "https://swapi.co/api/vehicles/?page=3",
+    "previous": "https://gotev.github.io/swapi-android/vehicles/?page=3",
     "results": [
         {
             "cargo_capacity": "30000",
@@ -11,7 +11,7 @@
             "crew": "20",
             "edited": "2014-12-22T18:21:16.571079Z",
             "films": [
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "length": "49.4",
             "manufacturer": "Kuat Drive Yards",
@@ -20,7 +20,7 @@
             "name": "Clone turbo tank",
             "passengers": "300",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/71/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/71/",
             "vehicle_class": "wheeled walker"
         },
         {
@@ -31,7 +31,7 @@
             "crew": "0",
             "edited": "2014-12-22T18:21:16.612902Z",
             "films": [
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "length": "10.96",
             "manufacturer": "Techno Union",
@@ -40,7 +40,7 @@
             "name": "Corporate Alliance tank droid",
             "passengers": "4",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/72/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/72/",
             "vehicle_class": "droid tank"
         },
         {
@@ -51,7 +51,7 @@
             "crew": "0",
             "edited": "2014-12-22T18:21:16.643329Z",
             "films": [
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "length": "12.3",
             "manufacturer": "Baktoid Fleet Ordnance, Haor Chall Engineering",
@@ -60,7 +60,7 @@
             "name": "Droid gunship",
             "passengers": "0",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/73/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/73/",
             "vehicle_class": "airspeeder"
         },
         {
@@ -71,7 +71,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:16.672821Z",
             "films": [
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "length": "3.2",
             "manufacturer": "Kuat Drive Yards",
@@ -80,7 +80,7 @@
             "name": "AT-RT",
             "passengers": "0",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/76/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/76/",
             "vehicle_class": "walker"
         },
         {
@@ -91,8 +91,8 @@
             "crew": "6",
             "edited": "2014-12-22T18:21:16.293771Z",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/5/",
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "length": "13.2",
             "manufacturer": "Rothana Heavy Engineering, Kuat Drive Yards",
@@ -101,7 +101,7 @@
             "name": "AT-TE",
             "passengers": "36",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/53/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/53/",
             "vehicle_class": "walker"
         },
         {
@@ -112,7 +112,7 @@
             "crew": "25",
             "edited": "2014-12-22T18:21:16.311761Z",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "https://gotev.github.io/swapi-android/films/5/"
             ],
             "length": "140",
             "manufacturer": "Rothana Heavy Engineering",
@@ -121,7 +121,7 @@
             "name": "SPHA",
             "passengers": "30",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/54/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/54/",
             "vehicle_class": "walker"
         },
         {
@@ -132,7 +132,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:16.335005Z",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "https://gotev.github.io/swapi-android/films/5/"
             ],
             "length": "2",
             "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
@@ -141,9 +141,9 @@
             "name": "Flitknot speeder",
             "passengers": "0",
             "pilots": [
-                "https://swapi.co/api/people/67/"
+                "https://gotev.github.io/swapi-android/people/67/"
             ],
-            "url": "https://swapi.co/api/vehicles/55/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/55/",
             "vehicle_class": "speeder"
         },
         {
@@ -154,8 +154,8 @@
             "crew": "2",
             "edited": "2014-12-22T18:21:16.366134Z",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/5/",
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "length": "20",
             "manufacturer": "Haor Chall Engineering",
@@ -164,7 +164,7 @@
             "name": "Neimoidian shuttle",
             "passengers": "6",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/56/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/56/",
             "vehicle_class": "transport"
         },
         {
@@ -175,7 +175,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:16.390980Z",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "https://gotev.github.io/swapi-android/films/5/"
             ],
             "length": "9.8",
             "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
@@ -184,7 +184,7 @@
             "name": "Geonosian starfighter",
             "passengers": "0",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/57/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/57/",
             "vehicle_class": "starfighter"
         }
     ]

@@ -1,7 +1,7 @@
 {
     "count": 37,
-    "next": "https://swapi.co/api/species/?page=3",
-    "previous": "https://swapi.co/api/species/?page=1",
+    "next": "https://gotev.github.io/swapi-android/species/?page=3",
+    "previous": "https://gotev.github.io/swapi-android/species/?page=1",
     "results": [
         {
             "average_height": "200",
@@ -12,21 +12,21 @@
             "edited": "2014-12-20T21:36:42.169000Z",
             "eye_colors": "blue, brown, orange, pink",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/",
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/5/",
+                "https://gotev.github.io/swapi-android/films/4/",
+                "https://gotev.github.io/swapi-android/films/6/",
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "hair_colors": "none",
-            "homeworld": "https://swapi.co/api/planets/37/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/37/",
             "language": "Twi'leki",
             "name": "Twi'lek",
             "people": [
-                "https://swapi.co/api/people/45/",
-                "https://swapi.co/api/people/46/"
+                "https://gotev.github.io/swapi-android/people/45/",
+                "https://gotev.github.io/swapi-android/people/46/"
             ],
             "skin_colors": "orange, yellow, blue, green, pink, purple, tan",
-            "url": "https://swapi.co/api/species/15/"
+            "url": "https://gotev.github.io/swapi-android/species/15/"
         },
         {
             "average_height": "80",
@@ -37,17 +37,17 @@
             "edited": "2014-12-20T21:36:42.171000Z",
             "eye_colors": "unknown",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "https://gotev.github.io/swapi-android/films/4/"
             ],
             "hair_colors": "none",
-            "homeworld": "https://swapi.co/api/planets/38/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/38/",
             "language": "Aleena",
             "name": "Aleena",
             "people": [
-                "https://swapi.co/api/people/47/"
+                "https://gotev.github.io/swapi-android/people/47/"
             ],
             "skin_colors": "blue, gray",
-            "url": "https://swapi.co/api/species/16/"
+            "url": "https://gotev.github.io/swapi-android/species/16/"
         },
         {
             "average_height": "100",
@@ -58,17 +58,17 @@
             "edited": "2014-12-20T21:36:42.173000Z",
             "eye_colors": "yellow",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "https://gotev.github.io/swapi-android/films/4/"
             ],
             "hair_colors": "none",
-            "homeworld": "https://swapi.co/api/planets/39/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/39/",
             "language": "vulpterish",
             "name": "Vulptereen",
             "people": [
-                "https://swapi.co/api/people/48/"
+                "https://gotev.github.io/swapi-android/people/48/"
             ],
             "skin_colors": "grey",
-            "url": "https://swapi.co/api/species/17/"
+            "url": "https://gotev.github.io/swapi-android/species/17/"
         },
         {
             "average_height": "125",
@@ -79,17 +79,17 @@
             "edited": "2014-12-20T21:36:42.175000Z",
             "eye_colors": "black",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "https://gotev.github.io/swapi-android/films/4/"
             ],
             "hair_colors": "none",
-            "homeworld": "https://swapi.co/api/planets/40/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/40/",
             "language": "Xextese",
             "name": "Xexto",
             "people": [
-                "https://swapi.co/api/people/49/"
+                "https://gotev.github.io/swapi-android/people/49/"
             ],
             "skin_colors": "grey, yellow, purple",
-            "url": "https://swapi.co/api/species/18/"
+            "url": "https://gotev.github.io/swapi-android/species/18/"
         },
         {
             "average_height": "200",
@@ -100,18 +100,18 @@
             "edited": "2014-12-20T21:36:42.177000Z",
             "eye_colors": "orange",
             "films": [
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/4/",
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "hair_colors": "none",
-            "homeworld": "https://swapi.co/api/planets/41/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/41/",
             "language": "Tundan",
             "name": "Toong",
             "people": [
-                "https://swapi.co/api/people/50/"
+                "https://gotev.github.io/swapi-android/people/50/"
             ],
             "skin_colors": "grey, green, yellow",
-            "url": "https://swapi.co/api/species/19/"
+            "url": "https://gotev.github.io/swapi-android/species/19/"
         },
         {
             "average_height": "200",
@@ -122,18 +122,18 @@
             "edited": "2014-12-20T21:36:42.179000Z",
             "eye_colors": "hazel",
             "films": [
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/4/",
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "hair_colors": "red, blond, black, white",
-            "homeworld": "https://swapi.co/api/planets/43/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/43/",
             "language": "Cerean",
             "name": "Cerean",
             "people": [
-                "https://swapi.co/api/people/52/"
+                "https://gotev.github.io/swapi-android/people/52/"
             ],
             "skin_colors": "pale pink",
-            "url": "https://swapi.co/api/species/20/"
+            "url": "https://gotev.github.io/swapi-android/species/20/"
         },
         {
             "average_height": "180",
@@ -144,17 +144,17 @@
             "edited": "2014-12-20T21:36:42.181000Z",
             "eye_colors": "black",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "https://gotev.github.io/swapi-android/films/4/"
             ],
             "hair_colors": "none",
-            "homeworld": "https://swapi.co/api/planets/44/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/44/",
             "language": "Nautila",
             "name": "Nautolan",
             "people": [
-                "https://swapi.co/api/people/53/"
+                "https://gotev.github.io/swapi-android/people/53/"
             ],
             "skin_colors": "green, blue, brown, red",
-            "url": "https://swapi.co/api/species/21/"
+            "url": "https://gotev.github.io/swapi-android/species/21/"
         },
         {
             "average_height": "180",
@@ -165,18 +165,18 @@
             "edited": "2014-12-20T21:36:42.183000Z",
             "eye_colors": "brown, orange",
             "films": [
-                "https://swapi.co/api/films/4/"
+                "https://gotev.github.io/swapi-android/films/4/"
             ],
             "hair_colors": "black",
-            "homeworld": "https://swapi.co/api/planets/45/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/45/",
             "language": "Zabraki",
             "name": "Zabrak",
             "people": [
-                "https://swapi.co/api/people/44/",
-                "https://swapi.co/api/people/54/"
+                "https://gotev.github.io/swapi-android/people/44/",
+                "https://gotev.github.io/swapi-android/people/54/"
             ],
             "skin_colors": "pale, brown, red, orange, yellow",
-            "url": "https://swapi.co/api/species/22/"
+            "url": "https://gotev.github.io/swapi-android/species/22/"
         },
         {
             "average_height": "unknown",
@@ -187,18 +187,18 @@
             "edited": "2014-12-20T21:36:42.186000Z",
             "eye_colors": "blue, indigo",
             "films": [
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/4/",
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "hair_colors": "unknown",
-            "homeworld": "https://swapi.co/api/planets/46/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/46/",
             "language": "unknown",
             "name": "Tholothian",
             "people": [
-                "https://swapi.co/api/people/55/"
+                "https://gotev.github.io/swapi-android/people/55/"
             ],
             "skin_colors": "dark",
-            "url": "https://swapi.co/api/species/23/"
+            "url": "https://gotev.github.io/swapi-android/species/23/"
         },
         {
             "average_height": "180",
@@ -209,18 +209,18 @@
             "edited": "2014-12-20T21:36:42.188000Z",
             "eye_colors": "orange",
             "films": [
-                "https://swapi.co/api/films/4/",
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/4/",
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "hair_colors": "none",
-            "homeworld": "https://swapi.co/api/planets/47/",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/47/",
             "language": "Iktotchese",
             "name": "Iktotchi",
             "people": [
-                "https://swapi.co/api/people/56/"
+                "https://gotev.github.io/swapi-android/people/56/"
             ],
             "skin_colors": "pink",
-            "url": "https://swapi.co/api/species/24/"
+            "url": "https://gotev.github.io/swapi-android/species/24/"
         }
     ]
 }

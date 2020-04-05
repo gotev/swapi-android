@@ -1,7 +1,7 @@
 {
     "count": 39,
-    "next": "https://swapi.co/api/vehicles/?page=4",
-    "previous": "https://swapi.co/api/vehicles/?page=2",
+    "next": "https://gotev.github.io/swapi-android/vehicles/?page=4",
+    "previous": "https://gotev.github.io/swapi-android/vehicles/?page=2",
     "results": [
         {
             "cargo_capacity": "200",
@@ -11,7 +11,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:16.117652Z",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "https://gotev.github.io/swapi-android/films/5/"
             ],
             "length": "3.68",
             "manufacturer": "Mobquet Swoops and Speeders",
@@ -20,9 +20,9 @@
             "name": "Zephyr-G swoop bike",
             "passengers": "1",
             "pilots": [
-                "https://swapi.co/api/people/11/"
+                "https://gotev.github.io/swapi-android/people/11/"
             ],
-            "url": "https://swapi.co/api/vehicles/44/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/44/",
             "vehicle_class": "repulsorcraft"
         },
         {
@@ -33,7 +33,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:16.140018Z",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "https://gotev.github.io/swapi-android/films/5/"
             ],
             "length": "6.6",
             "manufacturer": "Desler Gizh Outworld Mobility Corporation",
@@ -42,9 +42,9 @@
             "name": "Koro-2 Exodrive airspeeder",
             "passengers": "1",
             "pilots": [
-                "https://swapi.co/api/people/70/"
+                "https://gotev.github.io/swapi-android/people/70/"
             ],
-            "url": "https://swapi.co/api/vehicles/45/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/45/",
             "vehicle_class": "airspeeder"
         },
         {
@@ -55,7 +55,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:16.150194Z",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "https://gotev.github.io/swapi-android/films/5/"
             ],
             "length": "6.23",
             "manufacturer": "Narglatch AirTech prefabricated kit",
@@ -64,9 +64,9 @@
             "name": "XJ-6 airspeeder",
             "passengers": "1",
             "pilots": [
-                "https://swapi.co/api/people/11/"
+                "https://gotev.github.io/swapi-android/people/11/"
             ],
-            "url": "https://swapi.co/api/vehicles/46/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/46/",
             "vehicle_class": "airspeeder"
         },
         {
@@ -77,8 +77,8 @@
             "crew": "6",
             "edited": "2014-12-22T18:21:16.181363Z",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/5/",
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "length": "17.4",
             "manufacturer": "Rothana Heavy Engineering",
@@ -87,7 +87,7 @@
             "name": "LAAT/i",
             "passengers": "30",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/50/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/50/",
             "vehicle_class": "gunship"
         },
         {
@@ -98,7 +98,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:16.229733Z",
             "films": [
-                "https://swapi.co/api/films/5/"
+                "https://gotev.github.io/swapi-android/films/5/"
             ],
             "length": "28.82",
             "manufacturer": "Rothana Heavy Engineering",
@@ -107,7 +107,7 @@
             "name": "LAAT/c",
             "passengers": "0",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/51/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/51/",
             "vehicle_class": "gunship"
         },
         {
@@ -118,7 +118,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:16.422662Z",
             "films": [
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "length": "3.5",
             "manufacturer": "Z-Gomot Ternbuell Guppat Corporation",
@@ -127,9 +127,9 @@
             "name": "Tsmeu-6 personal wheel bike",
             "passengers": "1",
             "pilots": [
-                "https://swapi.co/api/people/79/"
+                "https://gotev.github.io/swapi-android/people/79/"
             ],
-            "url": "https://swapi.co/api/vehicles/60/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/60/",
             "vehicle_class": "wheeled walker"
         },
         {
@@ -140,7 +140,7 @@
             "crew": "2",
             "edited": "2014-12-22T18:21:16.450655Z",
             "films": [
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "length": "unknown",
             "manufacturer": "unknown",
@@ -149,7 +149,7 @@
             "name": "Emergency Firespeeder",
             "passengers": "unknown",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/62/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/62/",
             "vehicle_class": "fire suppression ship"
         },
         {
@@ -160,7 +160,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:16.478901Z",
             "films": [
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "length": "5.4",
             "manufacturer": "Colla Designs, Phlac-Arphocc Automata Industries",
@@ -169,7 +169,7 @@
             "name": "Droid tri-fighter",
             "passengers": "0",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/67/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/67/",
             "vehicle_class": "droid starfighter"
         },
         {
@@ -180,7 +180,7 @@
             "crew": "2",
             "edited": "2014-12-22T18:21:16.517049Z",
             "films": [
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "length": "15.1",
             "manufacturer": "Appazanna Engineering Works",
@@ -189,7 +189,7 @@
             "name": "Oevvaor jet catamaran",
             "passengers": "2",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/69/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/69/",
             "vehicle_class": "airspeeder"
         },
         {
@@ -200,7 +200,7 @@
             "crew": "2",
             "edited": "2014-12-22T18:21:16.547708Z",
             "films": [
-                "https://swapi.co/api/films/6/"
+                "https://gotev.github.io/swapi-android/films/6/"
             ],
             "length": "7",
             "manufacturer": "Appazanna Engineering Works",
@@ -209,7 +209,7 @@
             "name": "Raddaugh Gnasp fluttercraft",
             "passengers": "0",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/70/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/70/",
             "vehicle_class": "air speeder"
         }
     ]

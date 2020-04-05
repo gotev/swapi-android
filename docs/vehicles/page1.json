@@ -1,6 +1,6 @@
 {
     "count": 39,
-    "next": "https://swapi.co/api/vehicles/?page=2",
+    "next": "https://gotev.github.io/swapi-android/vehicles/?page=2",
     "previous": null,
     "results": [
         {
@@ -11,8 +11,8 @@
             "crew": "46",
             "edited": "2014-12-22T18:21:15.523587Z",
             "films": [
-                "https://swapi.co/api/films/5/",
-                "https://swapi.co/api/films/1/"
+                "https://gotev.github.io/swapi-android/films/5/",
+                "https://gotev.github.io/swapi-android/films/1/"
             ],
             "length": "36.8",
             "manufacturer": "Corellia Mining Corporation",
@@ -21,7 +21,7 @@
             "name": "Sand Crawler",
             "passengers": "30",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/4/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/4/",
             "vehicle_class": "wheeled"
         },
         {
@@ -32,7 +32,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:15.552614Z",
             "films": [
-                "https://swapi.co/api/films/1/"
+                "https://gotev.github.io/swapi-android/films/1/"
             ],
             "length": "10.4",
             "manufacturer": "Incom Corporation",
@@ -41,7 +41,7 @@
             "name": "T-16 skyhopper",
             "passengers": "1",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/6/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/6/",
             "vehicle_class": "repulsorcraft"
         },
         {
@@ -52,7 +52,7 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:15.583700Z",
             "films": [
-                "https://swapi.co/api/films/1/"
+                "https://gotev.github.io/swapi-android/films/1/"
             ],
             "length": "3.4",
             "manufacturer": "SoroSuub Corporation",
@@ -61,7 +61,7 @@
             "name": "X-34 landspeeder",
             "passengers": "1",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/7/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/7/",
             "vehicle_class": "repulsorcraft"
         },
         {
@@ -72,9 +72,9 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:15.606149Z",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/3/",
-                "https://swapi.co/api/films/1/"
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/3/",
+                "https://gotev.github.io/swapi-android/films/1/"
             ],
             "length": "6.4",
             "manufacturer": "Sienar Fleet Systems",
@@ -83,7 +83,7 @@
             "name": "TIE/LN starfighter",
             "passengers": "0",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/8/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/8/",
             "vehicle_class": "starfighter"
         },
         {
@@ -94,7 +94,7 @@
             "crew": "2",
             "edited": "2014-12-22T18:21:15.623033Z",
             "films": [
-                "https://swapi.co/api/films/2/"
+                "https://gotev.github.io/swapi-android/films/2/"
             ],
             "length": "4.5",
             "manufacturer": "Incom corporation",
@@ -103,10 +103,10 @@
             "name": "Snowspeeder",
             "passengers": "0",
             "pilots": [
-                "https://swapi.co/api/people/1/",
-                "https://swapi.co/api/people/18/"
+                "https://gotev.github.io/swapi-android/people/1/",
+                "https://gotev.github.io/swapi-android/people/18/"
             ],
-            "url": "https://swapi.co/api/vehicles/14/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/14/",
             "vehicle_class": "airspeeder"
         },
         {
@@ -117,8 +117,8 @@
             "crew": "1",
             "edited": "2014-12-22T18:21:15.667730Z",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "length": "7.8",
             "manufacturer": "Sienar Fleet Systems",
@@ -127,7 +127,7 @@
             "name": "TIE bomber",
             "passengers": "0",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/16/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/16/",
             "vehicle_class": "space/planetary bomber"
         },
         {
@@ -138,8 +138,8 @@
             "crew": "5",
             "edited": "2014-12-22T18:21:15.714673Z",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "length": "20",
             "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
@@ -148,7 +148,7 @@
             "name": "AT-AT",
             "passengers": "40",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/18/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/18/",
             "vehicle_class": "assault walker"
         },
         {
@@ -159,8 +159,8 @@
             "crew": "2",
             "edited": "2014-12-22T18:21:15.761584Z",
             "films": [
-                "https://swapi.co/api/films/2/",
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "length": "2",
             "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
@@ -169,9 +169,9 @@
             "name": "AT-ST",
             "passengers": "0",
             "pilots": [
-                "https://swapi.co/api/people/13/"
+                "https://gotev.github.io/swapi-android/people/13/"
             ],
-            "url": "https://swapi.co/api/vehicles/19/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/19/",
             "vehicle_class": "walker"
         },
         {
@@ -182,7 +182,7 @@
             "crew": "2",
             "edited": "2014-12-22T18:21:15.783232Z",
             "films": [
-                "https://swapi.co/api/films/2/"
+                "https://gotev.github.io/swapi-android/films/2/"
             ],
             "length": "7",
             "manufacturer": "Bespin Motors",
@@ -191,7 +191,7 @@
             "name": "Storm IV Twin-Pod cloud car",
             "passengers": "0",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/20/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/20/",
             "vehicle_class": "repulsorcraft"
         },
         {
@@ -202,7 +202,7 @@
             "crew": "26",
             "edited": "2014-12-22T18:21:15.807906Z",
             "films": [
-                "https://swapi.co/api/films/3/"
+                "https://gotev.github.io/swapi-android/films/3/"
             ],
             "length": "30",
             "manufacturer": "Ubrikkian Industries Custom Vehicle Division",
@@ -211,7 +211,7 @@
             "name": "Sail barge",
             "passengers": "500",
             "pilots": [],
-            "url": "https://swapi.co/api/vehicles/24/",
+            "url": "https://gotev.github.io/swapi-android/vehicles/24/",
             "vehicle_class": "sail barge"
         }
     ]
