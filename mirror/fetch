@@ -2,6 +2,8 @@
 
 FETCHED_DIR="fetched"
 API_DIR="api"
+API_SOURCE_URI="https://swapi.co/api/"
+API_MIRROR_URI="https://gotev.github.io/swapi-android/"
 
 function fetch {
   echo "fetching $1 ..."
@@ -17,7 +19,7 @@ function fetch {
 
     mkdir -p "${API_DIR}/${1}"
     api_file_name="${API_DIR}/${1}/page${pageNumber}.json"
-    cp "$file_name" "$api_file_name"
+    cat "$file_name" | sed "s*${API_SOURCE_URI}*${API_MIRROR_URI}*g" > "$api_file_name"
   done
 }
 

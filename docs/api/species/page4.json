@@ -1,0 +1,210 @@
+{
+    "count": 37,
+    "next": null,
+    "previous": "https://gotev.github.io/swapi-android/species/?page=3",
+    "results": [
+        {
+            "average_height": "180",
+            "average_lifespan": "94",
+            "classification": "mammal",
+            "created": "2014-12-20T18:44:03.246000Z",
+            "designation": "sentient",
+            "edited": "2014-12-20T21:36:42.209000Z",
+            "eye_colors": "red, orange, yellow, green, blue, black",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/5/",
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "hair_colors": "none",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/58/",
+            "language": "Togruti",
+            "name": "Togruta",
+            "people": [
+                "https://gotev.github.io/swapi-android/people/78/"
+            ],
+            "skin_colors": "red, white, orange, yellow, green, blue",
+            "url": "https://gotev.github.io/swapi-android/species/35/"
+        },
+        {
+            "average_height": "170",
+            "average_lifespan": "80",
+            "classification": "reptile",
+            "created": "2014-12-20T19:45:42.537000Z",
+            "designation": "sentient",
+            "edited": "2014-12-20T21:36:42.210000Z",
+            "eye_colors": "yellow",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "hair_colors": "none",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/59/",
+            "language": "Kaleesh",
+            "name": "Kaleesh",
+            "people": [
+                "https://gotev.github.io/swapi-android/people/79/"
+            ],
+            "skin_colors": "brown, orange, tan",
+            "url": "https://gotev.github.io/swapi-android/species/36/"
+        },
+        {
+            "average_height": "190",
+            "average_lifespan": "700",
+            "classification": "mammal",
+            "created": "2014-12-20T20:35:06.777000Z",
+            "designation": "sentient",
+            "edited": "2014-12-20T21:36:42.212000Z",
+            "eye_colors": "black",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "hair_colors": "none",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/12/",
+            "language": "Utapese",
+            "name": "Pau'an",
+            "people": [
+                "https://gotev.github.io/swapi-android/people/83/"
+            ],
+            "skin_colors": "grey",
+            "url": "https://gotev.github.io/swapi-android/species/37/"
+        },
+        {
+            "average_height": "210",
+            "average_lifespan": "400",
+            "classification": "mammal",
+            "created": "2014-12-10T16:44:31.486000Z",
+            "designation": "sentient",
+            "edited": "2015-01-30T21:23:03.074598Z",
+            "eye_colors": "blue, green, yellow, brown, golden, red",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/7/",
+                "https://gotev.github.io/swapi-android/films/6/",
+                "https://gotev.github.io/swapi-android/films/3/",
+                "https://gotev.github.io/swapi-android/films/1/"
+            ],
+            "hair_colors": "black, brown",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/14/",
+            "language": "Shyriiwook",
+            "name": "Wookiee",
+            "people": [
+                "https://gotev.github.io/swapi-android/people/13/",
+                "https://gotev.github.io/swapi-android/people/80/"
+            ],
+            "skin_colors": "gray",
+            "url": "https://gotev.github.io/swapi-android/species/3/"
+        },
+        {
+            "average_height": "n/a",
+            "average_lifespan": "indefinite",
+            "classification": "artificial",
+            "created": "2014-12-10T15:16:16.259000Z",
+            "designation": "sentient",
+            "edited": "2015-04-17T06:59:43.869528Z",
+            "eye_colors": "n/a",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/7/",
+                "https://gotev.github.io/swapi-android/films/5/",
+                "https://gotev.github.io/swapi-android/films/4/",
+                "https://gotev.github.io/swapi-android/films/6/",
+                "https://gotev.github.io/swapi-android/films/3/",
+                "https://gotev.github.io/swapi-android/films/1/"
+            ],
+            "hair_colors": "n/a",
+            "homeworld": null,
+            "language": "n/a",
+            "name": "Droid",
+            "people": [
+                "https://gotev.github.io/swapi-android/people/2/",
+                "https://gotev.github.io/swapi-android/people/3/",
+                "https://gotev.github.io/swapi-android/people/8/",
+                "https://gotev.github.io/swapi-android/people/23/",
+                "https://gotev.github.io/swapi-android/people/87/"
+            ],
+            "skin_colors": "n/a",
+            "url": "https://gotev.github.io/swapi-android/species/2/"
+        },
+        {
+            "average_height": "180",
+            "average_lifespan": "120",
+            "classification": "mammal",
+            "created": "2014-12-10T13:52:11.567000Z",
+            "designation": "sentient",
+            "edited": "2015-04-17T06:59:55.850671Z",
+            "eye_colors": "brown, blue, green, hazel, grey, amber",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/2/",
+                "https://gotev.github.io/swapi-android/films/7/",
+                "https://gotev.github.io/swapi-android/films/5/",
+                "https://gotev.github.io/swapi-android/films/4/",
+                "https://gotev.github.io/swapi-android/films/6/",
+                "https://gotev.github.io/swapi-android/films/3/",
+                "https://gotev.github.io/swapi-android/films/1/"
+            ],
+            "hair_colors": "blonde, brown, black, red",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/9/",
+            "language": "Galactic Basic",
+            "name": "Human",
+            "people": [
+                "https://gotev.github.io/swapi-android/people/1/",
+                "https://gotev.github.io/swapi-android/people/4/",
+                "https://gotev.github.io/swapi-android/people/5/",
+                "https://gotev.github.io/swapi-android/people/6/",
+                "https://gotev.github.io/swapi-android/people/7/",
+                "https://gotev.github.io/swapi-android/people/9/",
+                "https://gotev.github.io/swapi-android/people/10/",
+                "https://gotev.github.io/swapi-android/people/11/",
+                "https://gotev.github.io/swapi-android/people/12/",
+                "https://gotev.github.io/swapi-android/people/14/",
+                "https://gotev.github.io/swapi-android/people/18/",
+                "https://gotev.github.io/swapi-android/people/19/",
+                "https://gotev.github.io/swapi-android/people/21/",
+                "https://gotev.github.io/swapi-android/people/22/",
+                "https://gotev.github.io/swapi-android/people/25/",
+                "https://gotev.github.io/swapi-android/people/26/",
+                "https://gotev.github.io/swapi-android/people/28/",
+                "https://gotev.github.io/swapi-android/people/29/",
+                "https://gotev.github.io/swapi-android/people/32/",
+                "https://gotev.github.io/swapi-android/people/34/",
+                "https://gotev.github.io/swapi-android/people/43/",
+                "https://gotev.github.io/swapi-android/people/51/",
+                "https://gotev.github.io/swapi-android/people/60/",
+                "https://gotev.github.io/swapi-android/people/61/",
+                "https://gotev.github.io/swapi-android/people/62/",
+                "https://gotev.github.io/swapi-android/people/66/",
+                "https://gotev.github.io/swapi-android/people/67/",
+                "https://gotev.github.io/swapi-android/people/68/",
+                "https://gotev.github.io/swapi-android/people/69/",
+                "https://gotev.github.io/swapi-android/people/74/",
+                "https://gotev.github.io/swapi-android/people/81/",
+                "https://gotev.github.io/swapi-android/people/84/",
+                "https://gotev.github.io/swapi-android/people/85/",
+                "https://gotev.github.io/swapi-android/people/86/",
+                "https://gotev.github.io/swapi-android/people/35/"
+            ],
+            "skin_colors": "caucasian, black, asian, hispanic",
+            "url": "https://gotev.github.io/swapi-android/species/1/"
+        },
+        {
+            "average_height": "170",
+            "average_lifespan": "unknown",
+            "classification": "sentient",
+            "created": "2014-12-10T17:05:26.471000Z",
+            "designation": "reptilian",
+            "edited": "2016-07-19T13:27:03.156498Z",
+            "eye_colors": "black",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/1/"
+            ],
+            "hair_colors": "n/a",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/23/",
+            "language": "Galactic Basic",
+            "name": "Rodian",
+            "people": [
+                "https://gotev.github.io/swapi-android/people/15/"
+            ],
+            "skin_colors": "green, blue",
+            "url": "https://gotev.github.io/swapi-android/species/4/"
+        }
+    ]
+}

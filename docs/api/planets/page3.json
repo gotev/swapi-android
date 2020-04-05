@@ -1,0 +1,195 @@
+{
+    "count": 61,
+    "next": "https://gotev.github.io/swapi-android/planets/?page=4",
+    "previous": "https://gotev.github.io/swapi-android/planets/?page=2",
+    "results": [
+        {
+            "climate": "temperate",
+            "created": "2014-12-10T16:49:12.453000Z",
+            "diameter": "11000",
+            "edited": "2014-12-20T20:58:18.456000Z",
+            "films": [],
+            "gravity": "1 standard",
+            "name": "Corellia",
+            "orbital_period": "329",
+            "population": "3000000000",
+            "residents": [
+                "https://gotev.github.io/swapi-android/people/14/",
+                "https://gotev.github.io/swapi-android/people/18/"
+            ],
+            "rotation_period": "25",
+            "surface_water": "70",
+            "terrain": "plains, urban, hills, forests",
+            "url": "https://gotev.github.io/swapi-android/planets/22/"
+        },
+        {
+            "climate": "hot",
+            "created": "2014-12-10T17:03:28.110000Z",
+            "diameter": "7549",
+            "edited": "2014-12-20T20:58:18.458000Z",
+            "films": [],
+            "gravity": "1 standard",
+            "name": "Rodia",
+            "orbital_period": "305",
+            "population": "1300000000",
+            "residents": [
+                "https://gotev.github.io/swapi-android/people/15/"
+            ],
+            "rotation_period": "29",
+            "surface_water": "60",
+            "terrain": "jungles, oceans, urban, swamps",
+            "url": "https://gotev.github.io/swapi-android/planets/23/"
+        },
+        {
+            "climate": "temperate",
+            "created": "2014-12-10T17:11:29.452000Z",
+            "diameter": "12150",
+            "edited": "2014-12-20T20:58:18.460000Z",
+            "films": [],
+            "gravity": "1 standard",
+            "name": "Nal Hutta",
+            "orbital_period": "413",
+            "population": "7000000000",
+            "residents": [
+                "https://gotev.github.io/swapi-android/people/16/"
+            ],
+            "rotation_period": "87",
+            "surface_water": "unknown",
+            "terrain": "urban, oceans, swamps, bogs",
+            "url": "https://gotev.github.io/swapi-android/planets/24/"
+        },
+        {
+            "climate": "temperate",
+            "created": "2014-12-10T17:23:29.896000Z",
+            "diameter": "9830",
+            "edited": "2014-12-20T20:58:18.461000Z",
+            "films": [],
+            "gravity": "1 standard",
+            "name": "Dantooine",
+            "orbital_period": "378",
+            "population": "1000",
+            "residents": [],
+            "rotation_period": "25",
+            "surface_water": "unknown",
+            "terrain": "oceans, savannas, mountains, grasslands",
+            "url": "https://gotev.github.io/swapi-android/planets/25/"
+        },
+        {
+            "climate": "temperate",
+            "created": "2014-12-12T11:16:55.078000Z",
+            "diameter": "6400",
+            "edited": "2014-12-20T20:58:18.463000Z",
+            "films": [],
+            "gravity": "unknown",
+            "name": "Bestine IV",
+            "orbital_period": "680",
+            "population": "62000000",
+            "residents": [
+                "https://gotev.github.io/swapi-android/people/19/"
+            ],
+            "rotation_period": "26",
+            "surface_water": "98",
+            "terrain": "rocky islands, oceans",
+            "url": "https://gotev.github.io/swapi-android/planets/26/"
+        },
+        {
+            "climate": "temperate",
+            "created": "2014-12-15T12:23:41.661000Z",
+            "diameter": "14050",
+            "edited": "2014-12-20T20:58:18.464000Z",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/2/"
+            ],
+            "gravity": "1 standard",
+            "name": "Ord Mantell",
+            "orbital_period": "334",
+            "population": "4000000000",
+            "residents": [],
+            "rotation_period": "26",
+            "surface_water": "10",
+            "terrain": "plains, seas, mesas",
+            "url": "https://gotev.github.io/swapi-android/planets/27/"
+        },
+        {
+            "climate": "unknown",
+            "created": "2014-12-15T12:25:59.569000Z",
+            "diameter": "0",
+            "edited": "2014-12-20T20:58:18.466000Z",
+            "films": [],
+            "gravity": "unknown",
+            "name": "unknown",
+            "orbital_period": "0",
+            "population": "unknown",
+            "residents": [
+                "https://gotev.github.io/swapi-android/people/20/",
+                "https://gotev.github.io/swapi-android/people/23/",
+                "https://gotev.github.io/swapi-android/people/29/",
+                "https://gotev.github.io/swapi-android/people/32/",
+                "https://gotev.github.io/swapi-android/people/75/",
+                "https://gotev.github.io/swapi-android/people/84/",
+                "https://gotev.github.io/swapi-android/people/85/",
+                "https://gotev.github.io/swapi-android/people/86/",
+                "https://gotev.github.io/swapi-android/people/87/",
+                "https://gotev.github.io/swapi-android/people/88/"
+            ],
+            "rotation_period": "0",
+            "surface_water": "unknown",
+            "terrain": "unknown",
+            "url": "https://gotev.github.io/swapi-android/planets/28/"
+        },
+        {
+            "climate": "arid",
+            "created": "2014-12-15T12:53:47.695000Z",
+            "diameter": "0",
+            "edited": "2014-12-20T20:58:18.468000Z",
+            "films": [],
+            "gravity": "0.62 standard",
+            "name": "Trandosha",
+            "orbital_period": "371",
+            "population": "42000000",
+            "residents": [
+                "https://gotev.github.io/swapi-android/people/24/"
+            ],
+            "rotation_period": "25",
+            "surface_water": "unknown",
+            "terrain": "mountains, seas, grasslands, deserts",
+            "url": "https://gotev.github.io/swapi-android/planets/29/"
+        },
+        {
+            "climate": "arid",
+            "created": "2014-12-15T12:56:31.121000Z",
+            "diameter": "0",
+            "edited": "2014-12-20T20:58:18.469000Z",
+            "films": [],
+            "gravity": "1 standard",
+            "name": "Socorro",
+            "orbital_period": "326",
+            "population": "300000000",
+            "residents": [
+                "https://gotev.github.io/swapi-android/people/25/"
+            ],
+            "rotation_period": "20",
+            "surface_water": "unknown",
+            "terrain": "deserts, mountains",
+            "url": "https://gotev.github.io/swapi-android/planets/30/"
+        },
+        {
+            "climate": "temperate",
+            "created": "2014-12-18T11:07:01.792000Z",
+            "diameter": "11030",
+            "edited": "2014-12-20T20:58:18.471000Z",
+            "films": [],
+            "gravity": "1",
+            "name": "Mon Cala",
+            "orbital_period": "398",
+            "population": "27000000000",
+            "residents": [
+                "https://gotev.github.io/swapi-android/people/27/"
+            ],
+            "rotation_period": "21",
+            "surface_water": "100",
+            "terrain": "oceans, reefs, islands",
+            "url": "https://gotev.github.io/swapi-android/planets/31/"
+        }
+    ]
+}

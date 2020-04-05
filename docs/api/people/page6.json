@@ -1,0 +1,238 @@
+{
+    "count": 87,
+    "next": "https://gotev.github.io/swapi-android/people/?page=7",
+    "previous": "https://gotev.github.io/swapi-android/people/?page=5",
+    "results": [
+        {
+            "birth_year": "unknown",
+            "created": "2014-12-20T10:26:47.902000Z",
+            "edited": "2014-12-20T21:17:50.427000Z",
+            "eye_color": "brown",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/4/",
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "gender": "male",
+            "hair_color": "black",
+            "height": "171",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/45/",
+            "mass": "unknown",
+            "name": "Eeth Koth",
+            "skin_color": "brown",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/22/"
+            ],
+            "starships": [],
+            "url": "https://gotev.github.io/swapi-android/people/54/",
+            "vehicles": []
+        },
+        {
+            "birth_year": "unknown",
+            "created": "2014-12-20T10:29:11.661000Z",
+            "edited": "2014-12-20T21:17:50.432000Z",
+            "eye_color": "blue",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/4/",
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "gender": "female",
+            "hair_color": "none",
+            "height": "184",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/9/",
+            "mass": "50",
+            "name": "Adi Gallia",
+            "skin_color": "dark",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/23/"
+            ],
+            "starships": [],
+            "url": "https://gotev.github.io/swapi-android/people/55/",
+            "vehicles": []
+        },
+        {
+            "birth_year": "unknown",
+            "created": "2014-12-20T10:32:11.669000Z",
+            "edited": "2014-12-20T21:17:50.434000Z",
+            "eye_color": "orange",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/4/",
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "gender": "male",
+            "hair_color": "none",
+            "height": "188",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/47/",
+            "mass": "unknown",
+            "name": "Saesee Tiin",
+            "skin_color": "pale",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/24/"
+            ],
+            "starships": [],
+            "url": "https://gotev.github.io/swapi-android/people/56/",
+            "vehicles": []
+        },
+        {
+            "birth_year": "unknown",
+            "created": "2014-12-20T10:34:48.725000Z",
+            "edited": "2014-12-20T21:17:50.437000Z",
+            "eye_color": "yellow",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/4/"
+            ],
+            "gender": "male",
+            "hair_color": "none",
+            "height": "264",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/48/",
+            "mass": "unknown",
+            "name": "Yarael Poof",
+            "skin_color": "white",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/25/"
+            ],
+            "starships": [],
+            "url": "https://gotev.github.io/swapi-android/people/57/",
+            "vehicles": []
+        },
+        {
+            "birth_year": "22BBY",
+            "created": "2014-12-20T10:49:19.859000Z",
+            "edited": "2014-12-20T21:17:50.439000Z",
+            "eye_color": "black",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/5/",
+                "https://gotev.github.io/swapi-android/films/4/",
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "gender": "male",
+            "hair_color": "none",
+            "height": "188",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/49/",
+            "mass": "80",
+            "name": "Plo Koon",
+            "skin_color": "orange",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/26/"
+            ],
+            "starships": [
+                "https://gotev.github.io/swapi-android/starships/48/"
+            ],
+            "url": "https://gotev.github.io/swapi-android/people/58/",
+            "vehicles": []
+        },
+        {
+            "birth_year": "unknown",
+            "created": "2014-12-20T10:53:26.457000Z",
+            "edited": "2014-12-20T21:17:50.442000Z",
+            "eye_color": "blue",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/5/",
+                "https://gotev.github.io/swapi-android/films/4/"
+            ],
+            "gender": "male",
+            "hair_color": "none",
+            "height": "196",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/50/",
+            "mass": "unknown",
+            "name": "Mas Amedda",
+            "skin_color": "blue",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/27/"
+            ],
+            "starships": [],
+            "url": "https://gotev.github.io/swapi-android/people/59/",
+            "vehicles": []
+        },
+        {
+            "birth_year": "unknown",
+            "created": "2014-12-20T11:10:10.381000Z",
+            "edited": "2014-12-20T21:17:50.445000Z",
+            "eye_color": "brown",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/5/"
+            ],
+            "gender": "male",
+            "hair_color": "black",
+            "height": "185",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/8/",
+            "mass": "85",
+            "name": "Gregar Typho",
+            "skin_color": "dark",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/1/"
+            ],
+            "starships": [
+                "https://gotev.github.io/swapi-android/starships/39/"
+            ],
+            "url": "https://gotev.github.io/swapi-android/people/60/",
+            "vehicles": []
+        },
+        {
+            "birth_year": "unknown",
+            "created": "2014-12-20T11:11:39.630000Z",
+            "edited": "2014-12-20T21:17:50.449000Z",
+            "eye_color": "brown",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/5/"
+            ],
+            "gender": "female",
+            "hair_color": "brown",
+            "height": "157",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/8/",
+            "mass": "unknown",
+            "name": "Cord\u00e9",
+            "skin_color": "light",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/1/"
+            ],
+            "starships": [],
+            "url": "https://gotev.github.io/swapi-android/people/61/",
+            "vehicles": []
+        },
+        {
+            "birth_year": "82BBY",
+            "created": "2014-12-20T15:59:03.958000Z",
+            "edited": "2014-12-20T21:17:50.451000Z",
+            "eye_color": "blue",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/5/"
+            ],
+            "gender": "male",
+            "hair_color": "brown",
+            "height": "183",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/1/",
+            "mass": "unknown",
+            "name": "Cliegg Lars",
+            "skin_color": "fair",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/1/"
+            ],
+            "starships": [],
+            "url": "https://gotev.github.io/swapi-android/people/62/",
+            "vehicles": []
+        },
+        {
+            "birth_year": "unknown",
+            "created": "2014-12-20T16:40:43.977000Z",
+            "edited": "2014-12-20T21:17:50.453000Z",
+            "eye_color": "yellow",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/5/",
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "gender": "male",
+            "hair_color": "none",
+            "height": "183",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/11/",
+            "mass": "80",
+            "name": "Poggle the Lesser",
+            "skin_color": "green",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/28/"
+            ],
+            "starships": [],
+            "url": "https://gotev.github.io/swapi-android/people/63/",
+            "vehicles": []
+        }
+    ]
+}

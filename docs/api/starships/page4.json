@@ -1,0 +1,172 @@
+{
+    "count": 37,
+    "next": null,
+    "previous": "https://gotev.github.io/swapi-android/starships/?page=3",
+    "results": [
+        {
+            "MGLT": "unknown",
+            "cargo_capacity": "unknown",
+            "consumables": "unknown",
+            "cost_in_credits": "unknown",
+            "created": "2014-12-20T19:55:15.396000Z",
+            "crew": "3",
+            "edited": "2014-12-22T17:35:45.258859Z",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "hyperdrive_rating": "0.5",
+            "length": "29.2",
+            "manufacturer": "Theed Palace Space Vessel Engineering Corps/Nubia Star Drives, Incorporated",
+            "max_atmosphering_speed": "1050",
+            "model": "J-type star skiff",
+            "name": "Naboo star skiff",
+            "passengers": "3",
+            "pilots": [
+                "https://gotev.github.io/swapi-android/people/10/",
+                "https://gotev.github.io/swapi-android/people/35/"
+            ],
+            "starship_class": "yacht",
+            "url": "https://gotev.github.io/swapi-android/starships/64/"
+        },
+        {
+            "MGLT": "unknown",
+            "cargo_capacity": "60",
+            "consumables": "2 days",
+            "cost_in_credits": "320000",
+            "created": "2014-12-20T19:56:57.468000Z",
+            "crew": "1",
+            "edited": "2014-12-22T17:35:45.272349Z",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "hyperdrive_rating": "1.0",
+            "length": "5.47",
+            "manufacturer": "Kuat Systems Engineering",
+            "max_atmosphering_speed": "1500",
+            "model": "Eta-2 Actis-class light interceptor",
+            "name": "Jedi Interceptor",
+            "passengers": "0",
+            "pilots": [
+                "https://gotev.github.io/swapi-android/people/10/",
+                "https://gotev.github.io/swapi-android/people/11/"
+            ],
+            "starship_class": "starfighter",
+            "url": "https://gotev.github.io/swapi-android/starships/65/"
+        },
+        {
+            "MGLT": "100",
+            "cargo_capacity": "110",
+            "consumables": "5 days",
+            "cost_in_credits": "155000",
+            "created": "2014-12-20T20:03:48.603000Z",
+            "crew": "3",
+            "edited": "2014-12-22T17:35:45.287214Z",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "hyperdrive_rating": "1.0",
+            "length": "14.5",
+            "manufacturer": "Incom Corporation, Subpro Corporation",
+            "max_atmosphering_speed": "1000",
+            "model": "Aggressive Reconnaissance-170 starfighte",
+            "name": "arc-170",
+            "passengers": "0",
+            "pilots": [],
+            "starship_class": "starfighter",
+            "url": "https://gotev.github.io/swapi-android/starships/66/"
+        },
+        {
+            "MGLT": "unknown",
+            "cargo_capacity": "140",
+            "consumables": "7 days",
+            "cost_in_credits": "168000",
+            "created": "2014-12-20T20:38:05.031000Z",
+            "crew": "1",
+            "edited": "2014-12-22T17:35:45.381900Z",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "hyperdrive_rating": "6",
+            "length": "6.71",
+            "manufacturer": "Feethan Ottraw Scalable Assemblies",
+            "max_atmosphering_speed": "1100",
+            "model": "Belbullab-22 starfighter",
+            "name": "Belbullab-22 starfighter",
+            "passengers": "0",
+            "pilots": [
+                "https://gotev.github.io/swapi-android/people/10/",
+                "https://gotev.github.io/swapi-android/people/79/"
+            ],
+            "starship_class": "starfighter",
+            "url": "https://gotev.github.io/swapi-android/starships/74/"
+        },
+        {
+            "MGLT": "unknown",
+            "cargo_capacity": "60",
+            "consumables": "15 hours",
+            "cost_in_credits": "102500",
+            "created": "2014-12-20T20:43:04.349000Z",
+            "crew": "1",
+            "edited": "2014-12-22T17:35:45.396711Z",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "hyperdrive_rating": "1.0",
+            "length": "7.9",
+            "manufacturer": "Kuat Systems Engineering",
+            "max_atmosphering_speed": "1050",
+            "model": "Alpha-3 Nimbus-class V-wing starfighter",
+            "name": "V-wing",
+            "passengers": "0",
+            "pilots": [],
+            "starship_class": "starfighter",
+            "url": "https://gotev.github.io/swapi-android/starships/75/"
+        },
+        {
+            "MGLT": "60",
+            "cargo_capacity": "3000000",
+            "consumables": "1 year",
+            "cost_in_credits": "3500000",
+            "created": "2014-12-10T14:20:33.369000Z",
+            "crew": "165",
+            "edited": "2014-12-22T17:35:45.408368Z",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/6/",
+                "https://gotev.github.io/swapi-android/films/3/",
+                "https://gotev.github.io/swapi-android/films/1/"
+            ],
+            "hyperdrive_rating": "2.0",
+            "length": "150",
+            "manufacturer": "Corellian Engineering Corporation",
+            "max_atmosphering_speed": "950",
+            "model": "CR90 corvette",
+            "name": "CR90 corvette",
+            "passengers": "600",
+            "pilots": [],
+            "starship_class": "corvette",
+            "url": "https://gotev.github.io/swapi-android/starships/2/"
+        },
+        {
+            "MGLT": "unknown",
+            "cargo_capacity": "40000000",
+            "consumables": "2 years",
+            "cost_in_credits": "57000000",
+            "created": "2014-12-20T20:07:11.538000Z",
+            "crew": "200",
+            "edited": "2017-04-19T10:53:32.700283Z",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "hyperdrive_rating": "1.0",
+            "length": "825",
+            "manufacturer": "Hoersch-Kessel Drive, Inc, Gwori Revolutionary Industries",
+            "max_atmosphering_speed": "unknown",
+            "model": "Munificent-class star frigate",
+            "name": "Banking clan frigate",
+            "passengers": "unknown",
+            "pilots": [],
+            "starship_class": "cruiser",
+            "url": "https://gotev.github.io/swapi-android/starships/68/"
+        }
+    ]
+}

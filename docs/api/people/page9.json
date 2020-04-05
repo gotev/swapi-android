@@ -1,0 +1,167 @@
+{
+    "count": 87,
+    "next": null,
+    "previous": "https://gotev.github.io/swapi-android/people/?page=8",
+    "results": [
+        {
+            "birth_year": "unknown",
+            "created": "2014-12-20T20:35:04.260000Z",
+            "edited": "2014-12-20T21:17:50.498000Z",
+            "eye_color": "black",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "gender": "male",
+            "hair_color": "none",
+            "height": "206",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/12/",
+            "mass": "80",
+            "name": "Tion Medon",
+            "skin_color": "grey",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/37/"
+            ],
+            "starships": [],
+            "url": "https://gotev.github.io/swapi-android/people/83/",
+            "vehicles": []
+        },
+        {
+            "birth_year": "unknown",
+            "created": "2015-04-17T06:52:40.793621Z",
+            "edited": "2015-04-17T06:52:40.793674Z",
+            "eye_color": "dark",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/7/"
+            ],
+            "gender": "male",
+            "hair_color": "black",
+            "height": "unknown",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/28/",
+            "mass": "unknown",
+            "name": "Finn",
+            "skin_color": "dark",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/1/"
+            ],
+            "starships": [],
+            "url": "https://gotev.github.io/swapi-android/people/84/",
+            "vehicles": []
+        },
+        {
+            "birth_year": "unknown",
+            "created": "2015-04-17T06:54:01.495077Z",
+            "edited": "2015-04-17T06:54:01.495128Z",
+            "eye_color": "hazel",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/7/"
+            ],
+            "gender": "female",
+            "hair_color": "brown",
+            "height": "unknown",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/28/",
+            "mass": "unknown",
+            "name": "Rey",
+            "skin_color": "light",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/1/"
+            ],
+            "starships": [],
+            "url": "https://gotev.github.io/swapi-android/people/85/",
+            "vehicles": []
+        },
+        {
+            "birth_year": "unknown",
+            "created": "2015-04-17T06:55:21.622786Z",
+            "edited": "2015-04-17T06:55:21.622835Z",
+            "eye_color": "brown",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/7/"
+            ],
+            "gender": "male",
+            "hair_color": "brown",
+            "height": "unknown",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/28/",
+            "mass": "unknown",
+            "name": "Poe Dameron",
+            "skin_color": "light",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/1/"
+            ],
+            "starships": [
+                "https://gotev.github.io/swapi-android/starships/77/"
+            ],
+            "url": "https://gotev.github.io/swapi-android/people/86/",
+            "vehicles": []
+        },
+        {
+            "birth_year": "unknown",
+            "created": "2015-04-17T06:57:38.061346Z",
+            "edited": "2015-04-17T06:57:38.061453Z",
+            "eye_color": "black",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/7/"
+            ],
+            "gender": "none",
+            "hair_color": "none",
+            "height": "unknown",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/28/",
+            "mass": "unknown",
+            "name": "BB8",
+            "skin_color": "none",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/2/"
+            ],
+            "starships": [],
+            "url": "https://gotev.github.io/swapi-android/people/87/",
+            "vehicles": []
+        },
+        {
+            "birth_year": "unknown",
+            "created": "2015-10-13T10:35:39.229823Z",
+            "edited": "2015-10-13T10:35:39.229894Z",
+            "eye_color": "unknown",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/7/"
+            ],
+            "gender": "female",
+            "hair_color": "unknown",
+            "height": "unknown",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/28/",
+            "mass": "unknown",
+            "name": "Captain Phasma",
+            "skin_color": "unknown",
+            "species": [],
+            "starships": [],
+            "url": "https://gotev.github.io/swapi-android/people/88/",
+            "vehicles": []
+        },
+        {
+            "birth_year": "46BBY",
+            "created": "2014-12-19T17:28:26.926000Z",
+            "edited": "2016-04-20T17:06:31.502555Z",
+            "eye_color": "brown",
+            "films": [
+                "https://gotev.github.io/swapi-android/films/5/",
+                "https://gotev.github.io/swapi-android/films/4/",
+                "https://gotev.github.io/swapi-android/films/6/"
+            ],
+            "gender": "female",
+            "hair_color": "brown",
+            "height": "165",
+            "homeworld": "https://gotev.github.io/swapi-android/planets/8/",
+            "mass": "45",
+            "name": "Padm\u00e9 Amidala",
+            "skin_color": "light",
+            "species": [
+                "https://gotev.github.io/swapi-android/species/1/"
+            ],
+            "starships": [
+                "https://gotev.github.io/swapi-android/starships/49/",
+                "https://gotev.github.io/swapi-android/starships/64/",
+                "https://gotev.github.io/swapi-android/starships/39/"
+            ],
+            "url": "https://gotev.github.io/swapi-android/people/35/",
+            "vehicles": []
+        }
+    ]
+}
