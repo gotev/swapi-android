@@ -1,4 +1,5 @@
 {
+    "__info__": "This mirrors https://swapi.co/api to reduce loads on origin server", 
     "people": "https://gotev.github.io/swapi-android/people/page1.json",
     "planets": "https://gotev.github.io/swapi-android/planets/page1.json",
     "films": "https://gotev.github.io/swapi-android/films/page1.json",
