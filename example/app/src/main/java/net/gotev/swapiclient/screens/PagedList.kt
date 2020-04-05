@@ -8,9 +8,9 @@ import androidx.lifecycle.lifecycleScope
 import androidx.navigation.fragment.findNavController
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 import net.gotev.recycleradapter.paging.PagingAdapter
-import net.gotev.swapiclient.foundation.defaultPagedList
 import net.gotev.swapiclient.foundation.AdapterItemsPageKeyedDataSource
 import net.gotev.swapiclient.foundation.BaseFragment
+import net.gotev.swapiclient.foundation.defaultPagedList
 
 class PagedList : BaseFragment() {
 
@@ -20,8 +20,16 @@ class PagedList : BaseFragment() {
             findNavController().navigate(PagedListDirections.openDetail())
         }
 
-    private val pagingAdapter by lazy {
-        PagingAdapter(
+    private var pagingAdapter: PagingAdapter? = null
+    private var swipeLayout: SwipeRefreshLayout? = null
+
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View? {
+        super.onCreateView(inflater, container, savedInstanceState)
+        pagingAdapter = PagingAdapter(
             dataSource = {
                 AdapterItemsPageKeyedDataSource(
                     scope = lifecycleScope,
@@ -31,44 +39,42 @@ class PagedList : BaseFragment() {
             },
             config = defaultPagedList()
         )
-    }
 
-    private val swipeLayout by lazy {
-        SwipeRefreshLayout(requireContext()).apply {
-            layoutParams = ViewGroup.LayoutParams(
-                ViewGroup.LayoutParams.MATCH_PARENT,
-                ViewGroup.LayoutParams.MATCH_PARENT
-            )
+        swipeLayout = context?.let { context ->
+            SwipeRefreshLayout(context).apply {
+                layoutParams = ViewGroup.LayoutParams(
+                    ViewGroup.LayoutParams.MATCH_PARENT,
+                    ViewGroup.LayoutParams.MATCH_PARENT
+                )
 
-            addView(recyclerView)
+                recyclerView?.let { addView(it) }
+            }
         }
-    }
 
-    override fun onCreateView(
-        inflater: LayoutInflater,
-        container: ViewGroup?,
-        savedInstanceState: Bundle?
-    ): View? {
-        super.onCreateView(inflater, container, savedInstanceState)
-        return swipeLayout.apply {
+        return swipeLayout?.apply {
             setOnRefreshListener {
-                pagingAdapter.reload()
+                pagingAdapter?.reload()
             }
         }
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        recyclerView.adapter = pagingAdapter
+        recyclerView?.adapter = pagingAdapter
         setActionBarTitleAndSubtitle(title = viewModel.service.title)
 
-        swipeLayout.isRefreshing = true
+        swipeLayout?.isRefreshing = true
 
-        pagingAdapter.startObserving(
+        pagingAdapter?.startObserving(
             owner = this,
             onLoadingComplete = {
-                swipeLayout.isRefreshing = false
+                swipeLayout?.isRefreshing = false
             }
         )
+    }
+
+    override fun onDestroyView() {
+        super.onDestroyView()
+        pagingAdapter = null
     }
 }

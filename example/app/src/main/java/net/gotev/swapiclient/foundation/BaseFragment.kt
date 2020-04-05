@@ -20,8 +20,15 @@ open class BaseFragment : Fragment(), RecyclerAdapterProvider {
         ViewModelProvider(requireActivity()).get(BaseViewModel::class.java)
     }
 
-    internal val recyclerView by lazy {
-        requireContext().let {
+    internal var recyclerView: RecyclerView? = null
+
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View? {
+        super.onCreateView(inflater, container, savedInstanceState)
+        recyclerView = context?.let {
             RecyclerView(it).apply {
                 layoutParams = ViewGroup.LayoutParams(
                     ViewGroup.LayoutParams.MATCH_PARENT,
@@ -32,15 +39,13 @@ open class BaseFragment : Fragment(), RecyclerAdapterProvider {
                 addItemDecoration(DividerItemDecoration(context, RecyclerView.VERTICAL))
             }
         }
+        return recyclerView
     }
 
-    override fun onCreateView(
-        inflater: LayoutInflater,
-        container: ViewGroup?,
-        savedInstanceState: Bundle?
-    ): View? {
-        super.onCreateView(inflater, container, savedInstanceState)
-        return recyclerView
+    override fun onDestroyView() {
+        super.onDestroyView()
+        recyclerView?.adapter = null
+        recyclerView = null
     }
 
     fun setActionBarTitleAndSubtitle(title: String, subtitle: String? = null) {
