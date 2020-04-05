@@ -16,7 +16,7 @@ function fetch {
     rm -rf /tmp/swapifetch
 
     mkdir -p "${API_DIR}/${1}"
-    api_file_name="${API_DIR}/${1}/?page=${pageNumber}"
+    api_file_name="${API_DIR}/${1}/page${pageNumber}.json"
     cp "$file_name" "$api_file_name"
   done
 }
