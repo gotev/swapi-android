@@ -55,7 +55,13 @@ class App : Application() {
 }
 ```
 
-And then you can make requests from Coroutine Scopes to get data for each resource. All the domain models are also `Parcelable` so you can safely pass them as arguments.
+And then you can make requests from Coroutine Scopes to get data for each resource.
+
+You can also pass in your own `OkHttpClient` instance if you have a global one in your app and decide if you want to use mirror or origin API server.
+
+> By default, to reduce loads on SWAPI.co, the client will point to the SWAPI mirror hosted on this project's GitHub Pages: https://gotev.github.io/swapi-android
+
+All the domain models are also `Parcelable` so you can safely pass them as arguments.
 
 ```kotlin
 swapiClient.species()
@@ -79,6 +85,17 @@ It's also possible to fetch a single resource from its URL. Each domain model ha
 ```kotlin
 val lukeSkywalker = swapiClient.character("https://swapi.co/api/people/1/")
 ```
+
+## Mirror
+This project has the ability to make a complete API mirror from `SWAPI.co`. Go into `mirror` directory and launch:
+
+```
+./fetch
+```
+
+This will update:
+- The JSONs used in SWAPI SDK unit tests, saved in `fetched` sub directory
+- The SWAPI.co API mirror in the `docs` directory, which is the GitHub Pages source
 
 ## Dependency Updates
 Keeping dependencies always up to date can be annoying. To ease things, a gradle plugin has been added which automatically checks for new versions. Just run:

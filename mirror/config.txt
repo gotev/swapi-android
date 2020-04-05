@@ -1,0 +1,4 @@
+FETCHED_DIR="fetched"
+API_DIR="api"
+API_SOURCE_URI="https://swapi.co/api/"
+API_MIRROR_URI="https://gotev.github.io/swapi-android/"
