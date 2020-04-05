@@ -19,7 +19,7 @@ function fetch {
 
     mkdir -p "${API_DIR}/${1}"
     api_file_name="${API_DIR}/${1}/page${pageNumber}.json"
-    cat "$file_name" | sed "s*${API_SOURCE_URI}*${API_MIRROR_URI}*g" > "$api_file_name"
+    cat "$file_name" | sed "s*${API_SOURCE_URI}*${API_MIRROR_URI}*g" | sed 's/?page=\([0-9]*\)/page\1.json/g' > "$api_file_name"
   done
 }
 

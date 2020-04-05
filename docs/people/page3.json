@@ -1,7 +1,7 @@
 {
     "count": 87,
-    "next": "https://gotev.github.io/swapi-android/people/?page=4",
-    "previous": "https://gotev.github.io/swapi-android/people/?page=2",
+    "next": "https://gotev.github.io/swapi-android/people/page4.json",
+    "previous": "https://gotev.github.io/swapi-android/people/page2.json",
     "results": [
         {
             "birth_year": "31.5BBY",

@@ -1,7 +1,7 @@
 {
     "count": 37,
     "next": null,
-    "previous": "https://gotev.github.io/swapi-android/species/?page=3",
+    "previous": "https://gotev.github.io/swapi-android/species/page3.json",
     "results": [
         {
             "average_height": "180",

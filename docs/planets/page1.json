@@ -1,6 +1,6 @@
 {
     "count": 61,
-    "next": "https://gotev.github.io/swapi-android/planets/?page=2",
+    "next": "https://gotev.github.io/swapi-android/planets/page2.json",
     "previous": null,
     "results": [
         {

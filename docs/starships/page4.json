@@ -1,7 +1,7 @@
 {
     "count": 37,
     "next": null,
-    "previous": "https://gotev.github.io/swapi-android/starships/?page=3",
+    "previous": "https://gotev.github.io/swapi-android/starships/page3.json",
     "results": [
         {
             "MGLT": "unknown",

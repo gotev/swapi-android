@@ -1,7 +1,7 @@
 {
     "count": 87,
     "next": null,
-    "previous": "https://gotev.github.io/swapi-android/people/?page=8",
+    "previous": "https://gotev.github.io/swapi-android/people/page8.json",
     "results": [
         {
             "birth_year": "unknown",

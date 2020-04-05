@@ -1,6 +1,6 @@
 {
     "count": 39,
-    "next": "https://gotev.github.io/swapi-android/vehicles/?page=2",
+    "next": "https://gotev.github.io/swapi-android/vehicles/page2.json",
     "previous": null,
     "results": [
         {

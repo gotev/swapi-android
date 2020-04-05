@@ -1,6 +1,6 @@
 {
     "count": 37,
-    "next": "https://gotev.github.io/swapi-android/starships/?page=2",
+    "next": "https://gotev.github.io/swapi-android/starships/page2.json",
     "previous": null,
     "results": [
         {

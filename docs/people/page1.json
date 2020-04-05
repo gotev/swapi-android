@@ -1,6 +1,6 @@
 {
     "count": 87,
-    "next": "https://gotev.github.io/swapi-android/people/?page=2",
+    "next": "https://gotev.github.io/swapi-android/people/page2.json",
     "previous": null,
     "results": [
         {

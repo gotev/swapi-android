@@ -1,7 +1,7 @@
 {
     "count": 61,
-    "next": "https://gotev.github.io/swapi-android/planets/?page=6",
-    "previous": "https://gotev.github.io/swapi-android/planets/?page=4",
+    "next": "https://gotev.github.io/swapi-android/planets/page6.json",
+    "previous": "https://gotev.github.io/swapi-android/planets/page4.json",
     "results": [
         {
             "climate": "temperate",

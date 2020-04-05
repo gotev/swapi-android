@@ -1,7 +1,7 @@
 {
     "count": 39,
-    "next": "https://gotev.github.io/swapi-android/vehicles/?page=4",
-    "previous": "https://gotev.github.io/swapi-android/vehicles/?page=2",
+    "next": "https://gotev.github.io/swapi-android/vehicles/page4.json",
+    "previous": "https://gotev.github.io/swapi-android/vehicles/page2.json",
     "results": [
         {
             "cargo_capacity": "200",
