@@ -1,1 +1,18 @@
-{"name":"Dathomir","rotation_period":"24","orbital_period":"491","diameter":"10480","climate":"temperate","gravity":"0.9","terrain":"forests, deserts, savannas","surface_water":"unknown","population":"5200","residents":["https://swapi.co/api/people/44/"],"films":[],"created":"2014-12-19T18:00:40.142000Z","edited":"2014-12-20T20:58:18.480000Z","url":"https://swapi.co/api/planets/36/"}
+{
+    "climate": "temperate",
+    "created": "2014-12-19T18:00:40.142000Z",
+    "diameter": "10480",
+    "edited": "2014-12-20T20:58:18.480000Z",
+    "films": [],
+    "gravity": "0.9",
+    "name": "Dathomir",
+    "orbital_period": "491",
+    "population": "5200",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/44/"
+    ],
+    "rotation_period": "24",
+    "surface_water": "unknown",
+    "terrain": "forests, deserts, savannas",
+    "url": "https://gotev.github.io/swapi-android/planets/36/"
+}

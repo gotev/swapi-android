@@ -1,1 +1,18 @@
-{"name":"Sullust","rotation_period":"20","orbital_period":"263","diameter":"12780","climate":"superheated","gravity":"1","terrain":"mountains, volcanoes, rocky deserts","surface_water":"5","population":"18500000000","residents":["https://swapi.co/api/people/31/"],"films":[],"created":"2014-12-18T11:25:40.243000Z","edited":"2014-12-20T20:58:18.474000Z","url":"https://swapi.co/api/planets/33/"}
+{
+    "climate": "superheated",
+    "created": "2014-12-18T11:25:40.243000Z",
+    "diameter": "12780",
+    "edited": "2014-12-20T20:58:18.474000Z",
+    "films": [],
+    "gravity": "1",
+    "name": "Sullust",
+    "orbital_period": "263",
+    "population": "18500000000",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/31/"
+    ],
+    "rotation_period": "20",
+    "surface_water": "5",
+    "terrain": "mountains, volcanoes, rocky deserts",
+    "url": "https://gotev.github.io/swapi-android/planets/33/"
+}

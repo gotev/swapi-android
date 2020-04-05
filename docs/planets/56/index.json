@@ -1,1 +1,18 @@
-{"name":"Skako","rotation_period":"27","orbital_period":"384","diameter":"unknown","climate":"temperate","gravity":"1","terrain":"urban, vines","surface_water":"unknown","population":"500000000000","residents":["https://swapi.co/api/people/76/"],"films":[],"created":"2014-12-20T17:50:47.864000Z","edited":"2014-12-20T20:58:18.517000Z","url":"https://swapi.co/api/planets/56/"}
+{
+    "climate": "temperate",
+    "created": "2014-12-20T17:50:47.864000Z",
+    "diameter": "unknown",
+    "edited": "2014-12-20T20:58:18.517000Z",
+    "films": [],
+    "gravity": "1",
+    "name": "Skako",
+    "orbital_period": "384",
+    "population": "500000000000",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/76/"
+    ],
+    "rotation_period": "27",
+    "surface_water": "unknown",
+    "terrain": "urban, vines",
+    "url": "https://gotev.github.io/swapi-android/planets/56/"
+}

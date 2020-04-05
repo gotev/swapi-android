@@ -1,1 +1,21 @@
-{"name":"R4-P17","height":"96","mass":"unknown","hair_color":"none","skin_color":"silver, red","eye_color":"red, blue","birth_year":"unknown","gender":"female","homeworld":"https://swapi.co/api/planets/28/","films":["https://swapi.co/api/films/5/","https://swapi.co/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-20T17:43:36.409000Z","edited":"2014-12-20T21:17:50.478000Z","url":"https://swapi.co/api/people/75/"}
+{
+    "birth_year": "unknown",
+    "created": "2014-12-20T17:43:36.409000Z",
+    "edited": "2014-12-20T21:17:50.478000Z",
+    "eye_color": "red, blue",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/5/",
+        "https://gotev.github.io/swapi-android/films/6/"
+    ],
+    "gender": "female",
+    "hair_color": "none",
+    "height": "96",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/28/",
+    "mass": "unknown",
+    "name": "R4-P17",
+    "skin_color": "silver, red",
+    "species": [],
+    "starships": [],
+    "url": "https://gotev.github.io/swapi-android/people/75/",
+    "vehicles": []
+}

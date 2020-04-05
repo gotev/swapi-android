@@ -1,1 +1,20 @@
-{"name":"Armored Assault Tank","model":"Armoured Assault Tank","manufacturer":"Baktoid Armor Workshop","cost_in_credits":"unknown","length":"9.75","max_atmosphering_speed":"55","crew":"4","passengers":"6","cargo_capacity":"unknown","consumables":"unknown","vehicle_class":"repulsorcraft","pilots":[],"films":["https://swapi.co/api/films/4/"],"created":"2014-12-19T17:13:29.799000Z","edited":"2014-12-22T18:21:15.984817Z","url":"https://swapi.co/api/vehicles/35/"}
+{
+    "cargo_capacity": "unknown",
+    "consumables": "unknown",
+    "cost_in_credits": "unknown",
+    "created": "2014-12-19T17:13:29.799000Z",
+    "crew": "4",
+    "edited": "2014-12-22T18:21:15.984817Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/4/"
+    ],
+    "length": "9.75",
+    "manufacturer": "Baktoid Armor Workshop",
+    "max_atmosphering_speed": "55",
+    "model": "Armoured Assault Tank",
+    "name": "Armored Assault Tank",
+    "passengers": "6",
+    "pilots": [],
+    "url": "https://gotev.github.io/swapi-android/vehicles/35/",
+    "vehicle_class": "repulsorcraft"
+}

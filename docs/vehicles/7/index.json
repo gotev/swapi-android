@@ -1,1 +1,20 @@
-{"name":"X-34 landspeeder","model":"X-34 landspeeder","manufacturer":"SoroSuub Corporation","cost_in_credits":"10550","length":"3.4","max_atmosphering_speed":"250","crew":"1","passengers":"1","cargo_capacity":"5","consumables":"unknown","vehicle_class":"repulsorcraft","pilots":[],"films":["https://swapi.co/api/films/1/"],"created":"2014-12-10T16:13:52.586000Z","edited":"2014-12-22T18:21:15.583700Z","url":"https://swapi.co/api/vehicles/7/"}
+{
+    "cargo_capacity": "5",
+    "consumables": "unknown",
+    "cost_in_credits": "10550",
+    "created": "2014-12-10T16:13:52.586000Z",
+    "crew": "1",
+    "edited": "2014-12-22T18:21:15.583700Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/1/"
+    ],
+    "length": "3.4",
+    "manufacturer": "SoroSuub Corporation",
+    "max_atmosphering_speed": "250",
+    "model": "X-34 landspeeder",
+    "name": "X-34 landspeeder",
+    "passengers": "1",
+    "pilots": [],
+    "url": "https://gotev.github.io/swapi-android/vehicles/7/",
+    "vehicle_class": "repulsorcraft"
+}

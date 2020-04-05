@@ -1,1 +1,22 @@
-{"name":"Rugor Nass","height":"206","mass":"unknown","hair_color":"none","skin_color":"green","eye_color":"orange","birth_year":"unknown","gender":"male","homeworld":"https://swapi.co/api/planets/8/","films":["https://swapi.co/api/films/4/"],"species":["https://swapi.co/api/species/12/"],"vehicles":[],"starships":[],"created":"2014-12-19T17:33:38.909000Z","edited":"2014-12-20T21:17:50.388000Z","url":"https://swapi.co/api/people/38/"}
+{
+    "birth_year": "unknown",
+    "created": "2014-12-19T17:33:38.909000Z",
+    "edited": "2014-12-20T21:17:50.388000Z",
+    "eye_color": "orange",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/4/"
+    ],
+    "gender": "male",
+    "hair_color": "none",
+    "height": "206",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/8/",
+    "mass": "unknown",
+    "name": "Rugor Nass",
+    "skin_color": "green",
+    "species": [
+        "https://gotev.github.io/swapi-android/species/12/"
+    ],
+    "starships": [],
+    "url": "https://gotev.github.io/swapi-android/people/38/",
+    "vehicles": []
+}

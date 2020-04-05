@@ -1,1 +1,19 @@
-{"name":"Corellia","rotation_period":"25","orbital_period":"329","diameter":"11000","climate":"temperate","gravity":"1 standard","terrain":"plains, urban, hills, forests","surface_water":"70","population":"3000000000","residents":["https://swapi.co/api/people/14/","https://swapi.co/api/people/18/"],"films":[],"created":"2014-12-10T16:49:12.453000Z","edited":"2014-12-20T20:58:18.456000Z","url":"https://swapi.co/api/planets/22/"}
+{
+    "climate": "temperate",
+    "created": "2014-12-10T16:49:12.453000Z",
+    "diameter": "11000",
+    "edited": "2014-12-20T20:58:18.456000Z",
+    "films": [],
+    "gravity": "1 standard",
+    "name": "Corellia",
+    "orbital_period": "329",
+    "population": "3000000000",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/14/",
+        "https://gotev.github.io/swapi-android/people/18/"
+    ],
+    "rotation_period": "25",
+    "surface_water": "70",
+    "terrain": "plains, urban, hills, forests",
+    "url": "https://gotev.github.io/swapi-android/planets/22/"
+}

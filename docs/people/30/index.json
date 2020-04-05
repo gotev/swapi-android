@@ -1,1 +1,22 @@
-{"name":"Wicket Systri Warrick","height":"88","mass":"20","hair_color":"brown","skin_color":"brown","eye_color":"brown","birth_year":"8BBY","gender":"male","homeworld":"https://swapi.co/api/planets/7/","films":["https://swapi.co/api/films/3/"],"species":["https://swapi.co/api/species/9/"],"vehicles":[],"starships":[],"created":"2014-12-18T11:21:58.954000Z","edited":"2014-12-20T21:17:50.369000Z","url":"https://swapi.co/api/people/30/"}
+{
+    "birth_year": "8BBY",
+    "created": "2014-12-18T11:21:58.954000Z",
+    "edited": "2014-12-20T21:17:50.369000Z",
+    "eye_color": "brown",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/3/"
+    ],
+    "gender": "male",
+    "hair_color": "brown",
+    "height": "88",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/7/",
+    "mass": "20",
+    "name": "Wicket Systri Warrick",
+    "skin_color": "brown",
+    "species": [
+        "https://gotev.github.io/swapi-android/species/9/"
+    ],
+    "starships": [],
+    "url": "https://gotev.github.io/swapi-android/people/30/",
+    "vehicles": []
+}

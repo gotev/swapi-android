@@ -1,1 +1,21 @@
-{"name":"Rodian","classification":"sentient","designation":"reptilian","average_height":"170","skin_colors":"green, blue","hair_colors":"n/a","eye_colors":"black","average_lifespan":"unknown","homeworld":"https://swapi.co/api/planets/23/","language":"Galactic Basic","people":["https://swapi.co/api/people/15/"],"films":["https://swapi.co/api/films/1/"],"created":"2014-12-10T17:05:26.471000Z","edited":"2016-07-19T13:27:03.156498Z","url":"https://swapi.co/api/species/4/"}
+{
+    "average_height": "170",
+    "average_lifespan": "unknown",
+    "classification": "sentient",
+    "created": "2014-12-10T17:05:26.471000Z",
+    "designation": "reptilian",
+    "edited": "2016-07-19T13:27:03.156498Z",
+    "eye_colors": "black",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/1/"
+    ],
+    "hair_colors": "n/a",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/23/",
+    "language": "Galactic Basic",
+    "name": "Rodian",
+    "people": [
+        "https://gotev.github.io/swapi-android/people/15/"
+    ],
+    "skin_colors": "green, blue",
+    "url": "https://gotev.github.io/swapi-android/species/4/"
+}

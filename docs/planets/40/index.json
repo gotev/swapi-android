@@ -1,1 +1,18 @@
-{"name":"Troiken","rotation_period":"unknown","orbital_period":"unknown","diameter":"unknown","climate":"unknown","gravity":"unknown","terrain":"desert, tundra, rainforests, mountains","surface_water":"unknown","population":"unknown","residents":["https://swapi.co/api/people/49/"],"films":[],"created":"2014-12-20T10:01:37.395000Z","edited":"2014-12-20T20:58:18.487000Z","url":"https://swapi.co/api/planets/40/"}
+{
+    "climate": "unknown",
+    "created": "2014-12-20T10:01:37.395000Z",
+    "diameter": "unknown",
+    "edited": "2014-12-20T20:58:18.487000Z",
+    "films": [],
+    "gravity": "unknown",
+    "name": "Troiken",
+    "orbital_period": "unknown",
+    "population": "unknown",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/49/"
+    ],
+    "rotation_period": "unknown",
+    "surface_water": "unknown",
+    "terrain": "desert, tundra, rainforests, mountains",
+    "url": "https://gotev.github.io/swapi-android/planets/40/"
+}

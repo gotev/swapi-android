@@ -1,1 +1,18 @@
-{"name":"Cerea","rotation_period":"27","orbital_period":"386","diameter":"unknown","climate":"temperate","gravity":"1","terrain":"verdant","surface_water":"20","population":"450000000","residents":["https://swapi.co/api/people/52/"],"films":[],"created":"2014-12-20T10:14:48.178000Z","edited":"2014-12-20T20:58:18.493000Z","url":"https://swapi.co/api/planets/43/"}
+{
+    "climate": "temperate",
+    "created": "2014-12-20T10:14:48.178000Z",
+    "diameter": "unknown",
+    "edited": "2014-12-20T20:58:18.493000Z",
+    "films": [],
+    "gravity": "1",
+    "name": "Cerea",
+    "orbital_period": "386",
+    "population": "450000000",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/52/"
+    ],
+    "rotation_period": "27",
+    "surface_water": "20",
+    "terrain": "verdant",
+    "url": "https://gotev.github.io/swapi-android/planets/43/"
+}

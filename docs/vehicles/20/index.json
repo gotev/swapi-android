@@ -1,1 +1,20 @@
-{"name":"Storm IV Twin-Pod cloud car","model":"Storm IV Twin-Pod","manufacturer":"Bespin Motors","cost_in_credits":"75000","length":"7","max_atmosphering_speed":"1500","crew":"2","passengers":"0","cargo_capacity":"10","consumables":"1 day","vehicle_class":"repulsorcraft","pilots":[],"films":["https://swapi.co/api/films/2/"],"created":"2014-12-15T12:58:50.530000Z","edited":"2014-12-22T18:21:15.783232Z","url":"https://swapi.co/api/vehicles/20/"}
+{
+    "cargo_capacity": "10",
+    "consumables": "1 day",
+    "cost_in_credits": "75000",
+    "created": "2014-12-15T12:58:50.530000Z",
+    "crew": "2",
+    "edited": "2014-12-22T18:21:15.783232Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/2/"
+    ],
+    "length": "7",
+    "manufacturer": "Bespin Motors",
+    "max_atmosphering_speed": "1500",
+    "model": "Storm IV Twin-Pod",
+    "name": "Storm IV Twin-Pod cloud car",
+    "passengers": "0",
+    "pilots": [],
+    "url": "https://gotev.github.io/swapi-android/vehicles/20/",
+    "vehicle_class": "repulsorcraft"
+}

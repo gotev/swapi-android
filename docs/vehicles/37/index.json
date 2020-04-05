@@ -1,1 +1,20 @@
-{"name":"C-9979 landing craft","model":"C-9979 landing craft","manufacturer":"Haor Chall Engineering","cost_in_credits":"200000","length":"210","max_atmosphering_speed":"587","crew":"140","passengers":"284","cargo_capacity":"1800000","consumables":"1 day","vehicle_class":"landing craft","pilots":[],"films":["https://swapi.co/api/films/4/"],"created":"2014-12-19T17:20:36.373000Z","edited":"2014-12-22T18:21:16.033738Z","url":"https://swapi.co/api/vehicles/37/"}
+{
+    "cargo_capacity": "1800000",
+    "consumables": "1 day",
+    "cost_in_credits": "200000",
+    "created": "2014-12-19T17:20:36.373000Z",
+    "crew": "140",
+    "edited": "2014-12-22T18:21:16.033738Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/4/"
+    ],
+    "length": "210",
+    "manufacturer": "Haor Chall Engineering",
+    "max_atmosphering_speed": "587",
+    "model": "C-9979 landing craft",
+    "name": "C-9979 landing craft",
+    "passengers": "284",
+    "pilots": [],
+    "url": "https://gotev.github.io/swapi-android/vehicles/37/",
+    "vehicle_class": "landing craft"
+}

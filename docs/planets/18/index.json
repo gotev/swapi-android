@@ -1,1 +1,20 @@
-{"name":"Cato Neimoidia","rotation_period":"25","orbital_period":"278","diameter":"0","climate":"temperate, moist","gravity":"1 standard","terrain":"mountains, fields, forests, rock arches","surface_water":"unknown","population":"10000000","residents":["https://swapi.co/api/people/33/"],"films":["https://swapi.co/api/films/6/"],"created":"2014-12-10T13:46:28.704000Z","edited":"2014-12-20T20:58:18.449000Z","url":"https://swapi.co/api/planets/18/"}
+{
+    "climate": "temperate, moist",
+    "created": "2014-12-10T13:46:28.704000Z",
+    "diameter": "0",
+    "edited": "2014-12-20T20:58:18.449000Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/6/"
+    ],
+    "gravity": "1 standard",
+    "name": "Cato Neimoidia",
+    "orbital_period": "278",
+    "population": "10000000",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/33/"
+    ],
+    "rotation_period": "25",
+    "surface_water": "unknown",
+    "terrain": "mountains, fields, forests, rock arches",
+    "url": "https://gotev.github.io/swapi-android/planets/18/"
+}

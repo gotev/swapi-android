@@ -1,1 +1,24 @@
-{"name":"Gungan","classification":"amphibian","designation":"sentient","average_height":"190","skin_colors":"brown, green","hair_colors":"none","eye_colors":"orange","average_lifespan":"unknown","homeworld":"https://swapi.co/api/planets/8/","language":"Gungan basic","people":["https://swapi.co/api/people/36/","https://swapi.co/api/people/37/","https://swapi.co/api/people/38/"],"films":["https://swapi.co/api/films/5/","https://swapi.co/api/films/4/"],"created":"2014-12-19T17:30:37.341000Z","edited":"2014-12-20T21:36:42.163000Z","url":"https://swapi.co/api/species/12/"}
+{
+    "average_height": "190",
+    "average_lifespan": "unknown",
+    "classification": "amphibian",
+    "created": "2014-12-19T17:30:37.341000Z",
+    "designation": "sentient",
+    "edited": "2014-12-20T21:36:42.163000Z",
+    "eye_colors": "orange",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/5/",
+        "https://gotev.github.io/swapi-android/films/4/"
+    ],
+    "hair_colors": "none",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/8/",
+    "language": "Gungan basic",
+    "name": "Gungan",
+    "people": [
+        "https://gotev.github.io/swapi-android/people/36/",
+        "https://gotev.github.io/swapi-android/people/37/",
+        "https://gotev.github.io/swapi-android/people/38/"
+    ],
+    "skin_colors": "brown, green",
+    "url": "https://gotev.github.io/swapi-android/species/12/"
+}

@@ -1,1 +1,18 @@
-{"name":"Dorin","rotation_period":"22","orbital_period":"409","diameter":"13400","climate":"temperate","gravity":"1","terrain":"unknown","surface_water":"unknown","population":"unknown","residents":["https://swapi.co/api/people/58/"],"films":[],"created":"2014-12-20T10:48:36.141000Z","edited":"2014-12-20T20:58:18.504000Z","url":"https://swapi.co/api/planets/49/"}
+{
+    "climate": "temperate",
+    "created": "2014-12-20T10:48:36.141000Z",
+    "diameter": "13400",
+    "edited": "2014-12-20T20:58:18.504000Z",
+    "films": [],
+    "gravity": "1",
+    "name": "Dorin",
+    "orbital_period": "409",
+    "population": "unknown",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/58/"
+    ],
+    "rotation_period": "22",
+    "surface_water": "unknown",
+    "terrain": "unknown",
+    "url": "https://gotev.github.io/swapi-android/planets/49/"
+}

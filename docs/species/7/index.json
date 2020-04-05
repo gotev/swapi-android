@@ -1,1 +1,21 @@
-{"name":"Trandoshan","classification":"reptile","designation":"sentient","average_height":"200","skin_colors":"brown, green","hair_colors":"none","eye_colors":"yellow, orange","average_lifespan":"unknown","homeworld":"https://swapi.co/api/planets/29/","language":"Dosh","people":["https://swapi.co/api/people/24/"],"films":["https://swapi.co/api/films/2/"],"created":"2014-12-15T13:07:47.704000Z","edited":"2014-12-20T21:36:42.151000Z","url":"https://swapi.co/api/species/7/"}
+{
+    "average_height": "200",
+    "average_lifespan": "unknown",
+    "classification": "reptile",
+    "created": "2014-12-15T13:07:47.704000Z",
+    "designation": "sentient",
+    "edited": "2014-12-20T21:36:42.151000Z",
+    "eye_colors": "yellow, orange",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/2/"
+    ],
+    "hair_colors": "none",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/29/",
+    "language": "Dosh",
+    "name": "Trandoshan",
+    "people": [
+        "https://gotev.github.io/swapi-android/people/24/"
+    ],
+    "skin_colors": "brown, green",
+    "url": "https://gotev.github.io/swapi-android/species/7/"
+}

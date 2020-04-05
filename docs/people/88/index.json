@@ -1,1 +1,20 @@
-{"name":"Captain Phasma","height":"unknown","mass":"unknown","hair_color":"unknown","skin_color":"unknown","eye_color":"unknown","birth_year":"unknown","gender":"female","homeworld":"https://swapi.co/api/planets/28/","films":["https://swapi.co/api/films/7/"],"species":[],"vehicles":[],"starships":[],"created":"2015-10-13T10:35:39.229823Z","edited":"2015-10-13T10:35:39.229894Z","url":"https://swapi.co/api/people/88/"}
+{
+    "birth_year": "unknown",
+    "created": "2015-10-13T10:35:39.229823Z",
+    "edited": "2015-10-13T10:35:39.229894Z",
+    "eye_color": "unknown",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/7/"
+    ],
+    "gender": "female",
+    "hair_color": "unknown",
+    "height": "unknown",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/28/",
+    "mass": "unknown",
+    "name": "Captain Phasma",
+    "skin_color": "unknown",
+    "species": [],
+    "starships": [],
+    "url": "https://gotev.github.io/swapi-android/people/88/",
+    "vehicles": []
+}

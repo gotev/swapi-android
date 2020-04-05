@@ -1,1 +1,27 @@
-{"name":"unknown","rotation_period":"0","orbital_period":"0","diameter":"0","climate":"unknown","gravity":"unknown","terrain":"unknown","surface_water":"unknown","population":"unknown","residents":["https://swapi.co/api/people/20/","https://swapi.co/api/people/23/","https://swapi.co/api/people/29/","https://swapi.co/api/people/32/","https://swapi.co/api/people/75/","https://swapi.co/api/people/84/","https://swapi.co/api/people/85/","https://swapi.co/api/people/86/","https://swapi.co/api/people/87/","https://swapi.co/api/people/88/"],"films":[],"created":"2014-12-15T12:25:59.569000Z","edited":"2014-12-20T20:58:18.466000Z","url":"https://swapi.co/api/planets/28/"}
+{
+    "climate": "unknown",
+    "created": "2014-12-15T12:25:59.569000Z",
+    "diameter": "0",
+    "edited": "2014-12-20T20:58:18.466000Z",
+    "films": [],
+    "gravity": "unknown",
+    "name": "unknown",
+    "orbital_period": "0",
+    "population": "unknown",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/20/",
+        "https://gotev.github.io/swapi-android/people/23/",
+        "https://gotev.github.io/swapi-android/people/29/",
+        "https://gotev.github.io/swapi-android/people/32/",
+        "https://gotev.github.io/swapi-android/people/75/",
+        "https://gotev.github.io/swapi-android/people/84/",
+        "https://gotev.github.io/swapi-android/people/85/",
+        "https://gotev.github.io/swapi-android/people/86/",
+        "https://gotev.github.io/swapi-android/people/87/",
+        "https://gotev.github.io/swapi-android/people/88/"
+    ],
+    "rotation_period": "0",
+    "surface_water": "unknown",
+    "terrain": "unknown",
+    "url": "https://gotev.github.io/swapi-android/planets/28/"
+}

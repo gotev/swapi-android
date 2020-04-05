@@ -1,1 +1,22 @@
-{"name":"AA-9 Coruscant freighter","model":"Botajef AA-9 Freighter-Liner","manufacturer":"Botajef Shipyards","cost_in_credits":"unknown","length":"390","max_atmosphering_speed":"unknown","crew":"unknown","passengers":"30000","cargo_capacity":"unknown","consumables":"unknown","hyperdrive_rating":"unknown","MGLT":"unknown","starship_class":"freighter","pilots":[],"films":["https://swapi.co/api/films/5/"],"created":"2014-12-20T17:24:23.509000Z","edited":"2014-12-22T17:35:45.135987Z","url":"https://swapi.co/api/starships/47/"}
+{
+    "MGLT": "unknown",
+    "cargo_capacity": "unknown",
+    "consumables": "unknown",
+    "cost_in_credits": "unknown",
+    "created": "2014-12-20T17:24:23.509000Z",
+    "crew": "unknown",
+    "edited": "2014-12-22T17:35:45.135987Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/5/"
+    ],
+    "hyperdrive_rating": "unknown",
+    "length": "390",
+    "manufacturer": "Botajef Shipyards",
+    "max_atmosphering_speed": "unknown",
+    "model": "Botajef AA-9 Freighter-Liner",
+    "name": "AA-9 Coruscant freighter",
+    "passengers": "30000",
+    "pilots": [],
+    "starship_class": "freighter",
+    "url": "https://gotev.github.io/swapi-android/starships/47/"
+}

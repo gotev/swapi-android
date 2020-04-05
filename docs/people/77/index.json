@@ -1,1 +1,22 @@
-{"name":"San Hill","height":"191","mass":"unknown","hair_color":"none","skin_color":"grey","eye_color":"gold","birth_year":"unknown","gender":"male","homeworld":"https://swapi.co/api/planets/57/","films":["https://swapi.co/api/films/5/"],"species":["https://swapi.co/api/species/34/"],"vehicles":[],"starships":[],"created":"2014-12-20T17:58:17.049000Z","edited":"2014-12-20T21:17:50.484000Z","url":"https://swapi.co/api/people/77/"}
+{
+    "birth_year": "unknown",
+    "created": "2014-12-20T17:58:17.049000Z",
+    "edited": "2014-12-20T21:17:50.484000Z",
+    "eye_color": "gold",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/5/"
+    ],
+    "gender": "male",
+    "hair_color": "none",
+    "height": "191",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/57/",
+    "mass": "unknown",
+    "name": "San Hill",
+    "skin_color": "grey",
+    "species": [
+        "https://gotev.github.io/swapi-android/species/34/"
+    ],
+    "starships": [],
+    "url": "https://gotev.github.io/swapi-android/people/77/",
+    "vehicles": []
+}

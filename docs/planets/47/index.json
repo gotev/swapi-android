@@ -1,1 +1,18 @@
-{"name":"Iktotch","rotation_period":"22","orbital_period":"481","diameter":"unknown","climate":"arid, rocky, windy","gravity":"1","terrain":"rocky","surface_water":"unknown","population":"unknown","residents":["https://swapi.co/api/people/56/"],"films":[],"created":"2014-12-20T10:31:32.413000Z","edited":"2014-12-20T20:58:18.500000Z","url":"https://swapi.co/api/planets/47/"}
+{
+    "climate": "arid, rocky, windy",
+    "created": "2014-12-20T10:31:32.413000Z",
+    "diameter": "unknown",
+    "edited": "2014-12-20T20:58:18.500000Z",
+    "films": [],
+    "gravity": "1",
+    "name": "Iktotch",
+    "orbital_period": "481",
+    "population": "unknown",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/56/"
+    ],
+    "rotation_period": "22",
+    "surface_water": "unknown",
+    "terrain": "rocky",
+    "url": "https://gotev.github.io/swapi-android/planets/47/"
+}

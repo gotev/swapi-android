@@ -1,1 +1,24 @@
-{"name":"Naboo Royal Starship","model":"J-type 327 Nubian royal starship","manufacturer":"Theed Palace Space Vessel Engineering Corps, Nubia Star Drives","cost_in_credits":"unknown","length":"76","max_atmosphering_speed":"920","crew":"8","passengers":"unknown","cargo_capacity":"unknown","consumables":"unknown","hyperdrive_rating":"1.8","MGLT":"unknown","starship_class":"yacht","pilots":["https://swapi.co/api/people/39/"],"films":["https://swapi.co/api/films/4/"],"created":"2014-12-19T17:45:03.506000Z","edited":"2014-12-22T17:35:45.091925Z","url":"https://swapi.co/api/starships/40/"}
+{
+    "MGLT": "unknown",
+    "cargo_capacity": "unknown",
+    "consumables": "unknown",
+    "cost_in_credits": "unknown",
+    "created": "2014-12-19T17:45:03.506000Z",
+    "crew": "8",
+    "edited": "2014-12-22T17:35:45.091925Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/4/"
+    ],
+    "hyperdrive_rating": "1.8",
+    "length": "76",
+    "manufacturer": "Theed Palace Space Vessel Engineering Corps, Nubia Star Drives",
+    "max_atmosphering_speed": "920",
+    "model": "J-type 327 Nubian royal starship",
+    "name": "Naboo Royal Starship",
+    "passengers": "unknown",
+    "pilots": [
+        "https://gotev.github.io/swapi-android/people/39/"
+    ],
+    "starship_class": "yacht",
+    "url": "https://gotev.github.io/swapi-android/starships/40/"
+}

@@ -1,1 +1,18 @@
-{"name":"Chandrila","rotation_period":"20","orbital_period":"368","diameter":"13500","climate":"temperate","gravity":"1","terrain":"plains, forests","surface_water":"40","population":"1200000000","residents":["https://swapi.co/api/people/28/"],"films":[],"created":"2014-12-18T11:11:51.872000Z","edited":"2014-12-20T20:58:18.472000Z","url":"https://swapi.co/api/planets/32/"}
+{
+    "climate": "temperate",
+    "created": "2014-12-18T11:11:51.872000Z",
+    "diameter": "13500",
+    "edited": "2014-12-20T20:58:18.472000Z",
+    "films": [],
+    "gravity": "1",
+    "name": "Chandrila",
+    "orbital_period": "368",
+    "population": "1200000000",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/28/"
+    ],
+    "rotation_period": "20",
+    "surface_water": "40",
+    "terrain": "plains, forests",
+    "url": "https://gotev.github.io/swapi-android/planets/32/"
+}

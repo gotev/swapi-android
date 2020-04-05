@@ -1,1 +1,18 @@
-{"name":"Muunilinst","rotation_period":"28","orbital_period":"412","diameter":"13800","climate":"temperate","gravity":"1","terrain":"plains, forests, hills, mountains","surface_water":"25","population":"5000000000","residents":["https://swapi.co/api/people/77/"],"films":[],"created":"2014-12-20T17:57:47.420000Z","edited":"2014-12-20T20:58:18.519000Z","url":"https://swapi.co/api/planets/57/"}
+{
+    "climate": "temperate",
+    "created": "2014-12-20T17:57:47.420000Z",
+    "diameter": "13800",
+    "edited": "2014-12-20T20:58:18.519000Z",
+    "films": [],
+    "gravity": "1",
+    "name": "Muunilinst",
+    "orbital_period": "412",
+    "population": "5000000000",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/77/"
+    ],
+    "rotation_period": "28",
+    "surface_water": "25",
+    "terrain": "plains, forests, hills, mountains",
+    "url": "https://gotev.github.io/swapi-android/planets/57/"
+}

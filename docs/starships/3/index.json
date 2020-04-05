@@ -1,1 +1,24 @@
-{"name":"Star Destroyer","model":"Imperial I-class Star Destroyer","manufacturer":"Kuat Drive Yards","cost_in_credits":"150000000","length":"1,600","max_atmosphering_speed":"975","crew":"47060","passengers":"0","cargo_capacity":"36000000","consumables":"2 years","hyperdrive_rating":"2.0","MGLT":"60","starship_class":"Star Destroyer","pilots":[],"films":["https://swapi.co/api/films/2/","https://swapi.co/api/films/3/","https://swapi.co/api/films/1/"],"created":"2014-12-10T15:08:19.848000Z","edited":"2014-12-22T17:35:44.410941Z","url":"https://swapi.co/api/starships/3/"}
+{
+    "MGLT": "60",
+    "cargo_capacity": "36000000",
+    "consumables": "2 years",
+    "cost_in_credits": "150000000",
+    "created": "2014-12-10T15:08:19.848000Z",
+    "crew": "47060",
+    "edited": "2014-12-22T17:35:44.410941Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/2/",
+        "https://gotev.github.io/swapi-android/films/3/",
+        "https://gotev.github.io/swapi-android/films/1/"
+    ],
+    "hyperdrive_rating": "2.0",
+    "length": "1,600",
+    "manufacturer": "Kuat Drive Yards",
+    "max_atmosphering_speed": "975",
+    "model": "Imperial I-class Star Destroyer",
+    "name": "Star Destroyer",
+    "passengers": "0",
+    "pilots": [],
+    "starship_class": "Star Destroyer",
+    "url": "https://gotev.github.io/swapi-android/starships/3/"
+}

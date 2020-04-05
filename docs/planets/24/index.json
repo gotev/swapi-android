@@ -1,1 +1,18 @@
-{"name":"Nal Hutta","rotation_period":"87","orbital_period":"413","diameter":"12150","climate":"temperate","gravity":"1 standard","terrain":"urban, oceans, swamps, bogs","surface_water":"unknown","population":"7000000000","residents":["https://swapi.co/api/people/16/"],"films":[],"created":"2014-12-10T17:11:29.452000Z","edited":"2014-12-20T20:58:18.460000Z","url":"https://swapi.co/api/planets/24/"}
+{
+    "climate": "temperate",
+    "created": "2014-12-10T17:11:29.452000Z",
+    "diameter": "12150",
+    "edited": "2014-12-20T20:58:18.460000Z",
+    "films": [],
+    "gravity": "1 standard",
+    "name": "Nal Hutta",
+    "orbital_period": "413",
+    "population": "7000000000",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/16/"
+    ],
+    "rotation_period": "87",
+    "surface_water": "unknown",
+    "terrain": "urban, oceans, swamps, bogs",
+    "url": "https://gotev.github.io/swapi-android/planets/24/"
+}

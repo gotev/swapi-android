@@ -1,1 +1,18 @@
-{"name":"Mygeeto","rotation_period":"12","orbital_period":"167","diameter":"10088","climate":"frigid","gravity":"1 standard","terrain":"glaciers, mountains, ice canyons","surface_water":"unknown","population":"19000000","residents":[],"films":["https://swapi.co/api/films/6/"],"created":"2014-12-10T13:43:39.139000Z","edited":"2014-12-20T20:58:18.446000Z","url":"https://swapi.co/api/planets/16/"}
+{
+    "climate": "frigid",
+    "created": "2014-12-10T13:43:39.139000Z",
+    "diameter": "10088",
+    "edited": "2014-12-20T20:58:18.446000Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/6/"
+    ],
+    "gravity": "1 standard",
+    "name": "Mygeeto",
+    "orbital_period": "167",
+    "population": "19000000",
+    "residents": [],
+    "rotation_period": "12",
+    "surface_water": "unknown",
+    "terrain": "glaciers, mountains, ice canyons",
+    "url": "https://gotev.github.io/swapi-android/planets/16/"
+}

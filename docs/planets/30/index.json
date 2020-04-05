@@ -1,1 +1,18 @@
-{"name":"Socorro","rotation_period":"20","orbital_period":"326","diameter":"0","climate":"arid","gravity":"1 standard","terrain":"deserts, mountains","surface_water":"unknown","population":"300000000","residents":["https://swapi.co/api/people/25/"],"films":[],"created":"2014-12-15T12:56:31.121000Z","edited":"2014-12-20T20:58:18.469000Z","url":"https://swapi.co/api/planets/30/"}
+{
+    "climate": "arid",
+    "created": "2014-12-15T12:56:31.121000Z",
+    "diameter": "0",
+    "edited": "2014-12-20T20:58:18.469000Z",
+    "films": [],
+    "gravity": "1 standard",
+    "name": "Socorro",
+    "orbital_period": "326",
+    "population": "300000000",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/25/"
+    ],
+    "rotation_period": "20",
+    "surface_water": "unknown",
+    "terrain": "deserts, mountains",
+    "url": "https://gotev.github.io/swapi-android/planets/30/"
+}

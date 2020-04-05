@@ -1,1 +1,26 @@
-{"name":"Darth Maul","height":"175","mass":"80","hair_color":"none","skin_color":"red","eye_color":"yellow","birth_year":"54BBY","gender":"male","homeworld":"https://swapi.co/api/planets/36/","films":["https://swapi.co/api/films/4/"],"species":["https://swapi.co/api/species/22/"],"vehicles":["https://swapi.co/api/vehicles/42/"],"starships":["https://swapi.co/api/starships/41/"],"created":"2014-12-19T18:00:41.929000Z","edited":"2014-12-20T21:17:50.403000Z","url":"https://swapi.co/api/people/44/"}
+{
+    "birth_year": "54BBY",
+    "created": "2014-12-19T18:00:41.929000Z",
+    "edited": "2014-12-20T21:17:50.403000Z",
+    "eye_color": "yellow",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/4/"
+    ],
+    "gender": "male",
+    "hair_color": "none",
+    "height": "175",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/36/",
+    "mass": "80",
+    "name": "Darth Maul",
+    "skin_color": "red",
+    "species": [
+        "https://gotev.github.io/swapi-android/species/22/"
+    ],
+    "starships": [
+        "https://gotev.github.io/swapi-android/starships/41/"
+    ],
+    "url": "https://gotev.github.io/swapi-android/people/44/",
+    "vehicles": [
+        "https://gotev.github.io/swapi-android/vehicles/42/"
+    ]
+}

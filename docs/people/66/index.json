@@ -1,1 +1,22 @@
-{"name":"Dormé","height":"165","mass":"unknown","hair_color":"brown","skin_color":"light","eye_color":"brown","birth_year":"unknown","gender":"female","homeworld":"https://swapi.co/api/planets/8/","films":["https://swapi.co/api/films/5/"],"species":["https://swapi.co/api/species/1/"],"vehicles":[],"starships":[],"created":"2014-12-20T16:49:14.640000Z","edited":"2014-12-20T21:17:50.460000Z","url":"https://swapi.co/api/people/66/"}
+{
+    "birth_year": "unknown",
+    "created": "2014-12-20T16:49:14.640000Z",
+    "edited": "2014-12-20T21:17:50.460000Z",
+    "eye_color": "brown",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/5/"
+    ],
+    "gender": "female",
+    "hair_color": "brown",
+    "height": "165",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/8/",
+    "mass": "unknown",
+    "name": "Dorm\u00e9",
+    "skin_color": "light",
+    "species": [
+        "https://gotev.github.io/swapi-android/species/1/"
+    ],
+    "starships": [],
+    "url": "https://gotev.github.io/swapi-android/people/66/",
+    "vehicles": []
+}

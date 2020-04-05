@@ -1,1 +1,24 @@
-{"name":"Biggs Darklighter","height":"183","mass":"84","hair_color":"black","skin_color":"light","eye_color":"brown","birth_year":"24BBY","gender":"male","homeworld":"https://swapi.co/api/planets/1/","films":["https://swapi.co/api/films/1/"],"species":["https://swapi.co/api/species/1/"],"vehicles":[],"starships":["https://swapi.co/api/starships/12/"],"created":"2014-12-10T15:59:50.509000Z","edited":"2014-12-20T21:17:50.323000Z","url":"https://swapi.co/api/people/9/"}
+{
+    "birth_year": "24BBY",
+    "created": "2014-12-10T15:59:50.509000Z",
+    "edited": "2014-12-20T21:17:50.323000Z",
+    "eye_color": "brown",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/1/"
+    ],
+    "gender": "male",
+    "hair_color": "black",
+    "height": "183",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/1/",
+    "mass": "84",
+    "name": "Biggs Darklighter",
+    "skin_color": "light",
+    "species": [
+        "https://gotev.github.io/swapi-android/species/1/"
+    ],
+    "starships": [
+        "https://gotev.github.io/swapi-android/starships/12/"
+    ],
+    "url": "https://gotev.github.io/swapi-android/people/9/",
+    "vehicles": []
+}

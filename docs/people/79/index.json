@@ -1,1 +1,26 @@
-{"name":"Grievous","height":"216","mass":"159","hair_color":"none","skin_color":"brown, white","eye_color":"green, yellow","birth_year":"unknown","gender":"male","homeworld":"https://swapi.co/api/planets/59/","films":["https://swapi.co/api/films/6/"],"species":["https://swapi.co/api/species/36/"],"vehicles":["https://swapi.co/api/vehicles/60/"],"starships":["https://swapi.co/api/starships/74/"],"created":"2014-12-20T19:43:53.348000Z","edited":"2014-12-20T21:17:50.488000Z","url":"https://swapi.co/api/people/79/"}
+{
+    "birth_year": "unknown",
+    "created": "2014-12-20T19:43:53.348000Z",
+    "edited": "2014-12-20T21:17:50.488000Z",
+    "eye_color": "green, yellow",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/6/"
+    ],
+    "gender": "male",
+    "hair_color": "none",
+    "height": "216",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/59/",
+    "mass": "159",
+    "name": "Grievous",
+    "skin_color": "brown, white",
+    "species": [
+        "https://gotev.github.io/swapi-android/species/36/"
+    ],
+    "starships": [
+        "https://gotev.github.io/swapi-android/starships/74/"
+    ],
+    "url": "https://gotev.github.io/swapi-android/people/79/",
+    "vehicles": [
+        "https://gotev.github.io/swapi-android/vehicles/60/"
+    ]
+}

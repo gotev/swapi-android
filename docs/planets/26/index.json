@@ -1,1 +1,18 @@
-{"name":"Bestine IV","rotation_period":"26","orbital_period":"680","diameter":"6400","climate":"temperate","gravity":"unknown","terrain":"rocky islands, oceans","surface_water":"98","population":"62000000","residents":["https://swapi.co/api/people/19/"],"films":[],"created":"2014-12-12T11:16:55.078000Z","edited":"2014-12-20T20:58:18.463000Z","url":"https://swapi.co/api/planets/26/"}
+{
+    "climate": "temperate",
+    "created": "2014-12-12T11:16:55.078000Z",
+    "diameter": "6400",
+    "edited": "2014-12-20T20:58:18.463000Z",
+    "films": [],
+    "gravity": "unknown",
+    "name": "Bestine IV",
+    "orbital_period": "680",
+    "population": "62000000",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/19/"
+    ],
+    "rotation_period": "26",
+    "surface_water": "98",
+    "terrain": "rocky islands, oceans",
+    "url": "https://gotev.github.io/swapi-android/planets/26/"
+}

@@ -1,1 +1,20 @@
-{"name":"Geonosian starfighter","model":"Nantex-class territorial defense","manufacturer":"Huppla Pasa Tisc Shipwrights Collective","cost_in_credits":"unknown","length":"9.8","max_atmosphering_speed":"20000","crew":"1","passengers":"0","cargo_capacity":"unknown","consumables":"unknown","vehicle_class":"starfighter","pilots":[],"films":["https://swapi.co/api/films/5/"],"created":"2014-12-20T18:34:12.541000Z","edited":"2014-12-22T18:21:16.390980Z","url":"https://swapi.co/api/vehicles/57/"}
+{
+    "cargo_capacity": "unknown",
+    "consumables": "unknown",
+    "cost_in_credits": "unknown",
+    "created": "2014-12-20T18:34:12.541000Z",
+    "crew": "1",
+    "edited": "2014-12-22T18:21:16.390980Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/5/"
+    ],
+    "length": "9.8",
+    "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+    "max_atmosphering_speed": "20000",
+    "model": "Nantex-class territorial defense",
+    "name": "Geonosian starfighter",
+    "passengers": "0",
+    "pilots": [],
+    "url": "https://gotev.github.io/swapi-android/vehicles/57/",
+    "vehicle_class": "starfighter"
+}

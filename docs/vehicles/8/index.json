@@ -1,1 +1,22 @@
-{"name":"TIE/LN starfighter","model":"Twin Ion Engine/Ln Starfighter","manufacturer":"Sienar Fleet Systems","cost_in_credits":"unknown","length":"6.4","max_atmosphering_speed":"1200","crew":"1","passengers":"0","cargo_capacity":"65","consumables":"2 days","vehicle_class":"starfighter","pilots":[],"films":["https://swapi.co/api/films/2/","https://swapi.co/api/films/3/","https://swapi.co/api/films/1/"],"created":"2014-12-10T16:33:52.860000Z","edited":"2014-12-22T18:21:15.606149Z","url":"https://swapi.co/api/vehicles/8/"}
+{
+    "cargo_capacity": "65",
+    "consumables": "2 days",
+    "cost_in_credits": "unknown",
+    "created": "2014-12-10T16:33:52.860000Z",
+    "crew": "1",
+    "edited": "2014-12-22T18:21:15.606149Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/2/",
+        "https://gotev.github.io/swapi-android/films/3/",
+        "https://gotev.github.io/swapi-android/films/1/"
+    ],
+    "length": "6.4",
+    "manufacturer": "Sienar Fleet Systems",
+    "max_atmosphering_speed": "1200",
+    "model": "Twin Ion Engine/Ln Starfighter",
+    "name": "TIE/LN starfighter",
+    "passengers": "0",
+    "pilots": [],
+    "url": "https://gotev.github.io/swapi-android/vehicles/8/",
+    "vehicle_class": "starfighter"
+}

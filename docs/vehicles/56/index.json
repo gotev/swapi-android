@@ -1,1 +1,21 @@
-{"name":"Neimoidian shuttle","model":"Sheathipede-class transport shuttle","manufacturer":"Haor Chall Engineering","cost_in_credits":"unknown","length":"20","max_atmosphering_speed":"880","crew":"2","passengers":"6","cargo_capacity":"1000","consumables":"7 days","vehicle_class":"transport","pilots":[],"films":["https://swapi.co/api/films/5/","https://swapi.co/api/films/6/"],"created":"2014-12-20T18:25:44.912000Z","edited":"2014-12-22T18:21:16.366134Z","url":"https://swapi.co/api/vehicles/56/"}
+{
+    "cargo_capacity": "1000",
+    "consumables": "7 days",
+    "cost_in_credits": "unknown",
+    "created": "2014-12-20T18:25:44.912000Z",
+    "crew": "2",
+    "edited": "2014-12-22T18:21:16.366134Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/5/",
+        "https://gotev.github.io/swapi-android/films/6/"
+    ],
+    "length": "20",
+    "manufacturer": "Haor Chall Engineering",
+    "max_atmosphering_speed": "880",
+    "model": "Sheathipede-class transport shuttle",
+    "name": "Neimoidian shuttle",
+    "passengers": "6",
+    "pilots": [],
+    "url": "https://gotev.github.io/swapi-android/vehicles/56/",
+    "vehicle_class": "transport"
+}

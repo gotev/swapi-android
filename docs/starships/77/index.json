@@ -1,1 +1,24 @@
-{"name":"T-70 X-wing fighter","model":"T-70 X-wing fighter","manufacturer":"Incom","cost_in_credits":"unknown","length":"unknown","max_atmosphering_speed":"unknown","crew":"1","passengers":"unknown","cargo_capacity":"unknown","consumables":"unknown","hyperdrive_rating":"unknown","MGLT":"unknown","starship_class":"fighter","pilots":["https://swapi.co/api/people/86/"],"films":["https://swapi.co/api/films/7/"],"created":"2015-04-17T06:58:50.614475Z","edited":"2015-04-17T06:58:50.614528Z","url":"https://swapi.co/api/starships/77/"}
+{
+    "MGLT": "unknown",
+    "cargo_capacity": "unknown",
+    "consumables": "unknown",
+    "cost_in_credits": "unknown",
+    "created": "2015-04-17T06:58:50.614475Z",
+    "crew": "1",
+    "edited": "2015-04-17T06:58:50.614528Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/7/"
+    ],
+    "hyperdrive_rating": "unknown",
+    "length": "unknown",
+    "manufacturer": "Incom",
+    "max_atmosphering_speed": "unknown",
+    "model": "T-70 X-wing fighter",
+    "name": "T-70 X-wing fighter",
+    "passengers": "unknown",
+    "pilots": [
+        "https://gotev.github.io/swapi-android/people/86/"
+    ],
+    "starship_class": "fighter",
+    "url": "https://gotev.github.io/swapi-android/starships/77/"
+}

@@ -1,1 +1,25 @@
-{"name":"Belbullab-22 starfighter","model":"Belbullab-22 starfighter","manufacturer":"Feethan Ottraw Scalable Assemblies","cost_in_credits":"168000","length":"6.71","max_atmosphering_speed":"1100","crew":"1","passengers":"0","cargo_capacity":"140","consumables":"7 days","hyperdrive_rating":"6","MGLT":"unknown","starship_class":"starfighter","pilots":["https://swapi.co/api/people/10/","https://swapi.co/api/people/79/"],"films":["https://swapi.co/api/films/6/"],"created":"2014-12-20T20:38:05.031000Z","edited":"2014-12-22T17:35:45.381900Z","url":"https://swapi.co/api/starships/74/"}
+{
+    "MGLT": "unknown",
+    "cargo_capacity": "140",
+    "consumables": "7 days",
+    "cost_in_credits": "168000",
+    "created": "2014-12-20T20:38:05.031000Z",
+    "crew": "1",
+    "edited": "2014-12-22T17:35:45.381900Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/6/"
+    ],
+    "hyperdrive_rating": "6",
+    "length": "6.71",
+    "manufacturer": "Feethan Ottraw Scalable Assemblies",
+    "max_atmosphering_speed": "1100",
+    "model": "Belbullab-22 starfighter",
+    "name": "Belbullab-22 starfighter",
+    "passengers": "0",
+    "pilots": [
+        "https://gotev.github.io/swapi-android/people/10/",
+        "https://gotev.github.io/swapi-android/people/79/"
+    ],
+    "starship_class": "starfighter",
+    "url": "https://gotev.github.io/swapi-android/starships/74/"
+}

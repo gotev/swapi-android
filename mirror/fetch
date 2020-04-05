@@ -5,6 +5,19 @@ API_DIR="api"
 API_SOURCE_URI="https://swapi.co/api/"
 API_MIRROR_URI="https://gotev.github.io/swapi-android/"
 
+function rewrite_urls {
+  sed "s*${API_SOURCE_URI}*${API_MIRROR_URI}*g" | sed 's/?page=\([0-9]*\)/page\1.json/g'
+}
+
+function download_json {
+  source="$1"
+  destination="$2"
+
+  curl -s -L -o /tmp/swapifetch "$source"
+  python -m json.tool /tmp/swapifetch > "$destination"
+  rm -rf /tmp/swapifetch
+}
+
 function fetch {
   echo "fetching $1 ..."
 
@@ -13,23 +26,25 @@ function fetch {
     page="${API_SOURCE_URI}$1/?page=${pageNumber}"
     echo "  $page"
     file_name="${FETCHED_DIR}/${1}_page${pageNumber}.json"
-    curl -s -L "$page" -o /tmp/swapifetch
-    python -m json.tool /tmp/swapifetch > "$file_name"
-    rm -rf /tmp/swapifetch
+
+    download_json "$page" "$file_name"
 
     mkdir -p "${API_DIR}/${1}"
     api_file_name="${API_DIR}/${1}/page${pageNumber}.json"
-    cat "$file_name" | sed "s*${API_SOURCE_URI}*${API_MIRROR_URI}*g" | sed 's/?page=\([0-9]*\)/page\1.json/g' > "$api_file_name"
+    cat "$file_name" | rewrite_urls > "$api_file_name"
 
     for source in $(cat "$file_name" | grep -o "${API_SOURCE_URI}$1/\([0-9]*\)/")
     do
       echo "    $source"
       itemid=$(echo "$source" | tr '/' '\n' | tail -n 2 | head -n 1)
+
       destination_dir="${API_DIR}/${1}/${itemid}"
       mkdir -p "$destination_dir"
       destination="$destination_dir/index.json"
 
-      curl -s -L -o "$destination" "$source"
+      download_json "$source" "$destination"
+      cat "$destination" | rewrite_urls > /tmp/swapifetch
+      mv /tmp/swapifetch "$destination"
     done
   done
 }

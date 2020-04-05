@@ -1,1 +1,18 @@
-{"name":"Saleucami","rotation_period":"26","orbital_period":"392","diameter":"14920","climate":"hot","gravity":"unknown","terrain":"caves, desert, mountains, volcanoes","surface_water":"unknown","population":"1400000000","residents":[],"films":["https://swapi.co/api/films/6/"],"created":"2014-12-10T13:47:46.874000Z","edited":"2014-12-20T20:58:18.450000Z","url":"https://swapi.co/api/planets/19/"}
+{
+    "climate": "hot",
+    "created": "2014-12-10T13:47:46.874000Z",
+    "diameter": "14920",
+    "edited": "2014-12-20T20:58:18.450000Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/6/"
+    ],
+    "gravity": "unknown",
+    "name": "Saleucami",
+    "orbital_period": "392",
+    "population": "1400000000",
+    "residents": [],
+    "rotation_period": "26",
+    "surface_water": "unknown",
+    "terrain": "caves, desert, mountains, volcanoes",
+    "url": "https://gotev.github.io/swapi-android/planets/19/"
+}

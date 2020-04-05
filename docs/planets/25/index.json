@@ -1,1 +1,16 @@
-{"name":"Dantooine","rotation_period":"25","orbital_period":"378","diameter":"9830","climate":"temperate","gravity":"1 standard","terrain":"oceans, savannas, mountains, grasslands","surface_water":"unknown","population":"1000","residents":[],"films":[],"created":"2014-12-10T17:23:29.896000Z","edited":"2014-12-20T20:58:18.461000Z","url":"https://swapi.co/api/planets/25/"}
+{
+    "climate": "temperate",
+    "created": "2014-12-10T17:23:29.896000Z",
+    "diameter": "9830",
+    "edited": "2014-12-20T20:58:18.461000Z",
+    "films": [],
+    "gravity": "1 standard",
+    "name": "Dantooine",
+    "orbital_period": "378",
+    "population": "1000",
+    "residents": [],
+    "rotation_period": "25",
+    "surface_water": "unknown",
+    "terrain": "oceans, savannas, mountains, grasslands",
+    "url": "https://gotev.github.io/swapi-android/planets/25/"
+}

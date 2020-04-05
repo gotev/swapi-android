@@ -1,1 +1,18 @@
-{"name":"Ord Mantell","rotation_period":"26","orbital_period":"334","diameter":"14050","climate":"temperate","gravity":"1 standard","terrain":"plains, seas, mesas","surface_water":"10","population":"4000000000","residents":[],"films":["https://swapi.co/api/films/2/"],"created":"2014-12-15T12:23:41.661000Z","edited":"2014-12-20T20:58:18.464000Z","url":"https://swapi.co/api/planets/27/"}
+{
+    "climate": "temperate",
+    "created": "2014-12-15T12:23:41.661000Z",
+    "diameter": "14050",
+    "edited": "2014-12-20T20:58:18.464000Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/2/"
+    ],
+    "gravity": "1 standard",
+    "name": "Ord Mantell",
+    "orbital_period": "334",
+    "population": "4000000000",
+    "residents": [],
+    "rotation_period": "26",
+    "surface_water": "10",
+    "terrain": "plains, seas, mesas",
+    "url": "https://gotev.github.io/swapi-android/planets/27/"
+}

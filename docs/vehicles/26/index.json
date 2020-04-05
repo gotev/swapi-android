@@ -1,1 +1,20 @@
-{"name":"TIE/IN interceptor","model":"Twin Ion Engine Interceptor","manufacturer":"Sienar Fleet Systems","cost_in_credits":"unknown","length":"9.6","max_atmosphering_speed":"1250","crew":"1","passengers":"0","cargo_capacity":"75","consumables":"2 days","vehicle_class":"starfighter","pilots":[],"films":["https://swapi.co/api/films/3/"],"created":"2014-12-18T10:50:28.225000Z","edited":"2014-12-22T18:21:15.882388Z","url":"https://swapi.co/api/vehicles/26/"}
+{
+    "cargo_capacity": "75",
+    "consumables": "2 days",
+    "cost_in_credits": "unknown",
+    "created": "2014-12-18T10:50:28.225000Z",
+    "crew": "1",
+    "edited": "2014-12-22T18:21:15.882388Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/3/"
+    ],
+    "length": "9.6",
+    "manufacturer": "Sienar Fleet Systems",
+    "max_atmosphering_speed": "1250",
+    "model": "Twin Ion Engine Interceptor",
+    "name": "TIE/IN interceptor",
+    "passengers": "0",
+    "pilots": [],
+    "url": "https://gotev.github.io/swapi-android/vehicles/26/",
+    "vehicle_class": "starfighter"
+}

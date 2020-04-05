@@ -1,1 +1,18 @@
-{"name":"Mon Cala","rotation_period":"21","orbital_period":"398","diameter":"11030","climate":"temperate","gravity":"1","terrain":"oceans, reefs, islands","surface_water":"100","population":"27000000000","residents":["https://swapi.co/api/people/27/"],"films":[],"created":"2014-12-18T11:07:01.792000Z","edited":"2014-12-20T20:58:18.471000Z","url":"https://swapi.co/api/planets/31/"}
+{
+    "climate": "temperate",
+    "created": "2014-12-18T11:07:01.792000Z",
+    "diameter": "11030",
+    "edited": "2014-12-20T20:58:18.471000Z",
+    "films": [],
+    "gravity": "1",
+    "name": "Mon Cala",
+    "orbital_period": "398",
+    "population": "27000000000",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/27/"
+    ],
+    "rotation_period": "21",
+    "surface_water": "100",
+    "terrain": "oceans, reefs, islands",
+    "url": "https://gotev.github.io/swapi-android/planets/31/"
+}

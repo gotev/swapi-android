@@ -1,1 +1,18 @@
-{"name":"Haruun Kal","rotation_period":"25","orbital_period":"383","diameter":"10120","climate":"temperate","gravity":"0.98","terrain":"toxic cloudsea, plateaus, volcanoes","surface_water":"unknown","population":"705300","residents":["https://swapi.co/api/people/51/"],"films":[],"created":"2014-12-20T10:12:28.980000Z","edited":"2014-12-20T20:58:18.491000Z","url":"https://swapi.co/api/planets/42/"}
+{
+    "climate": "temperate",
+    "created": "2014-12-20T10:12:28.980000Z",
+    "diameter": "10120",
+    "edited": "2014-12-20T20:58:18.491000Z",
+    "films": [],
+    "gravity": "0.98",
+    "name": "Haruun Kal",
+    "orbital_period": "383",
+    "population": "705300",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/51/"
+    ],
+    "rotation_period": "25",
+    "surface_water": "unknown",
+    "terrain": "toxic cloudsea, plateaus, volcanoes",
+    "url": "https://gotev.github.io/swapi-android/planets/42/"
+}

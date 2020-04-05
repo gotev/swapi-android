@@ -1,1 +1,20 @@
-{"name":"Clone turbo tank","model":"HAVw A6 Juggernaut","manufacturer":"Kuat Drive Yards","cost_in_credits":"350000","length":"49.4","max_atmosphering_speed":"160","crew":"20","passengers":"300","cargo_capacity":"30000","consumables":"20 days","vehicle_class":"wheeled walker","pilots":[],"films":["https://swapi.co/api/films/6/"],"created":"2014-12-20T20:24:45.587000Z","edited":"2014-12-22T18:21:16.571079Z","url":"https://swapi.co/api/vehicles/71/"}
+{
+    "cargo_capacity": "30000",
+    "consumables": "20 days",
+    "cost_in_credits": "350000",
+    "created": "2014-12-20T20:24:45.587000Z",
+    "crew": "20",
+    "edited": "2014-12-22T18:21:16.571079Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/6/"
+    ],
+    "length": "49.4",
+    "manufacturer": "Kuat Drive Yards",
+    "max_atmosphering_speed": "160",
+    "model": "HAVw A6 Juggernaut",
+    "name": "Clone turbo tank",
+    "passengers": "300",
+    "pilots": [],
+    "url": "https://gotev.github.io/swapi-android/vehicles/71/",
+    "vehicle_class": "wheeled walker"
+}

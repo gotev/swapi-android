@@ -1,1 +1,22 @@
-{"name":"Kaminoan","classification":"amphibian","designation":"sentient","average_height":"220","skin_colors":"grey, blue","hair_colors":"none","eye_colors":"black","average_lifespan":"80","homeworld":"https://swapi.co/api/planets/10/","language":"Kaminoan","people":["https://swapi.co/api/people/72/","https://swapi.co/api/people/73/"],"films":["https://swapi.co/api/films/5/"],"created":"2014-12-20T17:31:24.838000Z","edited":"2014-12-20T21:36:42.202000Z","url":"https://swapi.co/api/species/32/"}
+{
+    "average_height": "220",
+    "average_lifespan": "80",
+    "classification": "amphibian",
+    "created": "2014-12-20T17:31:24.838000Z",
+    "designation": "sentient",
+    "edited": "2014-12-20T21:36:42.202000Z",
+    "eye_colors": "black",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/5/"
+    ],
+    "hair_colors": "none",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/10/",
+    "language": "Kaminoan",
+    "name": "Kaminoan",
+    "people": [
+        "https://gotev.github.io/swapi-android/people/72/",
+        "https://gotev.github.io/swapi-android/people/73/"
+    ],
+    "skin_colors": "grey, blue",
+    "url": "https://gotev.github.io/swapi-android/species/32/"
+}

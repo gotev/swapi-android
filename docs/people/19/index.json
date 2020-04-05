@@ -1,1 +1,24 @@
-{"name":"Jek Tono Porkins","height":"180","mass":"110","hair_color":"brown","skin_color":"fair","eye_color":"blue","birth_year":"unknown","gender":"male","homeworld":"https://swapi.co/api/planets/26/","films":["https://swapi.co/api/films/1/"],"species":["https://swapi.co/api/species/1/"],"vehicles":[],"starships":["https://swapi.co/api/starships/12/"],"created":"2014-12-12T11:16:56.569000Z","edited":"2014-12-20T21:17:50.343000Z","url":"https://swapi.co/api/people/19/"}
+{
+    "birth_year": "unknown",
+    "created": "2014-12-12T11:16:56.569000Z",
+    "edited": "2014-12-20T21:17:50.343000Z",
+    "eye_color": "blue",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/1/"
+    ],
+    "gender": "male",
+    "hair_color": "brown",
+    "height": "180",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/26/",
+    "mass": "110",
+    "name": "Jek Tono Porkins",
+    "skin_color": "fair",
+    "species": [
+        "https://gotev.github.io/swapi-android/species/1/"
+    ],
+    "starships": [
+        "https://gotev.github.io/swapi-android/starships/12/"
+    ],
+    "url": "https://gotev.github.io/swapi-android/people/19/",
+    "vehicles": []
+}

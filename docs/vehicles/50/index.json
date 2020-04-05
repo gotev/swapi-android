@@ -1,1 +1,21 @@
-{"name":"LAAT/i","model":"Low Altitude Assault Transport/infrantry","manufacturer":"Rothana Heavy Engineering","cost_in_credits":"unknown","length":"17.4","max_atmosphering_speed":"620","crew":"6","passengers":"30","cargo_capacity":"170","consumables":"unknown","vehicle_class":"gunship","pilots":[],"films":["https://swapi.co/api/films/5/","https://swapi.co/api/films/6/"],"created":"2014-12-20T18:01:21.014000Z","edited":"2014-12-22T18:21:16.181363Z","url":"https://swapi.co/api/vehicles/50/"}
+{
+    "cargo_capacity": "170",
+    "consumables": "unknown",
+    "cost_in_credits": "unknown",
+    "created": "2014-12-20T18:01:21.014000Z",
+    "crew": "6",
+    "edited": "2014-12-22T18:21:16.181363Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/5/",
+        "https://gotev.github.io/swapi-android/films/6/"
+    ],
+    "length": "17.4",
+    "manufacturer": "Rothana Heavy Engineering",
+    "max_atmosphering_speed": "620",
+    "model": "Low Altitude Assault Transport/infrantry",
+    "name": "LAAT/i",
+    "passengers": "30",
+    "pilots": [],
+    "url": "https://gotev.github.io/swapi-android/vehicles/50/",
+    "vehicle_class": "gunship"
+}

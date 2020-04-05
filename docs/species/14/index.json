@@ -1,1 +1,21 @@
-{"name":"Dug","classification":"mammal","designation":"sentient","average_height":"100","skin_colors":"brown, purple, grey, red","hair_colors":"none","eye_colors":"yellow, blue","average_lifespan":"unknown","homeworld":"https://swapi.co/api/planets/35/","language":"Dugese","people":["https://swapi.co/api/people/41/"],"films":["https://swapi.co/api/films/4/"],"created":"2014-12-19T17:53:11.214000Z","edited":"2014-12-20T21:36:42.167000Z","url":"https://swapi.co/api/species/14/"}
+{
+    "average_height": "100",
+    "average_lifespan": "unknown",
+    "classification": "mammal",
+    "created": "2014-12-19T17:53:11.214000Z",
+    "designation": "sentient",
+    "edited": "2014-12-20T21:36:42.167000Z",
+    "eye_colors": "yellow, blue",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/4/"
+    ],
+    "hair_colors": "none",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/35/",
+    "language": "Dugese",
+    "name": "Dug",
+    "people": [
+        "https://gotev.github.io/swapi-android/people/41/"
+    ],
+    "skin_colors": "brown, purple, grey, red",
+    "url": "https://gotev.github.io/swapi-android/species/14/"
+}

@@ -1,1 +1,24 @@
-{"name":"Poe Dameron","height":"unknown","mass":"unknown","hair_color":"brown","skin_color":"light","eye_color":"brown","birth_year":"unknown","gender":"male","homeworld":"https://swapi.co/api/planets/28/","films":["https://swapi.co/api/films/7/"],"species":["https://swapi.co/api/species/1/"],"vehicles":[],"starships":["https://swapi.co/api/starships/77/"],"created":"2015-04-17T06:55:21.622786Z","edited":"2015-04-17T06:55:21.622835Z","url":"https://swapi.co/api/people/86/"}
+{
+    "birth_year": "unknown",
+    "created": "2015-04-17T06:55:21.622786Z",
+    "edited": "2015-04-17T06:55:21.622835Z",
+    "eye_color": "brown",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/7/"
+    ],
+    "gender": "male",
+    "hair_color": "brown",
+    "height": "unknown",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/28/",
+    "mass": "unknown",
+    "name": "Poe Dameron",
+    "skin_color": "light",
+    "species": [
+        "https://gotev.github.io/swapi-android/species/1/"
+    ],
+    "starships": [
+        "https://gotev.github.io/swapi-android/starships/77/"
+    ],
+    "url": "https://gotev.github.io/swapi-android/people/86/",
+    "vehicles": []
+}

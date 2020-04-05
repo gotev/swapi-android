@@ -1,1 +1,20 @@
-{"name":"Sail barge","model":"Modified Luxury Sail Barge","manufacturer":"Ubrikkian Industries Custom Vehicle Division","cost_in_credits":"285000","length":"30","max_atmosphering_speed":"100","crew":"26","passengers":"500","cargo_capacity":"2000000","consumables":"Live food tanks","vehicle_class":"sail barge","pilots":[],"films":["https://swapi.co/api/films/3/"],"created":"2014-12-18T10:44:14.217000Z","edited":"2014-12-22T18:21:15.807906Z","url":"https://swapi.co/api/vehicles/24/"}
+{
+    "cargo_capacity": "2000000",
+    "consumables": "Live food tanks",
+    "cost_in_credits": "285000",
+    "created": "2014-12-18T10:44:14.217000Z",
+    "crew": "26",
+    "edited": "2014-12-22T18:21:15.807906Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/3/"
+    ],
+    "length": "30",
+    "manufacturer": "Ubrikkian Industries Custom Vehicle Division",
+    "max_atmosphering_speed": "100",
+    "model": "Modified Luxury Sail Barge",
+    "name": "Sail barge",
+    "passengers": "500",
+    "pilots": [],
+    "url": "https://gotev.github.io/swapi-android/vehicles/24/",
+    "vehicle_class": "sail barge"
+}

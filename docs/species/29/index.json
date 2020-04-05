@@ -1,1 +1,23 @@
-{"name":"Mirialan","classification":"mammal","designation":"sentient","average_height":"180","skin_colors":"yellow, green","hair_colors":"black, brown","eye_colors":"blue, green, red, yellow, brown, orange","average_lifespan":"unknown","homeworld":"https://swapi.co/api/planets/51/","language":"Mirialan","people":["https://swapi.co/api/people/64/","https://swapi.co/api/people/65/"],"films":["https://swapi.co/api/films/5/","https://swapi.co/api/films/6/"],"created":"2014-12-20T16:46:48.290000Z","edited":"2014-12-20T21:36:42.197000Z","url":"https://swapi.co/api/species/29/"}
+{
+    "average_height": "180",
+    "average_lifespan": "unknown",
+    "classification": "mammal",
+    "created": "2014-12-20T16:46:48.290000Z",
+    "designation": "sentient",
+    "edited": "2014-12-20T21:36:42.197000Z",
+    "eye_colors": "blue, green, red, yellow, brown, orange",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/5/",
+        "https://gotev.github.io/swapi-android/films/6/"
+    ],
+    "hair_colors": "black, brown",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/51/",
+    "language": "Mirialan",
+    "name": "Mirialan",
+    "people": [
+        "https://gotev.github.io/swapi-android/people/64/",
+        "https://gotev.github.io/swapi-android/people/65/"
+    ],
+    "skin_colors": "yellow, green",
+    "url": "https://gotev.github.io/swapi-android/species/29/"
+}

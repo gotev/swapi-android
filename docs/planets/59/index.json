@@ -1,1 +1,18 @@
-{"name":"Kalee","rotation_period":"23","orbital_period":"378","diameter":"13850","climate":"arid, temperate, tropical","gravity":"1","terrain":"rainforests, cliffs, canyons, seas","surface_water":"unknown","population":"4000000000","residents":["https://swapi.co/api/people/79/"],"films":[],"created":"2014-12-20T19:43:51.278000Z","edited":"2014-12-20T20:58:18.523000Z","url":"https://swapi.co/api/planets/59/"}
+{
+    "climate": "arid, temperate, tropical",
+    "created": "2014-12-20T19:43:51.278000Z",
+    "diameter": "13850",
+    "edited": "2014-12-20T20:58:18.523000Z",
+    "films": [],
+    "gravity": "1",
+    "name": "Kalee",
+    "orbital_period": "378",
+    "population": "4000000000",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/79/"
+    ],
+    "rotation_period": "23",
+    "surface_water": "unknown",
+    "terrain": "rainforests, cliffs, canyons, seas",
+    "url": "https://gotev.github.io/swapi-android/planets/59/"
+}

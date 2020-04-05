@@ -1,1 +1,24 @@
-{"name":"Zam Wesell","height":"168","mass":"55","hair_color":"blonde","skin_color":"fair, green, yellow","eye_color":"yellow","birth_year":"unknown","gender":"female","homeworld":"https://swapi.co/api/planets/54/","films":["https://swapi.co/api/films/5/"],"species":["https://swapi.co/api/species/30/"],"vehicles":["https://swapi.co/api/vehicles/45/"],"starships":[],"created":"2014-12-20T16:57:44.471000Z","edited":"2014-12-20T21:17:50.468000Z","url":"https://swapi.co/api/people/70/"}
+{
+    "birth_year": "unknown",
+    "created": "2014-12-20T16:57:44.471000Z",
+    "edited": "2014-12-20T21:17:50.468000Z",
+    "eye_color": "yellow",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/5/"
+    ],
+    "gender": "female",
+    "hair_color": "blonde",
+    "height": "168",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/54/",
+    "mass": "55",
+    "name": "Zam Wesell",
+    "skin_color": "fair, green, yellow",
+    "species": [
+        "https://gotev.github.io/swapi-android/species/30/"
+    ],
+    "starships": [],
+    "url": "https://gotev.github.io/swapi-android/people/70/",
+    "vehicles": [
+        "https://gotev.github.io/swapi-android/vehicles/45/"
+    ]
+}

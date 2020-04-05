@@ -1,1 +1,23 @@
-{"name":"Tribubble bongo","model":"Tribubble bongo","manufacturer":"Otoh Gunga Bongameken Cooperative","cost_in_credits":"unknown","length":"15","max_atmosphering_speed":"85","crew":"1","passengers":"2","cargo_capacity":"1600","consumables":"unknown","vehicle_class":"submarine","pilots":["https://swapi.co/api/people/10/","https://swapi.co/api/people/32/"],"films":["https://swapi.co/api/films/4/"],"created":"2014-12-19T17:37:37.924000Z","edited":"2014-12-22T18:21:16.072083Z","url":"https://swapi.co/api/vehicles/38/"}
+{
+    "cargo_capacity": "1600",
+    "consumables": "unknown",
+    "cost_in_credits": "unknown",
+    "created": "2014-12-19T17:37:37.924000Z",
+    "crew": "1",
+    "edited": "2014-12-22T18:21:16.072083Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/4/"
+    ],
+    "length": "15",
+    "manufacturer": "Otoh Gunga Bongameken Cooperative",
+    "max_atmosphering_speed": "85",
+    "model": "Tribubble bongo",
+    "name": "Tribubble bongo",
+    "passengers": "2",
+    "pilots": [
+        "https://gotev.github.io/swapi-android/people/10/",
+        "https://gotev.github.io/swapi-android/people/32/"
+    ],
+    "url": "https://gotev.github.io/swapi-android/vehicles/38/",
+    "vehicle_class": "submarine"
+}

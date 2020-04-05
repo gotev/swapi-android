@@ -1,1 +1,18 @@
-{"name":"Rodia","rotation_period":"29","orbital_period":"305","diameter":"7549","climate":"hot","gravity":"1 standard","terrain":"jungles, oceans, urban, swamps","surface_water":"60","population":"1300000000","residents":["https://swapi.co/api/people/15/"],"films":[],"created":"2014-12-10T17:03:28.110000Z","edited":"2014-12-20T20:58:18.458000Z","url":"https://swapi.co/api/planets/23/"}
+{
+    "climate": "hot",
+    "created": "2014-12-10T17:03:28.110000Z",
+    "diameter": "7549",
+    "edited": "2014-12-20T20:58:18.458000Z",
+    "films": [],
+    "gravity": "1 standard",
+    "name": "Rodia",
+    "orbital_period": "305",
+    "population": "1300000000",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/15/"
+    ],
+    "rotation_period": "29",
+    "surface_water": "60",
+    "terrain": "jungles, oceans, urban, swamps",
+    "url": "https://gotev.github.io/swapi-android/planets/23/"
+}

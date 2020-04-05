@@ -1,1 +1,22 @@
-{"name":"Bossk","height":"190","mass":"113","hair_color":"none","skin_color":"green","eye_color":"red","birth_year":"53BBY","gender":"male","homeworld":"https://swapi.co/api/planets/29/","films":["https://swapi.co/api/films/2/"],"species":["https://swapi.co/api/species/7/"],"vehicles":[],"starships":[],"created":"2014-12-15T12:53:49.297000Z","edited":"2014-12-20T21:17:50.355000Z","url":"https://swapi.co/api/people/24/"}
+{
+    "birth_year": "53BBY",
+    "created": "2014-12-15T12:53:49.297000Z",
+    "edited": "2014-12-20T21:17:50.355000Z",
+    "eye_color": "red",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/2/"
+    ],
+    "gender": "male",
+    "hair_color": "none",
+    "height": "190",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/29/",
+    "mass": "113",
+    "name": "Bossk",
+    "skin_color": "green",
+    "species": [
+        "https://gotev.github.io/swapi-android/species/7/"
+    ],
+    "starships": [],
+    "url": "https://gotev.github.io/swapi-android/people/24/",
+    "vehicles": []
+}

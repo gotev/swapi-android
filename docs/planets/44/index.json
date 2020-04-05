@@ -1,1 +1,18 @@
-{"name":"Glee Anselm","rotation_period":"33","orbital_period":"206","diameter":"15600","climate":"tropical, temperate","gravity":"1","terrain":"lakes, islands, swamps, seas","surface_water":"80","population":"500000000","residents":["https://swapi.co/api/people/53/"],"films":[],"created":"2014-12-20T10:18:26.110000Z","edited":"2014-12-20T20:58:18.495000Z","url":"https://swapi.co/api/planets/44/"}
+{
+    "climate": "tropical, temperate",
+    "created": "2014-12-20T10:18:26.110000Z",
+    "diameter": "15600",
+    "edited": "2014-12-20T20:58:18.495000Z",
+    "films": [],
+    "gravity": "1",
+    "name": "Glee Anselm",
+    "orbital_period": "206",
+    "population": "500000000",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/53/"
+    ],
+    "rotation_period": "33",
+    "surface_water": "80",
+    "terrain": "lakes, islands, swamps, seas",
+    "url": "https://gotev.github.io/swapi-android/planets/44/"
+}

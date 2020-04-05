@@ -1,1 +1,21 @@
-{"name":"Sly Moore","height":"178","mass":"48","hair_color":"none","skin_color":"pale","eye_color":"white","birth_year":"unknown","gender":"female","homeworld":"https://swapi.co/api/planets/60/","films":["https://swapi.co/api/films/5/","https://swapi.co/api/films/6/"],"species":[],"vehicles":[],"starships":[],"created":"2014-12-20T20:18:37.619000Z","edited":"2014-12-20T21:17:50.496000Z","url":"https://swapi.co/api/people/82/"}
+{
+    "birth_year": "unknown",
+    "created": "2014-12-20T20:18:37.619000Z",
+    "edited": "2014-12-20T21:17:50.496000Z",
+    "eye_color": "white",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/5/",
+        "https://gotev.github.io/swapi-android/films/6/"
+    ],
+    "gender": "female",
+    "hair_color": "none",
+    "height": "178",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/60/",
+    "mass": "48",
+    "name": "Sly Moore",
+    "skin_color": "pale",
+    "species": [],
+    "starships": [],
+    "url": "https://gotev.github.io/swapi-android/people/82/",
+    "vehicles": []
+}

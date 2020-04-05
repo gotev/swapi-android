@@ -1,1 +1,20 @@
-{"name":"Multi-Troop Transport","model":"Multi-Troop Transport","manufacturer":"Baktoid Armor Workshop","cost_in_credits":"138000","length":"31","max_atmosphering_speed":"35","crew":"4","passengers":"112","cargo_capacity":"12000","consumables":"unknown","vehicle_class":"repulsorcraft","pilots":[],"films":["https://swapi.co/api/films/4/"],"created":"2014-12-19T17:12:04.400000Z","edited":"2014-12-22T18:21:15.975171Z","url":"https://swapi.co/api/vehicles/34/"}
+{
+    "cargo_capacity": "12000",
+    "consumables": "unknown",
+    "cost_in_credits": "138000",
+    "created": "2014-12-19T17:12:04.400000Z",
+    "crew": "4",
+    "edited": "2014-12-22T18:21:15.975171Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/4/"
+    ],
+    "length": "31",
+    "manufacturer": "Baktoid Armor Workshop",
+    "max_atmosphering_speed": "35",
+    "model": "Multi-Troop Transport",
+    "name": "Multi-Troop Transport",
+    "passengers": "112",
+    "pilots": [],
+    "url": "https://gotev.github.io/swapi-android/vehicles/34/",
+    "vehicle_class": "repulsorcraft"
+}

@@ -1,1 +1,18 @@
-{"name":"Umbara","rotation_period":"unknown","orbital_period":"unknown","diameter":"unknown","climate":"unknown","gravity":"unknown","terrain":"unknown","surface_water":"unknown","population":"unknown","residents":["https://swapi.co/api/people/82/"],"films":[],"created":"2014-12-20T20:18:36.256000Z","edited":"2014-12-20T20:58:18.525000Z","url":"https://swapi.co/api/planets/60/"}
+{
+    "climate": "unknown",
+    "created": "2014-12-20T20:18:36.256000Z",
+    "diameter": "unknown",
+    "edited": "2014-12-20T20:58:18.525000Z",
+    "films": [],
+    "gravity": "unknown",
+    "name": "Umbara",
+    "orbital_period": "unknown",
+    "population": "unknown",
+    "residents": [
+        "https://gotev.github.io/swapi-android/people/82/"
+    ],
+    "rotation_period": "unknown",
+    "surface_water": "unknown",
+    "terrain": "unknown",
+    "url": "https://gotev.github.io/swapi-android/planets/60/"
+}

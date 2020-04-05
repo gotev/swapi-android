@@ -1,1 +1,24 @@
-{"name":"A-wing","model":"RZ-1 A-wing Interceptor","manufacturer":"Alliance Underground Engineering, Incom Corporation","cost_in_credits":"175000","length":"9.6","max_atmosphering_speed":"1300","crew":"1","passengers":"0","cargo_capacity":"40","consumables":"1 week","hyperdrive_rating":"1.0","MGLT":"120","starship_class":"Starfighter","pilots":["https://swapi.co/api/people/29/"],"films":["https://swapi.co/api/films/3/"],"created":"2014-12-18T11:16:34.542000Z","edited":"2014-12-22T17:35:44.978754Z","url":"https://swapi.co/api/starships/28/"}
+{
+    "MGLT": "120",
+    "cargo_capacity": "40",
+    "consumables": "1 week",
+    "cost_in_credits": "175000",
+    "created": "2014-12-18T11:16:34.542000Z",
+    "crew": "1",
+    "edited": "2014-12-22T17:35:44.978754Z",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/3/"
+    ],
+    "hyperdrive_rating": "1.0",
+    "length": "9.6",
+    "manufacturer": "Alliance Underground Engineering, Incom Corporation",
+    "max_atmosphering_speed": "1300",
+    "model": "RZ-1 A-wing Interceptor",
+    "name": "A-wing",
+    "passengers": "0",
+    "pilots": [
+        "https://gotev.github.io/swapi-android/people/29/"
+    ],
+    "starship_class": "Starfighter",
+    "url": "https://gotev.github.io/swapi-android/starships/28/"
+}

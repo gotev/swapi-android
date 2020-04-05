@@ -1,1 +1,37 @@
-{"title":"The Force Awakens","episode_id":7,"opening_crawl":"Luke Skywalker has vanished.\r\nIn his absence, the sinister\r\nFIRST ORDER has risen from\r\nthe ashes of the Empire\r\nand will not rest until\r\nSkywalker, the last Jedi,\r\nhas been destroyed.\r\n \r\nWith the support of the\r\nREPUBLIC, General Leia Organa\r\nleads a brave RESISTANCE.\r\nShe is desperate to find her\r\nbrother Luke and gain his\r\nhelp in restoring peace and\r\njustice to the galaxy.\r\n \r\nLeia has sent her most daring\r\npilot on a secret mission\r\nto Jakku, where an old ally\r\nhas discovered a clue to\r\nLuke's whereabouts....","director":"J. J. Abrams","producer":"Kathleen Kennedy, J. J. Abrams, Bryan Burk","release_date":"2015-12-11","characters":["https://swapi.co/api/people/1/","https://swapi.co/api/people/3/","https://swapi.co/api/people/5/","https://swapi.co/api/people/13/","https://swapi.co/api/people/14/","https://swapi.co/api/people/27/","https://swapi.co/api/people/84/","https://swapi.co/api/people/85/","https://swapi.co/api/people/86/","https://swapi.co/api/people/87/","https://swapi.co/api/people/88/"],"planets":["https://swapi.co/api/planets/61/"],"starships":["https://swapi.co/api/starships/77/","https://swapi.co/api/starships/10/"],"vehicles":[],"species":["https://swapi.co/api/species/3/","https://swapi.co/api/species/2/","https://swapi.co/api/species/1/"],"created":"2015-04-17T06:51:30.504780Z","edited":"2015-12-17T14:31:47.617768Z","url":"https://swapi.co/api/films/7/"}
+{
+    "characters": [
+        "https://gotev.github.io/swapi-android/people/1/",
+        "https://gotev.github.io/swapi-android/people/3/",
+        "https://gotev.github.io/swapi-android/people/5/",
+        "https://gotev.github.io/swapi-android/people/13/",
+        "https://gotev.github.io/swapi-android/people/14/",
+        "https://gotev.github.io/swapi-android/people/27/",
+        "https://gotev.github.io/swapi-android/people/84/",
+        "https://gotev.github.io/swapi-android/people/85/",
+        "https://gotev.github.io/swapi-android/people/86/",
+        "https://gotev.github.io/swapi-android/people/87/",
+        "https://gotev.github.io/swapi-android/people/88/"
+    ],
+    "created": "2015-04-17T06:51:30.504780Z",
+    "director": "J. J. Abrams",
+    "edited": "2015-12-17T14:31:47.617768Z",
+    "episode_id": 7,
+    "opening_crawl": "Luke Skywalker has vanished.\r\nIn his absence, the sinister\r\nFIRST ORDER has risen from\r\nthe ashes of the Empire\r\nand will not rest until\r\nSkywalker, the last Jedi,\r\nhas been destroyed.\r\n \r\nWith the support of the\r\nREPUBLIC, General Leia Organa\r\nleads a brave RESISTANCE.\r\nShe is desperate to find her\r\nbrother Luke and gain his\r\nhelp in restoring peace and\r\njustice to the galaxy.\r\n \r\nLeia has sent her most daring\r\npilot on a secret mission\r\nto Jakku, where an old ally\r\nhas discovered a clue to\r\nLuke's whereabouts....",
+    "planets": [
+        "https://gotev.github.io/swapi-android/planets/61/"
+    ],
+    "producer": "Kathleen Kennedy, J. J. Abrams, Bryan Burk",
+    "release_date": "2015-12-11",
+    "species": [
+        "https://gotev.github.io/swapi-android/species/3/",
+        "https://gotev.github.io/swapi-android/species/2/",
+        "https://gotev.github.io/swapi-android/species/1/"
+    ],
+    "starships": [
+        "https://gotev.github.io/swapi-android/starships/77/",
+        "https://gotev.github.io/swapi-android/starships/10/"
+    ],
+    "title": "The Force Awakens",
+    "url": "https://gotev.github.io/swapi-android/films/7/",
+    "vehicles": []
+}

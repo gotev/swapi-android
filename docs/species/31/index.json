@@ -1,1 +1,21 @@
-{"name":"Besalisk","classification":"amphibian","designation":"sentient","average_height":"178","skin_colors":"brown","hair_colors":"none","eye_colors":"yellow","average_lifespan":"75","homeworld":"https://swapi.co/api/planets/55/","language":"besalisk","people":["https://swapi.co/api/people/71/"],"films":["https://swapi.co/api/films/5/"],"created":"2014-12-20T17:28:28.821000Z","edited":"2014-12-20T21:36:42.200000Z","url":"https://swapi.co/api/species/31/"}
+{
+    "average_height": "178",
+    "average_lifespan": "75",
+    "classification": "amphibian",
+    "created": "2014-12-20T17:28:28.821000Z",
+    "designation": "sentient",
+    "edited": "2014-12-20T21:36:42.200000Z",
+    "eye_colors": "yellow",
+    "films": [
+        "https://gotev.github.io/swapi-android/films/5/"
+    ],
+    "hair_colors": "none",
+    "homeworld": "https://gotev.github.io/swapi-android/planets/55/",
+    "language": "besalisk",
+    "name": "Besalisk",
+    "people": [
+        "https://gotev.github.io/swapi-android/people/71/"
+    ],
+    "skin_colors": "brown",
+    "url": "https://gotev.github.io/swapi-android/species/31/"
+}
