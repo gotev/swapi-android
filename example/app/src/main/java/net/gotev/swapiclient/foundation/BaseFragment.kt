@@ -9,9 +9,11 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import kotlinx.android.synthetic.main.fragment_base.*
 import net.gotev.recycleradapter.RecyclerAdapter
 import net.gotev.recycleradapter.ext.RecyclerAdapterProvider
 import net.gotev.swapiclient.MainActivity
+import net.gotev.swapiclient.R
 
 open class BaseFragment : Fragment(), RecyclerAdapterProvider {
     override val recyclerAdapter by lazy { RecyclerAdapter() }
@@ -20,32 +22,20 @@ open class BaseFragment : Fragment(), RecyclerAdapterProvider {
         ViewModelProvider(requireActivity()).get(BaseViewModel::class.java)
     }
 
-    internal var recyclerView: RecyclerView? = null
-
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
-        super.onCreateView(inflater, container, savedInstanceState)
-        recyclerView = context?.let {
-            RecyclerView(it).apply {
-                layoutParams = ViewGroup.LayoutParams(
-                    ViewGroup.LayoutParams.MATCH_PARENT,
-                    ViewGroup.LayoutParams.WRAP_CONTENT
-                )
-                layoutManager = LinearLayoutManager(it, RecyclerView.VERTICAL, false)
-                adapter = recyclerAdapter
-                addItemDecoration(DividerItemDecoration(context, RecyclerView.VERTICAL))
-            }
-        }
-        return recyclerView
-    }
+    ) = inflater.inflate(R.layout.fragment_base, container, false)
 
-    override fun onDestroyView() {
-        super.onDestroyView()
-        recyclerView?.adapter = null
-        recyclerView = null
+    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
+        super.onViewCreated(view, savedInstanceState)
+
+        recycler_view.apply {
+            layoutManager = LinearLayoutManager(context, RecyclerView.VERTICAL, false)
+            adapter = recyclerAdapter
+            addItemDecoration(DividerItemDecoration(context, RecyclerView.VERTICAL))
+        }
     }
 
     fun setActionBarTitleAndSubtitle(title: String, subtitle: String? = null) {
