@@ -1,6 +1,6 @@
 package net.gotev.swapi.interfaces
 
-import net.gotev.swapi.extensions.mapAsync
+import net.gotev.swapi.extensions.parallelMap
 import net.gotev.swapi.swapiClient
 
 /**
@@ -9,5 +9,5 @@ import net.gotev.swapi.swapiClient
 interface HasCharacters {
     val charactersURLs: List<String>
 
-    suspend fun characters() = charactersURLs.mapAsync { swapiClient.character(it) }
+    suspend fun characters() = charactersURLs.parallelMap { swapiClient.character(it) }
 }

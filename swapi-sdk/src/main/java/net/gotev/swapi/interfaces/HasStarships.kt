@@ -1,6 +1,6 @@
 package net.gotev.swapi.interfaces
 
-import net.gotev.swapi.extensions.mapAsync
+import net.gotev.swapi.extensions.parallelMap
 import net.gotev.swapi.swapiClient
 
 /**
@@ -9,5 +9,5 @@ import net.gotev.swapi.swapiClient
 interface HasStarships {
     val starshipsURLs: List<String>
 
-    suspend fun starships() = starshipsURLs.mapAsync { swapiClient.starship(it) }
+    suspend fun starships() = starshipsURLs.parallelMap { swapiClient.starship(it) }
 }

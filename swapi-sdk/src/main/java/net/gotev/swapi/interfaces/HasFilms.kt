@@ -1,6 +1,6 @@
 package net.gotev.swapi.interfaces
 
-import net.gotev.swapi.extensions.mapAsync
+import net.gotev.swapi.extensions.parallelMap
 import net.gotev.swapi.swapiClient
 
 /**
@@ -9,5 +9,5 @@ import net.gotev.swapi.swapiClient
 interface HasFilms {
     val filmsURLs: List<String>
 
-    suspend fun films() = filmsURLs.mapAsync { swapiClient.film(it) }
+    suspend fun films() = filmsURLs.parallelMap { swapiClient.film(it) }
 }

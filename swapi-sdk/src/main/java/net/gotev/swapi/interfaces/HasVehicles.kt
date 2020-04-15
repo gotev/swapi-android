@@ -1,6 +1,6 @@
 package net.gotev.swapi.interfaces
 
-import net.gotev.swapi.extensions.mapAsync
+import net.gotev.swapi.extensions.parallelMap
 import net.gotev.swapi.swapiClient
 
 /**
@@ -9,5 +9,5 @@ import net.gotev.swapi.swapiClient
 interface HasVehicles {
     val vehiclesURLs: List<String>
 
-    suspend fun vehicles() = vehiclesURLs.mapAsync { swapiClient.vehicle(it) }
+    suspend fun vehicles() = vehiclesURLs.parallelMap { swapiClient.vehicle(it) }
 }

@@ -1,6 +1,6 @@
 package net.gotev.swapi.interfaces
 
-import net.gotev.swapi.extensions.mapAsync
+import net.gotev.swapi.extensions.parallelMap
 import net.gotev.swapi.swapiClient
 
 /**
@@ -9,5 +9,5 @@ import net.gotev.swapi.swapiClient
 interface HasSpecies {
     val speciesURLs: List<String>
 
-    suspend fun species() = speciesURLs.mapAsync { swapiClient.specie(it) }
+    suspend fun species() = speciesURLs.parallelMap { swapiClient.specie(it) }
 }
