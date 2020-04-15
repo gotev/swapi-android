@@ -4,7 +4,7 @@
 - Demo App using the SDK with declarative/functional UI approach
 - API Mirror: https://gotev.github.io/swapi-android, to reduce loads on https://swapi.co/api/ origin server
 
-[Download Demo App](https://github.com/gotev/swapi-android/releases/download/1.0.0/app-debug.apk)
+[Download Demo App](https://github.com/gotev/swapi-android/releases/download/1.1.0/app-debug.apk)
 
 This project is the main subject of the talk `Declarative Dynamic UI`, hosted by [Android Developers Italia](https://androiddevs.it).
 
