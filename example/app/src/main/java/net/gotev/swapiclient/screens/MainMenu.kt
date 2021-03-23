@@ -28,8 +28,8 @@ class MainMenu : BaseFragment() {
             subtitle = "A SWAPI SDK + declarative programming demo"
         )
 
-        render(
-            Cell(
+        render {
+            +Cell(
                 model = Cell.Model(
                     title = "Films",
                     subtitle = "All the films in the saga"
@@ -37,9 +37,9 @@ class MainMenu : BaseFragment() {
                 onClick = {
                     openPagedList(FilmsService())
                 }
-            ),
+            )
 
-            Cell(
+            +Cell(
                 model = Cell.Model(
                     title = "Characters",
                     subtitle = "All the characters in the saga"
@@ -47,9 +47,9 @@ class MainMenu : BaseFragment() {
                 onClick = {
                     openPagedList(CharactersService())
                 }
-            ),
+            )
 
-            Cell(
+            +Cell(
                 model = Cell.Model(
                     title = "Species",
                     subtitle = "All the species in the saga"
@@ -57,9 +57,9 @@ class MainMenu : BaseFragment() {
                 onClick = {
                     openPagedList(SpeciesService())
                 }
-            ),
+            )
 
-            Cell(
+            +Cell(
                 model = Cell.Model(
                     title = "Planets",
                     subtitle = "All the planets in the saga"
@@ -67,9 +67,9 @@ class MainMenu : BaseFragment() {
                 onClick = {
                     openPagedList(PlanetsService())
                 }
-            ),
+            )
 
-            Cell(
+            +Cell(
                 model = Cell.Model(
                     title = "Vehicles",
                     subtitle = "All the vehicles in the saga"
@@ -77,9 +77,9 @@ class MainMenu : BaseFragment() {
                 onClick = {
                     openPagedList(VehiclesService())
                 }
-            ),
+            )
 
-            Cell(
+            +Cell(
                 model = Cell.Model(
                     title = "Starships",
                     subtitle = "All the starships in the saga"
@@ -88,6 +88,6 @@ class MainMenu : BaseFragment() {
                     openPagedList(StarshipsService())
                 }
             )
-        )
+        }
     }
 }

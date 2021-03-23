@@ -54,21 +54,21 @@ class Detail : BaseFragment() {
             return
         }
 
-        render(
-            *detail.mapCharacterBasicInfo(),
-            *detail.mapFilmBasicInfo(),
-            *detail.mapPlanetBasicInfo(),
-            *detail.mapSpecieBasicInfo(),
-            *detail.mapProducers(),
-            *detail.mapSkinColors(),
-            *detail.mapHairColors(),
-            *detail.mapEyeColors(),
-            *detail.mapClimates(),
-            *detail.mapTransportable(),
-            *detail.mapManufacturers(),
-            *detail.mapPurchasable(),
-            *detail.mapIdentifiable()
-        )
+        render {
+            +detail.mapCharacterBasicInfo()
+            +detail.mapFilmBasicInfo()
+            +detail.mapPlanetBasicInfo()
+            +detail.mapSpecieBasicInfo()
+            +detail.mapProducers()
+            +detail.mapSkinColors()
+            +detail.mapHairColors()
+            +detail.mapEyeColors()
+            +detail.mapClimates()
+            +detail.mapTransportable()
+            +detail.mapManufacturers()
+            +detail.mapPurchasable()
+            +detail.mapIdentifiable()
+        }
     }
 
     private fun Any.mapTransportable() = (this as? Transportable).applyOrEmpty {
