@@ -30,7 +30,7 @@ android {
 }
 
 def lifecycle_version = "2.2.0"
-def recyclerAdapterVersion = "3.1.0"
+def recyclerAdapterVersion = "3.1.1"
 
 dependencies {
     // Testing - https://developer.android.com/training/testing/set-up-project

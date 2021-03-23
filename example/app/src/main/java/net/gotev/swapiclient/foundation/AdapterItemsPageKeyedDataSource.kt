@@ -20,9 +20,7 @@ class AdapterItemsPageKeyedDataSource(
         val previousPage: Int?
     )
 
-    private fun load(page: Int): Response {
-        return runBlocking(scope.coroutineContext) { service(page) }
-    }
+    private fun load(page: Int): Response = runBlocking(scope.coroutineContext) { service(page) }
 
     override fun loadInitial(
         params: LoadInitialParams<Int>,

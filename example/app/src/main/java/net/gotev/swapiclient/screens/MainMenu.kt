@@ -34,9 +34,7 @@ class MainMenu : BaseFragment() {
                     title = "Films",
                     subtitle = "All the films in the saga"
                 ),
-                onClick = {
-                    openPagedList(FilmsService())
-                }
+                onClick = { openPagedList(FilmsService()) }
             )
 
             +Cell(
@@ -44,9 +42,7 @@ class MainMenu : BaseFragment() {
                     title = "Characters",
                     subtitle = "All the characters in the saga"
                 ),
-                onClick = {
-                    openPagedList(CharactersService())
-                }
+                onClick = { openPagedList(CharactersService()) }
             )
 
             +Cell(
@@ -54,9 +50,7 @@ class MainMenu : BaseFragment() {
                     title = "Species",
                     subtitle = "All the species in the saga"
                 ),
-                onClick = {
-                    openPagedList(SpeciesService())
-                }
+                onClick = { openPagedList(SpeciesService()) }
             )
 
             +Cell(
@@ -64,9 +58,7 @@ class MainMenu : BaseFragment() {
                     title = "Planets",
                     subtitle = "All the planets in the saga"
                 ),
-                onClick = {
-                    openPagedList(PlanetsService())
-                }
+                onClick = { openPagedList(PlanetsService()) }
             )
 
             +Cell(
@@ -74,9 +66,7 @@ class MainMenu : BaseFragment() {
                     title = "Vehicles",
                     subtitle = "All the vehicles in the saga"
                 ),
-                onClick = {
-                    openPagedList(VehiclesService())
-                }
+                onClick = { openPagedList(VehiclesService()) }
             )
 
             +Cell(
@@ -84,9 +74,7 @@ class MainMenu : BaseFragment() {
                     title = "Starships",
                     subtitle = "All the starships in the saga"
                 ),
-                onClick = {
-                    openPagedList(StarshipsService())
-                }
+                onClick = { openPagedList(StarshipsService()) }
             )
         }
     }

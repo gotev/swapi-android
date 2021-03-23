@@ -22,8 +22,3 @@ inline fun <T : Any> PagedResponse<T>.asResponseByMappingItem(mapper: (T) -> Ada
         nextPage = nextURL?.pageNumber(),
         previousPage = previousURL?.pageNumber()
     )
-
-inline fun <T, reified R> T?.applyOrEmpty(block: T.() -> Array<R>): Array<R> {
-    if (this == null) return emptyArray()
-    return block(this)
-}
