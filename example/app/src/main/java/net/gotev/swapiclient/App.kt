@@ -12,6 +12,6 @@ class App : Application() {
 
         initializeSwapiClient(this)
 
-        //LeakCanary.config = LeakCanary.config.copy(retainedVisibleThreshold = 1)
+        // LeakCanary.config = LeakCanary.config.copy(retainedVisibleThreshold = 1)
     }
 }

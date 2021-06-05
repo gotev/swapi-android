@@ -109,4 +109,3 @@ And you will see a complete report of actual and new dependencies versions.
 ## Release
 Library can be released:
 - **locally**: `./release local`. This is going to create a `releases` directory which can be used as a Maven Repository.
-- **publicly on Bintray**: `./release`

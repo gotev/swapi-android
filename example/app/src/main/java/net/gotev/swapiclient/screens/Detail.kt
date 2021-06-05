@@ -133,7 +133,7 @@ class Detail : BaseFragment() {
     }
 
     private fun Any.mapCharacterBasicInfo() = (this as? Character)?.let {
-        section(title ="Character Info") {
+        section(title = "Character Info") {
             +cell(name, "Name")
             +cell(birthYear, "Birth Year")
             +cell(height, "Height")

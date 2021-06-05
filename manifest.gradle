@@ -6,9 +6,6 @@ ext {
 
     maintainer = 'Aleksandar Gotev'
 
-    bintray_project_name = 'swapi-sdk'
-    library_description = 'SWAPI.co Kotlin Client for Android'
-    library_keywords = ['swapi', 'star', 'wars', 'client', 'kotlin', 'coroutines']
     library_licenses = ["Apache-2.0"]
     library_licenses_url = 'https://www.apache.org/licenses/LICENSE-2.0.txt'
     library_project_group = 'net.gotev'
@@ -21,8 +18,6 @@ ext {
     // Gradle classpath dependencies versions
     kotlin_version = '1.4.10'
     gradle_version = '4.1.3'
-    gradle_versions_plugin_version = '0.28.0'
-    bintray_plugin_version = '1.8.4'
     kotlin_lint_version = '9.0.0'
 
     // Library and app testing dependencies versions
